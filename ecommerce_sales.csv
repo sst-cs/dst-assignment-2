@@ -1,0 +1,2501 @@
+order_id,date,customer_id,product_name,category,price,quantity,discount_applied,payment_method,shipping_cost
+1521,2023-01-01,C481,Laptop Stand,Electronics,182.16,4,0.0,Gift Card,5.00
+1558,2023-01-01,C486,Bookshelf,Home,233.44,3,0.0,Credit Card,0.00
+1179,2023-01-01,C877,Sweater,Apparel,124.94,5,0.0,Gift Card,0.00
+2082,2023-01-01,C746,Bookshelf,Home,153.01,2,0.1,PayPal,0.00
+3027,2023-01-01,C999,Throw Pillow,Home,203.26,5,0.1,Credit Card,5.00
+1162,2023-01-02,C541,Olive Oil,Groceries,19.40,4,0.0,Debit Card,14.69
+2456,2023-01-02,C296,Gym Bag,Fitness,138.46,3,0.0,Debit Card,5.00
+1420,2023-01-02,C383,Sneakers,Apparel,103.96,3,0.0,Credit Card,10.00
+1302,2023-01-02,C282,Sweater,Apparel,40.60,5,0.15,Debit Card,0.00
+1978,2023-01-02,C274,Desk Lamp,Home,184.29,4,0.0,Debit Card,0.00
+2146,2023-01-02,C547,Bluetooth Speaker,Electronics,85.53,5,0.0,Gift Card,0.00
+1609,2023-01-03,C563,Shorts,Apparel,28.10,1,0.0,Credit Card,11.93
+2993,2023-01-03,C416,Dumbbell Set,Fitness,89.76,2,0.0,Credit Card,0.00
+1230,2023-01-04,C561,Shorts,Apparel,143.87,2,0.0,Credit Card,0.00
+2682,2023-01-04,C398,Throw Pillow,Home,266.51,3,0.05,Credit Card,0.00
+1682,2023-01-04,C461,Honey,Groceries,25.34,3,0.1,Credit Card,4.50
+1031,2023-01-04,C168,Wireless Mouse,Electronics,228.76,1,0.0,Gift Card,0.00
+2614,2023-01-04,C994,Webcam,Electronics,152.90,4,0.15,PayPal,5.00
+2673,2023-01-04,C536,Resistance Bands,Fitness,176.20,5,0.0,Debit Card,0.00
+3401,2023-01-05,C744,External Hard Drive,Electronics,428.13,3,,Debit Card,10.00
+2297,2023-01-05,C892,Protein Powder,Fitness,168.79,1,0.0,Credit Card,0.00
+1366,2023-01-05,C372,Treadmill,Fitness,140.10,5,,Gift Card,0.00
+1431,2023-01-05,C341,Gaming Monitor,Electronics,372.29,5,0.0,Gift Card,0.00
+2264,2023-01-05,C298,Laptop Stand,Electronics,44.56,3,0.0,Debit Card,0.00
+1390,2023-01-05,C628,Yoga Mat,Fitness,46.07,4,0.0,PayPal,0.00
+1149,2023-01-06,C279,Running Shoes,Apparel,17.86,5,0.05,Credit Card,6.98
+1844,2023-01-06,C885,Smart Watch,Electronics,497.19,2,0.0,Gift Card,5.00
+1796,2023-01-07,C390,Wireless Mouse,Electronics,303.45,3,0.05,PayPal,10.00
+1920,2023-01-07,C103,Olive Oil,Groceries,20.13,5,,Debit Card,5.00
+1290,2023-01-08,C557,Protein Powder,Fitness,29.05,5,0.0,Credit Card,0.00
+2356,2023-01-08,C450,Laptop Stand,Electronics,362.37,5,0.0,Credit Card,10.00
+2113,2023-01-08,C756,Office Chair,Home,183.90,1,0.0,PayPal,0.00
+1906,2023-01-08,C552,Coffee Maker,Home,282.85,5,0.0,PayPal,0.00
+2467,2023-01-08,C731,Mechanical Keyboard,Electronics,54.68,5,0.0,Gift Card,0.00
+2191,2023-01-08,C681,Wireless Mouse,Electronics,383.05,2,0.0,PayPal,0.00
+2472,2023-01-09,C721,Mechanical Keyboard,Electronics,354.69,5,0.05,Debit Card,5.00
+1859,2023-01-09,C323,Desk Lamp,Home,265.56,5,0.1,PayPal,0.00
+3053,2023-01-09,C650,Smart Watch,Electronics,494.52,2,0.05,Credit Card,5.00
+3019,2023-01-09,C847,Protein Powder,Fitness,47.80,2,0.0,Debit Card,3.11
+3471,2023-01-09,C871,Wall Art,Home,137.09,4,0.05,Gift Card,0.00
+1733,2023-01-10,C589,Table Lamp,Home,287.20,2,0.0,Gift Card,5.00
+2995,2023-01-10,C495,Rice,Groceries,14.52,2,0.0,Credit Card,13.59
+1183,2023-01-10,C458,Socks (3-Pack),Apparel,114.85,1,0.0,Debit Card,5.00
+2699,2023-01-10,C713,Cotton T-Shirt,Apparel,37.88,3,0.0,Credit Card,0.00
+2883,2023-01-10,C333,Socks (3-Pack),Apparel,66.82,2,0.0,Credit Card,0.00
+2440,2023-01-11,C532,Gaming Monitor,Electronics,138.76,3,0.05,Debit Card,10.00
+3045,2023-01-11,C261,Smart Watch,Electronics,67.34,3,0.2,Gift Card,0.00
+2713,2023-01-11,C286,Throw Pillow,Home,101.43,5,0.0,Gift Card,0.00
+1224,2023-01-11,C910,Mug,Home,196.70,5,0.05,Gift Card,10.00
+1745,2023-01-11,C831,External Hard Drive,Electronics,115.92,1,0.1,Credit Card,0.00
+1678,2023-01-11,C815,Mechanical Keyboard,Electronics,365.29,3,0.0,PayPal,5.00
+2040,2023-01-11,C775,Cotton T-Shirt,Apparel,102.46,1,0.0,Credit Card,10.00
+2293,2023-01-12,C836,Smart Watch,Electronics,474.20,1,0.0,Debit Card,10.00
+3382,2023-01-12,C360,Cotton T-Shirt,Apparel,83.26,3,0.1,Credit Card,0.00
+1483,2023-01-13,C834,Running Shoes,Apparel,97.81,3,0.0,Debit Card,0.00
+1590,2023-01-13,C486,Rice,Groceries,9.06,1,0.05,Debit Card,13.88
+1002,2023-01-13,C589,Sweater,Apparel,143.94,4,0.0,PayPal,0.00
+1463,2023-01-13,C161,Smart Watch,Electronics,97.19,1,0.15,Gift Card,5.14
+2373,2023-01-13,C288,Wireless Mouse,Electronics,201.73,2,0.0,Gift Card,0.00
+2602,2023-01-14,C658,Foam Roller,Fitness,136.95,5,0.0,Credit Card,0.00
+1767,2023-01-14,C525,Tea Bags,Groceries,13.37,3,0.05,Gift Card,13.62
+2965,2023-01-14,C730,External Hard Drive,Electronics,305.66,2,,PayPal,5.00
+3481,2023-01-14,C317,Dress Shirt,Apparel,18.51,1,0.0,Credit Card,9.49
+3186,2023-01-14,C512,Shorts,Apparel,25.57,1,,Credit Card,4.46
+1020,2023-01-14,C720,Hat,Apparel,137.79,5,0.1,Debit Card,0.00
+3235,2023-01-14,C208,Yoga Mat,Fitness,44.59,3,0.05,PayPal,5.00
+2034,2023-01-14,C932,Winter Jacket,Apparel,72.10,3,0.1,PayPal,5.00
+1712,2023-01-14,C751,Wireless Mouse,Electronics,383.91,5,0.05,Debit Card,0.00
+1707,2023-01-14,C175,Hat,Apparel,26.13,3,0.05,PayPal,3.53
+2465,2023-01-14,C739,Throw Pillow,Home,137.49,2,0.05,PayPal,10.00
+2231,2023-01-15,C688,Rice,Groceries,7.12,2,0.0,Credit Card,9.40
+1498,2023-01-15,C265,Mug,Home,227.98,1,0.0,Debit Card,5.00
+2976,2023-01-15,C378,Sneakers,Apparel,48.61,2,,PayPal,5.75
+2607,2023-01-15,C140,Desk Lamp,Home,130.92,2,0.15,Gift Card,0.00
+1830,2023-01-15,C627,Wall Art,Home,213.90,4,,Debit Card,10.00
+3309,2023-01-15,C589,Mechanical Keyboard,Electronics,18.81,5,0.0,Debit Card,7.35
+2105,2023-01-15,C866,Bluetooth Speaker,Electronics,224.42,1,,Gift Card,0.00
+1696,2023-01-15,C725,Office Chair,Home,44.02,1,0.0,Gift Card,7.82
+1014,2023-01-16,C438,USB-C Cable,Electronics,327.66,2,,PayPal,5.00
+2497,2023-01-16,C257,Honey,Groceries,11.91,4,0.05,Debit Card,4.71
+2623,2023-01-16,C140,Yoga Mat,Fitness,147.44,1,0.05,Gift Card,5.00
+1742,2023-01-16,C826,Tea Bags,Groceries,21.10,4,0.0,Debit Card,11.56
+3321,2023-01-16,C333,Winter Jacket,Apparel,47.99,1,0.0,Debit Card,13.29
+3153,2023-01-16,C310,Sneakers,Apparel,101.27,3,0.0,Debit Card,0.00
+1985,2023-01-17,C795,Sweater,Apparel,64.74,4,0.0,Debit Card,0.00
+1102,2023-01-17,C978,USB-C Cable,Electronics,10.33,4,0.05,Debit Card,13.59
+1013,2023-01-17,C443,External Hard Drive,Electronics,266.92,2,0.0,Debit Card,5.00
+3167,2023-01-17,C572,USB-C Cable,Electronics,53.84,1,0.0,Credit Card,4.31
+2414,2023-01-17,C765,Smartphone Case,Electronics,419.34,4,0.1,Debit Card,5.00
+1237,2023-01-17,C154,Blender,Home,91.09,2,0.05,Debit Card,5.00
+2323,2023-01-18,C504,Resistance Bands,Fitness,190.54,5,0.0,Credit Card,0.00
+3158,2023-01-18,C167,USB-C Cable,Electronics,347.84,3,,Debit Card,0.00
+1437,2023-01-19,C673,Treadmill,Fitness,30.84,3,0.0,Gift Card,10.50
+2213,2023-01-19,C413,Sweater,Apparel,126.09,3,0.0,Gift Card,5.00
+3092,2023-01-19,C119,Wall Art,Home,149.55,4,0.1,Credit Card,0.00
+2073,2023-01-19,C244,External Hard Drive,Electronics,421.01,2,,Credit Card,10.00
+2181,2023-01-19,C355,USB-C Cable,Electronics,345.34,3,,Gift Card,0.00
+3079,2023-01-19,C505,Hat,Apparel,10.54,5,0.05,Gift Card,6.06
+3443,2023-01-20,C717,Sneakers,Apparel,43.87,2,0.0,Gift Card,5.55
+2900,2023-01-20,C517,Rice,Groceries,28.40,1,0.0,Gift Card,14.31
+2390,2023-01-20,C226,Laptop Stand,Electronics,280.76,3,0.1,Gift Card,0.00
+2787,2023-01-20,C533,Wall Art,Home,57.87,4,0.2,Gift Card,0.00
+2984,2023-01-20,C175,Rice,Groceries,9.58,4,0.05,Gift Card,9.38
+1474,2023-01-20,C991,Protein Powder,Fitness,150.80,2,0.0,Debit Card,0.00
+1504,2023-01-20,C373,Dress Shirt,Apparel,48.80,1,0.0,Credit Card,8.64
+1447,2023-01-21,C677,USB-C Cable,Electronics,293.29,5,,PayPal,5.00
+2044,2023-01-21,C343,Wireless Mouse,Electronics,147.54,3,,Debit Card,5.00
+1343,2023-01-21,C291,Sweater,Apparel,112.54,3,0.05,Debit Card,0.00
+2029,2023-01-21,C884,Jeans,Apparel,70.16,4,0.0,Credit Card,5.00
+3441,2023-01-21,C107,Sneakers,Apparel,16.88,2,0.2,Gift Card,13.17
+2320,2023-01-21,C294,Water Bottle,Fitness,58.15,1,0.0,Gift Card,4.55
+1741,2023-01-21,C573,USB-C Cable,Electronics,196.77,4,0.0,Credit Card,0.00
+2820,2023-01-21,C649,USB-C Cable,Electronics,298.52,4,0.0,Debit Card,0.00
+1786,2023-01-22,C977,Office Chair,Home,224.27,3,0.1,Credit Card,0.00
+3084,2023-01-22,C221,Yoga Mat,Fitness,41.17,2,0.0,Gift Card,6.48
+2697,2023-01-22,C970,Desk Lamp,Home,188.82,4,0.0,PayPal,0.00
+2801,2023-01-22,C380,Smartphone Case,Electronics,214.03,1,0.1,Credit Card,5.00
+3138,2023-01-22,C347,Yoga Mat,Fitness,143.82,3,0.2,Gift Card,0.00
+3308,2023-01-22,C904,Gym Bag,Fitness,110.78,5,0.1,Gift Card,5.00
+1444,2023-01-22,C180,Shorts,Apparel,22.38,4,0.05,Credit Card,11.21
+2914,2023-01-23,C920,Jeans,Apparel,41.59,5,,Debit Card,0.00
+2491,2023-01-23,C576,Winter Jacket,Apparel,74.86,4,0.0,Debit Card,5.00
+3082,2023-01-23,C850,Wall Art,Home,45.44,4,0.05,Credit Card,0.00
+2171,2023-01-23,C610,Mechanical Keyboard,Electronics,339.76,3,0.05,Credit Card,0.00
+3064,2023-01-23,C666,Table Lamp,Home,255.10,5,0.1,Credit Card,0.00
+3048,2023-01-23,C486,Smart Watch,Electronics,315.52,1,0.05,Credit Card,0.00
+1518,2023-01-23,C194,Shorts,Apparel,99.78,5,0.1,PayPal,0.00
+1048,2023-01-23,C109,USB-C Cable,Electronics,192.87,5,0.15,Gift Card,0.00
+1419,2023-01-23,C147,Smart Watch,Electronics,21.02,3,0.0,Debit Card,5.31
+2389,2023-01-24,C380,Winter Jacket,Apparel,108.88,4,0.05,PayPal,10.00
+1911,2023-01-24,C210,Honey,Groceries,23.74,2,0.0,PayPal,14.96
+3409,2023-01-24,C385,Desk Lamp,Home,203.12,5,0.0,PayPal,0.00
+2232,2023-01-24,C964,Mechanical Keyboard,Electronics,274.64,1,0.0,Debit Card,0.00
+2668,2023-01-24,C706,Mechanical Keyboard,Electronics,433.63,3,,Gift Card,0.00
+1063,2023-01-24,C191,Running Shoes,Apparel,93.57,3,0.0,Gift Card,0.00
+3311,2023-01-24,C990,Running Shoes,Apparel,84.66,3,0.05,Gift Card,0.00
+3442,2023-01-24,C920,Wall Art,Home,90.63,1,0.0,Debit Card,4.97
+1591,2023-01-24,C573,Mechanical Keyboard,Electronics,34.39,5,0.0,Credit Card,10.00
+3391,2023-01-25,C977,Hat,Apparel,28.44,1,,PayPal,5.95
+3097,2023-01-25,C535,Protein Powder,Fitness,188.40,2,0.0,Debit Card,0.00
+3008,2023-01-25,C244,Treadmill,Fitness,30.26,1,0.15,PayPal,13.30
+1133,2023-01-25,C339,Bluetooth Speaker,Electronics,76.69,5,0.0,Gift Card,0.00
+1617,2023-01-26,C664,Wireless Mouse,Electronics,261.57,5,0.0,PayPal,0.00
+2642,2023-01-26,C696,Kettlebell,Fitness,153.68,5,0.05,Gift Card,5.00
+2300,2023-01-26,C305,Gaming Monitor,Electronics,176.46,1,0.0,Credit Card,10.00
+1719,2023-01-26,C476,Treadmill,Fitness,61.87,1,0.0,Credit Card,7.31
+2441,2023-01-26,C996,Wireless Mouse,Electronics,89.38,5,0.0,PayPal,0.00
+1287,2023-01-26,C423,Running Shoes,Apparel,31.67,5,0.15,Gift Card,0.00
+3392,2023-01-26,C102,Dress Shirt,Apparel,67.27,5,0.0,Gift Card,0.00
+1322,2023-01-26,C499,Winter Jacket,Apparel,113.26,4,0.0,Debit Card,0.00
+3364,2023-01-26,C288,Rug,Home,194.93,1,,Credit Card,0.00
+2638,2023-01-27,C141,Smart Watch,Electronics,449.22,1,0.2,Debit Card,0.00
+2095,2023-01-27,C178,Webcam,Electronics,19.88,5,0.0,Gift Card,5.33
+1735,2023-01-27,C107,Oats,Groceries,4.73,4,0.0,PayPal,13.92
+2475,2023-01-27,C468,Sneakers,Apparel,71.08,4,0.0,PayPal,0.00
+1414,2023-01-27,C219,Jump Rope,Fitness,144.00,3,0.0,Credit Card,0.00
+3489,2023-01-27,C387,Desk Lamp,Home,148.56,3,0.0,Gift Card,0.00
+2837,2023-01-27,C802,Bookshelf,Home,83.66,5,0.05,PayPal,5.00
+2944,2023-01-27,C829,Jump Rope,Fitness,147.13,3,0.0,Debit Card,0.00
+3411,2023-01-27,C450,Coffee Maker,Home,72.02,2,0.0,PayPal,5.00
+2574,2023-01-27,C641,Wireless Mouse,Electronics,170.41,5,0.0,Gift Card,0.00
+1928,2023-01-27,C976,Running Shoes,Apparel,59.09,4,0.1,Gift Card,0.00
+2087,2023-01-28,C430,Laptop Stand,Electronics,211.50,4,0.0,Credit Card,0.00
+1912,2023-01-28,C597,USB-C Cable,Electronics,66.02,4,,Debit Card,10.00
+2967,2023-01-28,C135,Running Shoes,Apparel,137.04,5,0.0,Debit Card,0.00
+1263,2023-01-28,C473,Kettlebell,Fitness,42.04,3,0.0,Gift Card,0.00
+1939,2023-01-28,C195,Laptop Stand,Electronics,457.23,2,0.0,Credit Card,0.00
+2672,2023-01-29,C298,Webcam,Electronics,94.09,5,0.1,Gift Card,0.00
+1100,2023-01-29,C507,Webcam,Electronics,414.18,4,0.1,PayPal,0.00
+2780,2023-01-29,C800,Mug,Home,177.90,5,0.2,Gift Card,10.00
+3271,2023-01-29,C955,Shorts,Apparel,11.10,5,0.0,Credit Card,13.78
+2234,2023-01-29,C998,Water Bottle,Fitness,33.39,4,,Debit Card,0.00
+1321,2023-01-30,C126,Gym Bag,Fitness,155.35,1,0.05,Credit Card,0.00
+1188,2023-01-30,C708,Throw Pillow,Home,210.06,4,,PayPal,0.00
+1316,2023-01-30,C557,Kettlebell,Fitness,126.60,4,0.0,Debit Card,0.00
+1328,2023-01-30,C293,Hat,Apparel,71.19,2,0.1,Gift Card,5.00
+3144,2023-01-30,C309,Socks (3-Pack),Apparel,67.34,3,,PayPal,10.00
+2788,2023-01-30,C151,Smartphone Case,Electronics,183.77,1,0.1,Gift Card,0.00
+1963,2023-01-31,C784,External Hard Drive,Electronics,127.86,4,0.2,PayPal,5.00
+2009,2023-01-31,C981,Sweater,Apparel,136.36,5,0.0,Debit Card,0.00
+3336,2023-01-31,C568,Webcam,Electronics,50.35,4,0.2,PayPal,5.00
+2563,2023-01-31,C336,Coffee Beans,Groceries,22.74,4,0.0,Credit Card,9.89
+1299,2023-01-31,C676,Winter Jacket,Apparel,116.05,4,0.15,Credit Card,0.00
+1234,2023-01-31,C660,Gym Bag,Fitness,130.19,2,0.1,PayPal,10.00
+1268,2023-02-01,C613,Dress Shirt,Apparel,60.94,1,0.1,Debit Card,12.09
+1672,2023-02-01,C375,USB-C Cable,Electronics,281.03,1,0.0,Debit Card,10.00
+2811,2023-02-01,C400,Honey,Groceries,21.43,3,0.1,Gift Card,8.18
+1319,2023-02-01,C633,Honey,Groceries,7.52,1,0.0,PayPal,14.29
+2428,2023-02-01,C707,USB-C Cable,Electronics,488.74,4,0.0,Gift Card,5.00
+2498,2023-02-01,C301,Webcam,Electronics,145.12,2,,PayPal,0.00
+1665,2023-02-02,C226,Office Chair,Home,69.84,5,0.1,Debit Card,5.00
+2380,2023-02-02,C668,Sweater,Apparel,107.77,2,0.1,Debit Card,5.00
+1222,2023-02-02,C487,Winter Jacket,Apparel,21.04,4,0.0,Gift Card,8.36
+3077,2023-02-02,C379,Desk Lamp,Home,232.74,3,0.05,Credit Card,0.00
+2480,2023-02-02,C581,Olive Oil,Groceries,9.38,2,0.0,Credit Card,6.23
+1141,2023-02-02,C504,Dress Shirt,Apparel,105.65,2,0.15,PayPal,0.00
+3014,2023-02-02,C779,Shorts,Apparel,68.20,4,0.05,Credit Card,0.00
+3245,2023-02-03,C172,Sweater,Apparel,116.91,5,0.05,Gift Card,5.00
+3216,2023-02-03,C213,Laptop Stand,Electronics,397.41,4,0.05,PayPal,0.00
+1106,2023-02-03,C589,Webcam,Electronics,53.77,1,0.0,PayPal,4.65
+2512,2023-02-03,C475,Bookshelf,Home,204.83,1,,PayPal,0.00
+1932,2023-02-03,C691,Dress Shirt,Apparel,146.83,2,0.0,Debit Card,0.00
+2841,2023-02-03,C712,Dress Shirt,Apparel,109.47,2,0.15,Debit Card,0.00
+3055,2023-02-04,C633,Dress Shirt,Apparel,99.29,3,0.0,PayPal,5.00
+1236,2023-02-04,C783,Wall Art,Home,96.49,4,0.05,Credit Card,0.00
+3039,2023-02-04,C401,Cotton T-Shirt,Apparel,52.66,5,0.05,PayPal,0.00
+1334,2023-02-04,C249,Webcam,Electronics,44.98,4,0.15,PayPal,5.00
+2554,2023-02-04,C773,Webcam,Electronics,378.63,1,0.15,Credit Card,0.00
+2773,2023-02-04,C504,Gym Bag,Fitness,198.04,2,0.0,Gift Card,0.00
+3160,2023-02-04,C416,Mechanical Keyboard,Electronics,80.66,3,0.0,Gift Card,0.00
+1739,2023-02-05,C650,Gaming Monitor,Electronics,352.04,2,0.0,Credit Card,10.00
+2447,2023-02-05,C352,Table Lamp,Home,254.33,3,0.1,Gift Card,0.00
+1489,2023-02-05,C855,Winter Jacket,Apparel,62.57,2,,Gift Card,0.00
+1792,2023-02-05,C218,Gaming Monitor,Electronics,53.68,5,0.1,Credit Card,0.00
+1062,2023-02-05,C879,Mechanical Keyboard,Electronics,52.78,4,0.05,Gift Card,0.00
+1332,2023-02-05,C204,Mechanical Keyboard,Electronics,360.45,1,0.0,Gift Card,0.00
+1378,2023-02-05,C491,Shorts,Apparel,132.18,2,0.05,Gift Card,10.00
+2620,2023-02-05,C313,Tea Bags,Groceries,8.25,5,0.0,Credit Card,7.74
+2140,2023-02-05,C413,External Hard Drive,Electronics,101.22,1,0.05,Gift Card,5.00
+1529,2023-02-05,C689,Smart Watch,Electronics,89.80,1,0.0,Debit Card,7.29
+1194,2023-02-05,C414,Sweater,Apparel,62.04,5,0.15,Gift Card,0.00
+2215,2023-02-05,C119,Resistance Bands,Fitness,49.64,3,0.0,PayPal,0.00
+1992,2023-02-06,C794,Table Lamp,Home,128.75,1,0.15,PayPal,0.00
+1239,2023-02-06,C674,Hat,Apparel,119.80,3,0.0,Gift Card,0.00
+2008,2023-02-06,C463,Oats,Groceries,26.83,4,0.2,PayPal,0.00
+1084,2023-02-06,C701,Laptop Stand,Electronics,424.30,5,0.05,PayPal,10.00
+2695,2023-02-06,C703,Bluetooth Speaker,Electronics,178.23,5,0.0,Debit Card,5.00
+1231,2023-02-06,C543,Water Bottle,Fitness,185.63,2,0.0,Debit Card,0.00
+3253,2023-02-07,C137,Sneakers,Apparel,24.24,4,0.1,Gift Card,4.47
+2783,2023-02-07,C223,Sweater,Apparel,83.07,2,0.0,PayPal,0.00
+2270,2023-02-07,C755,Dress Shirt,Apparel,103.38,3,0.0,Credit Card,5.00
+3257,2023-02-07,C889,Gym Bag,Fitness,86.54,2,0.0,PayPal,10.00
+3334,2023-02-07,C325,Running Shoes,Apparel,46.66,4,,Gift Card,5.00
+1595,2023-02-07,C368,USB-C Cable,Electronics,454.59,3,0.05,Credit Card,0.00
+1371,2023-02-07,C737,Coffee Maker,Home,213.10,1,0.15,Credit Card,0.00
+3418,2023-02-07,C301,Gaming Monitor,Electronics,151.74,1,0.05,Debit Card,0.00
+1365,2023-02-07,C233,Water Bottle,Fitness,116.27,4,0.05,Debit Card,0.00
+1935,2023-02-07,C824,Running Shoes,Apparel,90.05,1,0.0,Gift Card,10.61
+3205,2023-02-07,C832,Sneakers,Apparel,112.96,4,0.0,PayPal,0.00
+2507,2023-02-07,C738,Running Shoes,Apparel,118.50,1,0.1,Debit Card,0.00
+1774,2023-02-08,C686,Treadmill,Fitness,164.70,3,0.15,Gift Card,0.00
+1283,2023-02-08,C775,Smartphone Case,Electronics,274.25,1,0.1,Gift Card,0.00
+1433,2023-02-08,C710,Kettlebell,Fitness,72.21,1,,Debit Card,13.65
+2346,2023-02-08,C645,Honey,Groceries,7.27,5,0.05,PayPal,11.28
+2755,2023-02-08,C800,Desk Lamp,Home,78.22,3,,Credit Card,0.00
+1976,2023-02-08,C817,Throw Pillow,Home,257.98,2,0.05,Debit Card,0.00
+3145,2023-02-08,C138,External Hard Drive,Electronics,277.96,2,0.0,PayPal,0.00
+2196,2023-02-08,C991,Jeans,Apparel,77.76,4,,Credit Card,0.00
+2701,2023-02-09,C321,Bookshelf,Home,191.52,2,0.0,Credit Card,0.00
+1648,2023-02-09,C408,External Hard Drive,Electronics,173.90,2,0.05,Debit Card,0.00
+2791,2023-02-09,C389,Kettlebell,Fitness,82.91,2,0.15,Gift Card,0.00
+2735,2023-02-09,C465,External Hard Drive,Electronics,203.23,1,0.15,Credit Card,0.00
+2894,2023-02-09,C964,Smartphone Case,Electronics,279.86,3,0.05,PayPal,0.00
+3175,2023-02-09,C717,Gym Bag,Fitness,14.58,2,0.0,PayPal,10.01
+3125,2023-02-10,C573,Laptop Stand,Electronics,377.80,5,0.2,PayPal,5.00
+3284,2023-02-10,C528,Bookshelf,Home,229.76,1,0.05,Credit Card,0.00
+1067,2023-02-10,C106,Tea Bags,Groceries,25.72,4,0.0,PayPal,0.00
+1191,2023-02-10,C697,Mug,Home,247.56,3,0.0,Gift Card,10.00
+2728,2023-02-10,C502,Wireless Mouse,Electronics,289.81,3,0.05,Gift Card,0.00
+3117,2023-02-10,C166,Pasta,Groceries,8.67,4,0.05,PayPal,13.66
+2248,2023-02-10,C784,Rug,Home,155.45,5,0.0,Debit Card,5.00
+1053,2023-02-10,C488,Sneakers,Apparel,17.86,1,0.0,Gift Card,10.74
+2994,2023-02-10,C438,Webcam,Electronics,129.69,3,0.0,Credit Card,0.00
+1330,2023-02-11,C860,Socks (3-Pack),Apparel,67.81,1,0.0,Gift Card,10.41
+2508,2023-02-11,C131,Sweater,Apparel,26.55,2,0.2,Gift Card,10.06
+1971,2023-02-11,C254,Dress Shirt,Apparel,81.11,1,0.0,Credit Card,10.78
+2853,2023-02-11,C101,Gym Bag,Fitness,71.55,4,0.15,PayPal,5.00
+3310,2023-02-11,C321,Treadmill,Fitness,150.05,1,0.0,Debit Card,0.00
+1731,2023-02-11,C303,Webcam,Electronics,149.07,2,0.05,Gift Card,0.00
+2973,2023-02-11,C786,Foam Roller,Fitness,39.31,2,0.2,Gift Card,3.69
+2644,2023-02-11,C634,External Hard Drive,Electronics,393.93,5,0.2,Debit Card,0.00
+2027,2023-02-11,C142,USB-C Cable,Electronics,258.73,3,0.0,Debit Card,0.00
+1345,2023-02-11,C119,Bookshelf,Home,236.16,2,0.0,Gift Card,0.00
+1656,2023-02-11,C550,Rug,Home,223.54,4,0.0,Debit Card,0.00
+2204,2023-02-11,C202,Winter Jacket,Apparel,93.76,3,0.05,Credit Card,5.00
+2954,2023-02-12,C670,Mechanical Keyboard,Electronics,112.47,3,0.0,Gift Card,0.00
+1713,2023-02-12,C154,Throw Pillow,Home,263.76,5,0.15,Debit Card,5.00
+3115,2023-02-12,C903,Running Shoes,Apparel,81.66,1,0.05,Debit Card,6.51
+2866,2023-02-13,C990,Cotton T-Shirt,Apparel,109.44,1,0.0,Gift Card,0.00
+2556,2023-02-13,C928,Hat,Apparel,24.96,2,0.05,Debit Card,3.98
+1847,2023-02-13,C489,Socks (3-Pack),Apparel,108.02,2,0.0,Credit Card,0.00
+2637,2023-02-13,C967,Hat,Apparel,100.18,2,0.2,PayPal,0.00
+1944,2023-02-13,C241,Mechanical Keyboard,Electronics,141.12,4,0.0,PayPal,0.00
+1576,2023-02-13,C959,Coffee Maker,Home,82.27,5,0.15,PayPal,0.00
+1192,2023-02-13,C787,Socks (3-Pack),Apparel,128.36,5,0.0,Debit Card,5.00
+2816,2023-02-13,C506,Mug,Home,188.35,2,0.0,Gift Card,0.00
+3036,2023-02-13,C276,USB-C Cable,Electronics,473.22,3,0.05,Debit Card,0.00
+1010,2023-02-14,C304,Jump Rope,Fitness,71.02,1,0.0,Debit Card,9.42
+3244,2023-02-14,C928,Wireless Mouse,Electronics,165.03,2,,Credit Card,0.00
+1820,2023-02-14,C800,Running Shoes,Apparel,56.11,1,0.0,PayPal,4.76
+3210,2023-02-14,C784,Honey,Groceries,15.23,1,0.1,Gift Card,14.22
+2720,2023-02-15,C591,Socks (3-Pack),Apparel,114.56,3,0.0,Debit Card,0.00
+2075,2023-02-15,C633,USB-C Cable,Electronics,154.52,1,0.15,Credit Card,0.00
+2354,2023-02-16,C440,Coffee Maker,Home,263.53,5,,Credit Card,0.00
+2555,2023-02-16,C375,Coffee Maker,Home,34.59,5,,Gift Card,0.00
+2056,2023-02-16,C764,Gaming Monitor,Electronics,479.73,2,0.2,Gift Card,0.00
+2327,2023-02-16,C305,Coffee Beans,Groceries,13.57,2,0.05,Debit Card,5.21
+3383,2023-02-16,C717,Winter Jacket,Apparel,146.65,5,,Debit Card,0.00
+2035,2023-02-16,C350,Socks (3-Pack),Apparel,54.64,5,0.0,Gift Card,5.00
+2961,2023-02-16,C322,Gym Bag,Fitness,163.16,1,0.0,Credit Card,0.00
+2793,2023-02-16,C464,Blender,Home,250.27,4,0.05,Credit Card,0.00
+1132,2023-02-16,C233,Smart Watch,Electronics,426.95,4,0.1,PayPal,0.00
+2221,2023-02-16,C435,Throw Pillow,Home,173.65,3,0.0,Credit Card,5.00
+2434,2023-02-16,C648,Desk Lamp,Home,87.16,1,0.0,Gift Card,6.52
+2624,2023-02-16,C435,Almonds,Groceries,15.47,5,0.1,Credit Card,3.13
+2877,2023-02-17,C850,Smartphone Case,Electronics,398.59,5,0.2,Debit Card,5.00
+1415,2023-02-17,C343,Socks (3-Pack),Apparel,40.26,3,0.0,Credit Card,5.00
+2557,2023-02-17,C272,Smartphone Case,Electronics,353.34,1,0.0,Debit Card,5.00
+2116,2023-02-17,C729,Mechanical Keyboard,Electronics,242.98,1,0.15,Credit Card,0.00
+1015,2023-02-17,C681,Blender,Home,65.02,4,0.05,Credit Card,0.00
+1041,2023-02-17,C812,Blender,Home,128.04,2,0.1,Gift Card,0.00
+1291,2023-02-17,C751,Gaming Monitor,Electronics,413.40,4,0.0,Credit Card,0.00
+1583,2023-02-17,C361,Winter Jacket,Apparel,51.64,2,0.05,Gift Card,5.00
+3295,2023-02-17,C115,Shorts,Apparel,118.48,3,0.05,Gift Card,0.00
+1860,2023-02-17,C325,Smart Watch,Electronics,280.55,2,0.05,PayPal,0.00
+2544,2023-02-18,C568,Sweater,Apparel,37.88,1,,Debit Card,3.04
+2843,2023-02-18,C936,Smartphone Case,Electronics,112.94,2,0.05,Credit Card,5.00
+1255,2023-02-18,C699,Gaming Monitor,Electronics,185.27,5,0.1,PayPal,0.00
+2317,2023-02-19,C346,Bookshelf,Home,295.55,4,0.0,Gift Card,0.00
+2394,2023-02-19,C171,Hat,Apparel,18.70,4,0.0,Debit Card,9.58
+3363,2023-02-19,C962,Cotton T-Shirt,Apparel,102.47,1,0.05,PayPal,10.00
+1043,2023-02-19,C427,Tea Bags,Groceries,11.45,1,0.0,Debit Card,3.19
+1256,2023-02-19,C388,Water Bottle,Fitness,82.47,1,0.05,Debit Card,11.96
+3429,2023-02-19,C719,Smart Watch,Electronics,463.61,2,0.0,Credit Card,0.00
+2559,2023-02-19,C847,Resistance Bands,Fitness,103.60,2,,Debit Card,0.00
+1267,2023-02-20,C656,Gym Bag,Fitness,99.70,2,0.0,PayPal,0.00
+2529,2023-02-20,C703,Office Chair,Home,150.24,4,0.15,Debit Card,10.00
+2978,2023-02-20,C494,Wireless Mouse,Electronics,259.27,3,0.0,Gift Card,0.00
+2409,2023-02-20,C567,Pasta,Groceries,6.25,1,0.15,Debit Card,3.17
+1965,2023-02-20,C852,Dumbbell Set,Fitness,24.28,4,,Credit Card,11.05
+2223,2023-02-20,C579,Laptop Stand,Electronics,173.18,3,0.1,Credit Card,0.00
+2422,2023-02-20,C433,Bookshelf,Home,171.31,4,0.1,Debit Card,0.00
+1286,2023-02-20,C105,Desk Lamp,Home,179.73,1,0.0,Debit Card,0.00
+1370,2023-02-21,C582,Bluetooth Speaker,Electronics,372.61,2,0.05,PayPal,0.00
+2896,2023-02-21,C891,Blender,Home,211.66,5,0.0,Debit Card,10.00
+2226,2023-02-21,C852,Gaming Monitor,Electronics,487.37,1,0.1,Credit Card,0.00
+1069,2023-02-21,C507,Cereal,Groceries,22.84,4,0.1,PayPal,7.51
+2186,2023-02-21,C527,Dark Chocolate,Groceries,6.27,5,0.05,Credit Card,8.26
+1899,2023-02-21,C859,Hat,Apparel,123.05,2,,Gift Card,0.00
+2188,2023-02-21,C227,Smart Watch,Electronics,381.39,5,0.0,Debit Card,0.00
+3124,2023-02-22,C723,Office Chair,Home,248.70,3,0.0,Gift Card,5.00
+2747,2023-02-22,C434,Olive Oil,Groceries,19.10,4,0.1,Debit Card,11.41
+1919,2023-02-22,C569,Oats,Groceries,26.34,1,0.05,PayPal,9.25
+1007,2023-02-22,C651,External Hard Drive,Electronics,351.12,2,0.1,Debit Card,0.00
+1040,2023-02-22,C440,Cotton T-Shirt,Apparel,39.65,2,0.0,Gift Card,13.97
+2949,2023-02-22,C990,Olive Oil,Groceries,9.47,5,0.0,Gift Card,4.47
+1453,2023-02-22,C218,USB-C Cable,Electronics,205.38,3,0.15,Debit Card,0.00
+1779,2023-02-22,C340,Running Shoes,Apparel,11.33,3,0.0,Credit Card,4.16
+2813,2023-02-22,C472,Sneakers,Apparel,57.59,1,0.1,PayPal,12.22
+1395,2023-02-23,C489,Mechanical Keyboard,Electronics,457.00,5,0.15,Debit Card,5.00
+2579,2023-02-23,C326,Blender,Home,120.70,1,0.15,Gift Card,0.00
+3060,2023-02-23,C639,Mechanical Keyboard,Electronics,261.71,2,0.05,Credit Card,0.00
+2063,2023-02-23,C997,Jeans,Apparel,26.91,3,0.1,Gift Card,11.91
+1399,2023-02-24,C181,Desk Lamp,Home,84.74,5,0.05,Debit Card,0.00
+1799,2023-02-24,C406,Olive Oil,Groceries,29.76,5,0.0,Gift Card,10.00
+3354,2023-02-24,C755,Desk Lamp,Home,47.19,3,0.05,Gift Card,0.00
+2284,2023-02-24,C184,Winter Jacket,Apparel,71.96,1,0.0,PayPal,3.32
+2722,2023-02-24,C773,Office Chair,Home,126.86,5,0.1,Credit Card,0.00
+1610,2023-02-24,C660,Honey,Groceries,5.50,3,0.2,Gift Card,4.07
+1167,2023-02-24,C550,Winter Jacket,Apparel,127.19,5,,Credit Card,0.00
+3402,2023-02-25,C270,Foam Roller,Fitness,75.95,3,0.0,PayPal,0.00
+1472,2023-02-25,C707,Webcam,Electronics,40.87,5,0.0,Gift Card,10.00
+2503,2023-02-25,C955,Wall Art,Home,209.54,5,0.0,Credit Card,0.00
+2587,2023-02-25,C879,Webcam,Electronics,85.43,1,0.0,Gift Card,3.09
+2486,2023-02-25,C577,Dark Chocolate,Groceries,12.56,5,0.1,Gift Card,12.02
+1271,2023-02-25,C910,Sneakers,Apparel,138.51,1,,PayPal,0.00
+2369,2023-02-25,C844,Water Bottle,Fitness,78.04,4,0.0,Gift Card,0.00
+1505,2023-02-25,C644,Wall Art,Home,271.34,4,0.1,Credit Card,0.00
+1765,2023-02-25,C256,Coffee Maker,Home,88.33,4,0.0,Gift Card,0.00
+3475,2023-02-26,C869,Water Bottle,Fitness,76.89,2,0.0,Credit Card,0.00
+2463,2023-02-26,C470,Yoga Mat,Fitness,17.80,1,0.05,PayPal,4.53
+3003,2023-02-26,C231,Rug,Home,221.21,2,0.05,PayPal,0.00
+3015,2023-02-26,C910,Tea Bags,Groceries,22.19,2,0.0,Credit Card,4.84
+2659,2023-02-26,C553,Coffee Maker,Home,29.34,3,0.0,Credit Card,13.75
+1134,2023-02-26,C516,Laptop Stand,Electronics,482.67,2,0.0,Credit Card,0.00
+1432,2023-02-27,C199,Protein Powder,Fitness,68.53,4,,Credit Card,0.00
+1001,2023-02-27,C893,Rug,Home,263.75,1,0.05,PayPal,10.00
+1184,2023-02-27,C898,Pasta,Groceries,20.48,2,0.0,Credit Card,13.38
+1157,2023-02-27,C190,Treadmill,Fitness,94.86,3,0.05,PayPal,0.00
+1752,2023-02-28,C204,Mug,Home,63.87,1,0.2,Gift Card,11.13
+1762,2023-02-28,C350,Shorts,Apparel,44.86,3,0.2,Debit Card,0.00
+2001,2023-02-28,C791,Coffee Maker,Home,100.75,3,0.15,Gift Card,0.00
+2118,2023-02-28,C494,Bookshelf,Home,103.85,5,0.0,Debit Card,10.00
+2344,2023-02-28,C254,Cereal,Groceries,25.70,3,0.0,Gift Card,8.70
+1931,2023-02-28,C685,Pasta,Groceries,18.00,4,0.05,Credit Card,12.62
+2479,2023-02-28,C419,Gaming Monitor,Electronics,123.59,1,0.05,Debit Card,0.00
+1151,2023-02-28,C251,Coffee Maker,Home,235.69,5,0.2,PayPal,5.00
+3185,2023-02-28,C313,Yoga Mat,Fitness,21.58,1,0.0,PayPal,11.93
+2591,2023-02-28,C913,Sweater,Apparel,46.43,2,0.1,Credit Card,5.36
+2738,2023-02-28,C758,Mug,Home,228.54,1,,Debit Card,0.00
+2711,2023-02-28,C335,Blender,Home,35.73,2,0.15,Credit Card,12.59
+2531,2023-02-28,C104,Cotton T-Shirt,Apparel,41.05,4,0.0,Credit Card,10.00
+2656,2023-02-28,C498,Wireless Mouse,Electronics,67.22,4,0.0,Debit Card,5.00
+1513,2023-03-01,C219,Laptop Stand,Electronics,291.52,4,0.0,Credit Card,0.00
+2079,2023-03-01,C742,Mechanical Keyboard,Electronics,297.31,2,0.0,Debit Card,0.00
+2387,2023-03-01,C973,Smart Watch,Electronics,110.08,3,,Gift Card,0.00
+2393,2023-03-01,C635,Bluetooth Speaker,Electronics,55.01,3,0.0,Gift Card,0.00
+1398,2023-03-01,C656,Foam Roller,Fitness,177.71,2,0.05,Gift Card,0.00
+1499,2023-03-01,C515,Laptop Stand,Electronics,317.14,1,0.0,PayPal,0.00
+3192,2023-03-02,C350,Almonds,Groceries,28.10,5,0.0,PayPal,0.00
+3427,2023-03-02,C738,Table Lamp,Home,27.25,4,0.1,Gift Card,10.00
+1946,2023-03-02,C205,Mug,Home,103.80,2,0.0,Gift Card,0.00
+2120,2023-03-02,C671,Treadmill,Fitness,43.82,3,0.1,PayPal,5.00
+1784,2023-03-03,C776,Laptop Stand,Electronics,18.15,3,0.2,PayPal,11.14
+1219,2023-03-03,C804,Office Chair,Home,138.36,2,0.05,Gift Card,0.00
+1884,2023-03-03,C585,Almonds,Groceries,4.61,3,0.1,Debit Card,6.54
+1887,2023-03-03,C778,Rug,Home,253.67,2,,PayPal,0.00
+2681,2023-03-03,C917,Smartphone Case,Electronics,348.98,2,0.05,PayPal,0.00
+1338,2023-03-03,C341,Bookshelf,Home,19.29,3,0.0,Debit Card,3.11
+1620,2023-03-04,C992,Resistance Bands,Fitness,45.17,5,0.05,Gift Card,0.00
+3203,2023-03-04,C675,Mechanical Keyboard,Electronics,234.56,1,,Debit Card,0.00
+3358,2023-03-04,C485,Cereal,Groceries,20.91,1,0.05,Credit Card,4.24
+3230,2023-03-04,C548,Sweater,Apparel,84.22,1,,Debit Card,9.70
+2432,2023-03-04,C665,Water Bottle,Fitness,51.15,4,,Debit Card,0.00
+2104,2023-03-04,C626,Office Chair,Home,277.55,4,0.0,Credit Card,0.00
+2569,2023-03-04,C584,Gym Bag,Fitness,22.41,4,0.05,Gift Card,5.41
+3007,2023-03-04,C384,Throw Pillow,Home,123.73,1,0.05,Credit Card,5.00
+2359,2023-03-05,C109,Bookshelf,Home,263.00,5,,Gift Card,0.00
+2952,2023-03-05,C888,Running Shoes,Apparel,144.55,1,,Credit Card,0.00
+1051,2023-03-05,C734,Sweater,Apparel,47.43,4,,Gift Card,0.00
+3101,2023-03-05,C456,Mechanical Keyboard,Electronics,353.74,5,,Debit Card,0.00
+3272,2023-03-05,C864,Shorts,Apparel,121.26,1,,PayPal,0.00
+1535,2023-03-05,C178,Mechanical Keyboard,Electronics,462.47,4,0.05,Debit Card,5.00
+2016,2023-03-05,C815,Jeans,Apparel,148.44,5,0.0,Gift Card,0.00
+1916,2023-03-06,C155,Webcam,Electronics,177.59,3,0.0,Gift Card,0.00
+3254,2023-03-06,C493,Water Bottle,Fitness,111.00,2,0.1,Debit Card,0.00
+2444,2023-03-06,C109,Jeans,Apparel,54.73,2,0.1,Debit Card,0.00
+3290,2023-03-06,C313,Blender,Home,69.93,2,0.0,Debit Card,0.00
+1196,2023-03-06,C523,Mechanical Keyboard,Electronics,77.31,2,0.2,Gift Card,0.00
+2182,2023-03-06,C984,Mechanical Keyboard,Electronics,234.31,2,0.15,Debit Card,0.00
+1749,2023-03-06,C741,Bluetooth Speaker,Electronics,467.82,4,0.0,Debit Card,0.00
+2476,2023-03-06,C375,Socks (3-Pack),Apparel,76.99,2,0.05,Debit Card,5.00
+1909,2023-03-06,C674,Gaming Monitor,Electronics,152.42,2,0.15,Debit Card,0.00
+3159,2023-03-06,C480,Pasta,Groceries,25.69,1,,Gift Card,11.58
+2513,2023-03-06,C139,Almonds,Groceries,29.68,5,,Debit Card,5.00
+3263,2023-03-07,C954,Coffee Maker,Home,150.17,5,0.0,PayPal,0.00
+3428,2023-03-07,C777,Socks (3-Pack),Apparel,147.41,5,0.0,PayPal,5.00
+2872,2023-03-07,C926,Gaming Monitor,Electronics,164.34,4,,Credit Card,5.00
+1704,2023-03-07,C439,Foam Roller,Fitness,192.98,5,0.0,Credit Card,0.00
+1546,2023-03-07,C494,Smartphone Case,Electronics,370.73,4,0.0,Gift Card,0.00
+1197,2023-03-07,C983,Office Chair,Home,153.96,2,0.0,Gift Card,0.00
+1443,2023-03-07,C821,Shorts,Apparel,77.41,1,0.1,PayPal,8.58
+3242,2023-03-08,C260,Bluetooth Speaker,Electronics,354.38,1,0.15,Debit Card,0.00
+2686,2023-03-08,C644,Hat,Apparel,30.99,5,0.0,Gift Card,5.00
+2459,2023-03-08,C763,Treadmill,Fitness,56.67,4,0.15,Gift Card,0.00
+3268,2023-03-08,C250,Running Shoes,Apparel,116.62,4,0.05,Gift Card,0.00
+1422,2023-03-08,C275,Smartphone Case,Electronics,447.20,5,0.0,Gift Card,10.00
+2863,2023-03-08,C546,Mechanical Keyboard,Electronics,79.05,4,0.05,Gift Card,0.00
+3350,2023-03-08,C929,Coffee Maker,Home,233.52,5,0.0,Debit Card,0.00
+2561,2023-03-08,C731,Dumbbell Set,Fitness,144.31,3,0.0,Credit Card,0.00
+2099,2023-03-09,C691,Honey,Groceries,23.82,4,0.05,PayPal,6.99
+1376,2023-03-09,C800,Socks (3-Pack),Apparel,43.07,5,0.0,PayPal,5.00
+2333,2023-03-09,C496,Winter Jacket,Apparel,105.60,5,0.2,Gift Card,0.00
+2904,2023-03-09,C876,Protein Powder,Fitness,73.49,1,0.05,Credit Card,3.87
+2326,2023-03-09,C842,Shorts,Apparel,11.99,2,0.2,Debit Card,7.20
+1359,2023-03-09,C509,Blender,Home,224.27,3,0.0,Credit Card,0.00
+2466,2023-03-09,C462,Protein Powder,Fitness,14.36,5,0.0,Gift Card,5.44
+1247,2023-03-09,C870,Rug,Home,299.04,1,0.0,Debit Card,10.00
+3404,2023-03-10,C955,Socks (3-Pack),Apparel,110.56,5,0.0,Credit Card,10.00
+1396,2023-03-10,C283,Yoga Mat,Fitness,89.72,3,0.2,PayPal,0.00
+1622,2023-03-10,C932,Tea Bags,Groceries,21.65,4,0.0,Debit Card,3.17
+3063,2023-03-10,C434,Jump Rope,Fitness,56.41,5,0.05,Credit Card,10.00
+2397,2023-03-11,C430,Dress Shirt,Apparel,12.70,3,0.05,Gift Card,9.60
+1716,2023-03-11,C753,Rice,Groceries,20.54,2,0.0,Debit Card,7.75
+3076,2023-03-11,C558,Smartphone Case,Electronics,258.54,5,0.0,PayPal,0.00
+3204,2023-03-11,C230,Table Lamp,Home,34.56,1,0.05,PayPal,14.36
+2139,2023-03-11,C990,Olive Oil,Groceries,14.38,3,0.15,Debit Card,13.96
+2942,2023-03-12,C346,Laptop Stand,Electronics,425.69,5,0.0,PayPal,0.00
+2677,2023-03-12,C744,Jeans,Apparel,22.07,4,0.05,Credit Card,12.33
+1129,2023-03-12,C844,Winter Jacket,Apparel,84.17,2,0.2,Debit Card,5.00
+2315,2023-03-12,C201,Jeans,Apparel,134.93,3,,Debit Card,0.00
+2983,2023-03-12,C262,Office Chair,Home,192.48,4,,Credit Card,0.00
+1657,2023-03-12,C568,External Hard Drive,Electronics,433.00,1,0.0,Credit Card,5.00
+2892,2023-03-12,C983,Coffee Maker,Home,273.35,3,0.05,PayPal,0.00
+3177,2023-03-12,C540,Dress Shirt,Apparel,149.07,3,0.1,Gift Card,0.00
+3444,2023-03-12,C798,Smartphone Case,Electronics,499.16,4,0.0,Debit Card,0.00
+1118,2023-03-13,C859,Coffee Maker,Home,49.04,2,0.0,PayPal,9.28
+3232,2023-03-13,C579,Webcam,Electronics,61.83,1,0.05,Gift Card,14.71
+2988,2023-03-13,C312,Rice,Groceries,27.30,3,0.05,Gift Card,6.95
+3453,2023-03-13,C604,Sneakers,Apparel,40.57,1,0.1,Credit Card,14.46
+1006,2023-03-13,C394,Almonds,Groceries,12.35,4,0.1,Debit Card,5.42
+2388,2023-03-13,C576,Protein Powder,Fitness,94.87,4,0.05,PayPal,0.00
+1277,2023-03-13,C144,Smartphone Case,Electronics,88.95,5,,Debit Card,0.00
+2007,2023-03-14,C568,Webcam,Electronics,15.40,3,,Gift Card,3.51
+2347,2023-03-14,C355,Olive Oil,Groceries,27.55,1,0.0,Gift Card,8.67
+3362,2023-03-14,C511,Mechanical Keyboard,Electronics,304.31,4,0.05,PayPal,5.00
+2856,2023-03-14,C652,Hat,Apparel,82.81,5,0.05,Gift Card,5.00
+2621,2023-03-14,C327,Dumbbell Set,Fitness,27.11,5,0.0,Credit Card,0.00
+3345,2023-03-15,C927,Kettlebell,Fitness,99.44,2,0.0,Debit Card,0.00
+2616,2023-03-15,C986,Coffee Beans,Groceries,21.05,4,0.0,PayPal,13.36
+2192,2023-03-15,C830,Mechanical Keyboard,Electronics,288.14,3,0.0,PayPal,0.00
+2256,2023-03-15,C474,Cotton T-Shirt,Apparel,145.07,2,,Gift Card,5.00
+3154,2023-03-15,C390,Water Bottle,Fitness,12.65,3,,Credit Card,10.26
+1116,2023-03-15,C417,Bluetooth Speaker,Electronics,487.41,2,0.0,Credit Card,0.00
+3435,2023-03-15,C303,Office Chair,Home,140.75,1,0.1,PayPal,0.00
+3024,2023-03-15,C852,Throw Pillow,Home,247.58,2,0.0,Debit Card,0.00
+2982,2023-03-16,C608,Jeans,Apparel,18.43,1,0.0,Debit Card,8.22
+2134,2023-03-16,C281,Cereal,Groceries,21.83,3,,PayPal,9.94
+2748,2023-03-16,C475,Tea Bags,Groceries,22.48,1,0.1,Credit Card,12.66
+2458,2023-03-16,C695,Running Shoes,Apparel,111.44,3,0.0,PayPal,0.00
+2239,2023-03-16,C968,Blender,Home,299.92,1,0.1,Gift Card,0.00
+2959,2023-03-17,C631,Desk Lamp,Home,25.36,2,0.05,Debit Card,3.79
+3497,2023-03-17,C941,Socks (3-Pack),Apparel,68.00,5,0.0,Gift Card,10.00
+1589,2023-03-17,C236,Smartphone Case,Electronics,415.12,3,0.0,Debit Card,0.00
+2511,2023-03-17,C912,Protein Powder,Fitness,198.45,1,0.0,PayPal,10.00
+2745,2023-03-17,C776,Smart Watch,Electronics,390.56,1,0.1,Debit Card,0.00
+1606,2023-03-17,C684,Gaming Monitor,Electronics,130.62,4,0.15,Credit Card,0.00
+2454,2023-03-17,C193,Bookshelf,Home,166.83,5,0.0,PayPal,10.00
+1441,2023-03-17,C565,Hat,Apparel,124.81,4,0.0,Credit Card,0.00
+2005,2023-03-18,C122,Bluetooth Speaker,Electronics,93.68,5,0.0,PayPal,0.00
+3450,2023-03-18,C436,Treadmill,Fitness,34.10,4,,Gift Card,0.00
+2998,2023-03-18,C340,Tea Bags,Groceries,19.58,5,0.05,PayPal,10.34
+1941,2023-03-18,C284,Mechanical Keyboard,Electronics,333.24,5,0.0,PayPal,10.00
+2851,2023-03-18,C702,Running Shoes,Apparel,56.40,1,0.2,Gift Card,8.06
+2153,2023-03-18,C507,Office Chair,Home,147.50,1,0.1,Gift Card,5.00
+1435,2023-03-18,C797,Jump Rope,Fitness,118.35,3,0.15,PayPal,10.00
+2771,2023-03-19,C676,Jump Rope,Fitness,119.09,3,0.2,Credit Card,0.00
+2179,2023-03-19,C771,Gaming Monitor,Electronics,197.84,4,0.0,Credit Card,0.00
+1658,2023-03-19,C672,Running Shoes,Apparel,94.22,4,0.0,PayPal,0.00
+1940,2023-03-19,C598,Almonds,Groceries,8.68,4,0.0,Gift Card,12.70
+2810,2023-03-19,C107,Smartphone Case,Electronics,331.47,5,0.0,PayPal,0.00
+1135,2023-03-20,C926,Mug,Home,26.49,3,0.1,PayPal,7.75
+1662,2023-03-20,C586,Foam Roller,Fitness,35.23,2,0.0,Gift Card,11.01
+3274,2023-03-20,C877,Bluetooth Speaker,Electronics,405.05,1,0.0,Credit Card,5.00
+3169,2023-03-20,C290,Smart Watch,Electronics,164.94,3,0.1,Gift Card,0.00
+2122,2023-03-20,C638,Smartphone Case,Electronics,162.09,1,0.15,Credit Card,0.00
+2753,2023-03-20,C270,Desk Lamp,Home,141.29,1,0.15,Credit Card,0.00
+1174,2023-03-20,C676,Jump Rope,Fitness,174.82,3,0.0,Gift Card,0.00
+1747,2023-03-20,C304,Webcam,Electronics,23.69,1,0.0,Credit Card,5.65
+1805,2023-03-20,C252,Table Lamp,Home,84.83,1,0.0,Debit Card,10.83
+2907,2023-03-20,C171,Wireless Mouse,Electronics,289.95,4,0.0,Debit Card,0.00
+3301,2023-03-20,C463,Gaming Monitor,Electronics,142.74,2,0.05,PayPal,0.00
+2551,2023-03-20,C717,Office Chair,Home,118.32,1,0.1,PayPal,5.00
+1037,2023-03-21,C675,Dress Shirt,Apparel,88.02,2,0.0,PayPal,0.00
+2195,2023-03-21,C274,Olive Oil,Groceries,18.85,5,0.0,Gift Card,10.78
+2583,2023-03-21,C202,Smartphone Case,Electronics,122.37,5,0.0,PayPal,10.00
+1312,2023-03-21,C969,Wall Art,Home,220.36,4,0.05,Credit Card,0.00
+1401,2023-03-21,C189,Webcam,Electronics,496.93,2,0.05,Debit Card,10.00
+2893,2023-03-21,C732,Sneakers,Apparel,49.55,4,,Gift Card,5.00
+2406,2023-03-21,C209,Yoga Mat,Fitness,127.66,1,0.15,PayPal,0.00
+1458,2023-03-21,C110,Office Chair,Home,18.41,1,0.05,PayPal,5.63
+2639,2023-03-21,C343,Hat,Apparel,113.13,5,0.0,Debit Card,0.00
+1160,2023-03-22,C918,Jump Rope,Fitness,13.81,3,0.0,Debit Card,13.66
+1382,2023-03-22,C249,Bookshelf,Home,265.84,4,0.0,PayPal,0.00
+2631,2023-03-22,C562,Laptop Stand,Electronics,214.95,1,0.0,PayPal,0.00
+2269,2023-03-22,C780,Dress Shirt,Apparel,69.03,1,0.0,PayPal,13.86
+1327,2023-03-22,C603,Oats,Groceries,11.09,4,0.05,Credit Card,9.58
+2640,2023-03-22,C729,Desk Lamp,Home,44.21,3,0.05,Credit Card,0.00
+3337,2023-03-22,C362,Water Bottle,Fitness,34.96,4,0.0,Credit Card,0.00
+1977,2023-03-22,C566,Wireless Mouse,Electronics,336.36,4,0.0,PayPal,5.00
+1972,2023-03-22,C849,Pasta,Groceries,10.94,4,0.0,Gift Card,9.22
+3221,2023-03-22,C514,Cotton T-Shirt,Apparel,58.62,1,0.2,Debit Card,4.09
+1470,2023-03-23,C396,Coffee Maker,Home,173.03,4,0.0,Gift Card,5.00
+3152,2023-03-23,C875,Socks (3-Pack),Apparel,118.59,1,0.15,Credit Card,0.00
+1635,2023-03-23,C445,Shorts,Apparel,41.74,5,0.0,PayPal,5.00
+1137,2023-03-23,C669,Blender,Home,42.00,1,0.0,Credit Card,3.74
+3370,2023-03-23,C259,Oats,Groceries,12.83,1,0.15,Gift Card,7.86
+2828,2023-03-23,C650,Rug,Home,209.42,5,0.2,Gift Card,0.00
+3375,2023-03-23,C354,Socks (3-Pack),Apparel,141.47,4,0.2,Debit Card,0.00
+1032,2023-03-23,C322,Yoga Mat,Fitness,36.63,3,0.15,PayPal,0.00
+2110,2023-03-23,C581,Wireless Mouse,Electronics,162.80,2,0.0,Gift Card,0.00
+2064,2023-03-24,C229,Kettlebell,Fitness,14.55,2,0.0,Gift Card,13.85
+2955,2023-03-24,C964,Rug,Home,28.85,4,0.2,Credit Card,0.00
+1425,2023-03-24,C195,Water Bottle,Fitness,28.48,3,0.1,Gift Card,8.65
+1176,2023-03-24,C439,Desk Lamp,Home,227.54,3,0.0,PayPal,0.00
+2939,2023-03-24,C517,Bluetooth Speaker,Electronics,364.93,1,0.05,Gift Card,0.00
+3277,2023-03-24,C347,Coffee Beans,Groceries,17.58,5,,Gift Card,12.07
+1075,2023-03-25,C727,Webcam,Electronics,483.74,3,0.0,Credit Card,0.00
+3457,2023-03-25,C791,Table Lamp,Home,149.87,3,0.0,Gift Card,0.00
+1763,2023-03-25,C900,Sweater,Apparel,65.75,2,0.0,Gift Card,5.00
+1090,2023-03-25,C891,Gym Bag,Fitness,107.05,5,0.1,PayPal,0.00
+1460,2023-03-25,C753,Gaming Monitor,Electronics,52.33,5,0.05,Debit Card,5.00
+2908,2023-03-25,C882,Dark Chocolate,Groceries,27.67,5,0.0,Credit Card,0.00
+2912,2023-03-26,C923,Yoga Mat,Fitness,178.10,2,0.0,Debit Card,0.00
+2010,2023-03-26,C836,Rug,Home,218.83,2,0.1,PayPal,10.00
+2339,2023-03-26,C414,Mechanical Keyboard,Electronics,240.41,5,0.0,Gift Card,0.00
+3276,2023-03-26,C386,Winter Jacket,Apparel,129.39,4,0.0,Gift Card,0.00
+1201,2023-03-26,C205,Shorts,Apparel,52.86,1,0.0,PayPal,8.47
+1702,2023-03-26,C398,Cotton T-Shirt,Apparel,82.48,2,,Credit Card,0.00
+1300,2023-03-26,C364,Bluetooth Speaker,Electronics,341.69,2,0.0,PayPal,0.00
+2228,2023-03-27,C174,Smartphone Case,Electronics,176.51,5,0.1,Gift Card,5.00
+3133,2023-03-27,C346,Dumbbell Set,Fitness,11.98,5,0.05,Gift Card,6.69
+1293,2023-03-27,C939,USB-C Cable,Electronics,225.10,2,0.15,PayPal,0.00
+1759,2023-03-27,C812,Mug,Home,263.72,5,0.0,Credit Card,0.00
+2734,2023-03-28,C618,Water Bottle,Fitness,76.37,2,0.1,PayPal,0.00
+3298,2023-03-28,C973,Dress Shirt,Apparel,45.26,1,0.0,Credit Card,13.68
+1574,2023-03-28,C922,External Hard Drive,Electronics,96.23,1,0.0,Credit Card,3.66
+1087,2023-03-29,C601,Mechanical Keyboard,Electronics,164.14,4,0.15,Credit Card,0.00
+3492,2023-03-29,C427,Gym Bag,Fitness,176.02,5,0.0,Gift Card,0.00
+2246,2023-03-29,C167,USB-C Cable,Electronics,237.57,4,0.05,Debit Card,5.00
+2715,2023-03-29,C106,External Hard Drive,Electronics,492.55,2,0.0,Credit Card,0.00
+3302,2023-03-29,C961,USB-C Cable,Electronics,247.71,5,0.0,Gift Card,0.00
+3207,2023-03-30,C407,Cotton T-Shirt,Apparel,24.99,1,0.0,Gift Card,11.63
+2819,2023-03-30,C972,Socks (3-Pack),Apparel,84.68,5,0.2,Credit Card,5.00
+2751,2023-03-30,C496,Jeans,Apparel,39.68,1,0.0,Debit Card,3.31
+1974,2023-03-30,C644,Bluetooth Speaker,Electronics,442.47,4,0.0,PayPal,0.00
+3069,2023-03-31,C779,Jeans,Apparel,38.16,2,0.0,Debit Card,7.19
+2045,2023-03-31,C402,Dress Shirt,Apparel,15.40,3,0.05,Credit Card,4.49
+2331,2023-03-31,C106,Shorts,Apparel,18.18,4,0.0,Debit Card,12.15
+1552,2023-03-31,C855,Gaming Monitor,Electronics,254.09,1,0.0,PayPal,0.00
+2247,2023-03-31,C928,Throw Pillow,Home,150.73,3,0.05,PayPal,10.00
+2473,2023-03-31,C312,Laptop Stand,Electronics,208.50,2,0.15,Gift Card,0.00
+2462,2023-03-31,C152,Oats,Groceries,19.07,4,0.0,Debit Card,5.17
+2685,2023-03-31,C730,Dress Shirt,Apparel,119.23,5,,Gift Card,0.00
+3226,2023-03-31,C926,Wireless Mouse,Electronics,112.83,4,0.0,Gift Card,5.00
+1461,2023-04-01,C812,Smart Watch,Electronics,238.81,1,0.15,PayPal,5.00
+1613,2023-04-01,C601,Dress Shirt,Apparel,76.70,5,0.0,Gift Card,5.00
+2756,2023-04-01,C730,Dress Shirt,Apparel,143.92,5,0.05,PayPal,0.00
+1807,2023-04-01,C219,USB-C Cable,Electronics,324.29,5,0.05,Gift Card,0.00
+1464,2023-04-02,C603,External Hard Drive,Electronics,386.67,2,0.0,Gift Card,5.00
+1165,2023-04-02,C126,Smart Watch,Electronics,488.76,4,0.0,Gift Card,0.00
+1501,2023-04-02,C443,Desk Lamp,Home,161.70,3,0.0,PayPal,0.00
+1904,2023-04-02,C991,Running Shoes,Apparel,79.85,4,0.15,Debit Card,0.00
+2608,2023-04-03,C905,Rice,Groceries,24.02,5,0.0,PayPal,5.00
+2051,2023-04-03,C145,Bookshelf,Home,46.11,5,0.05,Debit Card,0.00
+2245,2023-04-03,C147,Shorts,Apparel,111.15,2,0.0,Debit Card,0.00
+2615,2023-04-03,C987,Protein Powder,Fitness,86.62,2,0.0,Debit Card,0.00
+2886,2023-04-03,C432,USB-C Cable,Electronics,318.18,3,0.05,Credit Card,5.00
+2909,2023-04-03,C502,Jeans,Apparel,96.28,1,0.05,Gift Card,7.01
+3120,2023-04-03,C800,Coffee Maker,Home,42.13,1,0.0,PayPal,13.86
+3075,2023-04-04,C485,Dress Shirt,Apparel,84.74,2,0.0,Credit Card,0.00
+3267,2023-04-04,C512,Coffee Maker,Home,144.80,2,0.1,Debit Card,10.00
+1718,2023-04-04,C631,Shorts,Apparel,15.76,5,0.0,Gift Card,8.19
+1279,2023-04-04,C321,Sneakers,Apparel,131.42,2,0.0,Debit Card,5.00
+1833,2023-04-04,C152,Dress Shirt,Apparel,33.87,1,0.05,Credit Card,6.48
+1890,2023-04-05,C259,Wireless Mouse,Electronics,306.05,2,0.0,Gift Card,0.00
+1927,2023-04-05,C925,Smart Watch,Electronics,427.34,2,0.0,Gift Card,0.00
+3108,2023-04-06,C404,Hat,Apparel,112.45,3,0.1,Gift Card,0.00
+3187,2023-04-06,C221,Cotton T-Shirt,Apparel,13.24,1,0.1,Debit Card,12.84
+1331,2023-04-06,C378,Rug,Home,68.52,1,0.2,Credit Card,5.23
+3033,2023-04-06,C568,Coffee Beans,Groceries,9.36,3,0.05,Credit Card,11.04
+2805,2023-04-07,C695,Shorts,Apparel,86.94,3,0.0,PayPal,0.00
+2164,2023-04-07,C752,Table Lamp,Home,129.21,2,0.0,Credit Card,5.00
+2088,2023-04-07,C845,Wireless Mouse,Electronics,161.17,4,0.15,Debit Card,5.00
+2431,2023-04-08,C950,Office Chair,Home,144.59,3,0.2,Credit Card,0.00
+1846,2023-04-08,C235,Socks (3-Pack),Apparel,148.66,2,0.05,Credit Card,5.00
+3374,2023-04-08,C348,Jump Rope,Fitness,169.68,5,0.0,Gift Card,10.00
+2309,2023-04-08,C193,Bookshelf,Home,274.88,5,0.05,Gift Card,5.00
+1516,2023-04-08,C402,Socks (3-Pack),Apparel,145.74,5,0.1,Gift Card,0.00
+1313,2023-04-08,C807,Bluetooth Speaker,Electronics,408.77,4,0.0,PayPal,0.00
+1274,2023-04-08,C988,Sneakers,Apparel,134.20,1,0.0,Debit Card,0.00
+1254,2023-04-08,C543,Dress Shirt,Apparel,104.26,5,,Credit Card,5.00
+3094,2023-04-08,C410,Cereal,Groceries,6.55,5,0.0,PayPal,10.98
+2136,2023-04-08,C682,Webcam,Electronics,179.99,3,0.05,PayPal,0.00
+1273,2023-04-09,C474,Office Chair,Home,162.25,4,0.0,Gift Card,0.00
+1885,2023-04-09,C247,Gym Bag,Fitness,194.65,4,0.1,Credit Card,5.00
+2890,2023-04-09,C184,Coffee Maker,Home,139.76,3,0.15,PayPal,5.00
+1547,2023-04-09,C171,Water Bottle,Fitness,188.43,3,0.2,Gift Card,0.00
+1060,2023-04-09,C776,Shorts,Apparel,51.35,2,0.0,Debit Card,0.00
+1485,2023-04-09,C298,Mechanical Keyboard,Electronics,345.77,4,0.0,Credit Card,0.00
+1891,2023-04-09,C996,Socks (3-Pack),Apparel,138.68,5,0.0,Debit Card,0.00
+1900,2023-04-10,C989,Jump Rope,Fitness,40.63,4,,Credit Card,10.00
+3414,2023-04-10,C180,Mechanical Keyboard,Electronics,407.27,4,0.0,PayPal,0.00
+1600,2023-04-10,C219,Jeans,Apparel,79.89,3,0.15,PayPal,10.00
+2741,2023-04-10,C849,Bluetooth Speaker,Electronics,87.13,4,0.1,Debit Card,0.00
+2928,2023-04-10,C507,Almonds,Groceries,19.50,2,0.0,Credit Card,10.82
+1526,2023-04-11,C910,Smart Watch,Electronics,157.08,4,0.05,PayPal,0.00
+3286,2023-04-11,C343,Throw Pillow,Home,88.83,5,0.05,Debit Card,5.00
+2750,2023-04-12,C334,Almonds,Groceries,6.83,2,0.0,PayPal,9.48
+1173,2023-04-12,C994,Smartphone Case,Electronics,297.91,4,0.0,Credit Card,10.00
+1999,2023-04-12,C186,Gaming Monitor,Electronics,173.41,1,0.05,PayPal,5.00
+3436,2023-04-12,C455,Shorts,Apparel,18.66,2,0.0,Debit Card,5.94
+2281,2023-04-12,C214,Smart Watch,Electronics,455.33,5,0.05,Debit Card,0.00
+1773,2023-04-12,C645,Table Lamp,Home,182.03,4,0.15,Credit Card,0.00
+1588,2023-04-12,C830,Olive Oil,Groceries,25.87,4,0.0,Gift Card,5.00
+1022,2023-04-12,C660,Pasta,Groceries,18.46,2,0.15,Gift Card,4.39
+2940,2023-04-13,C305,Blender,Home,267.90,3,0.2,Debit Card,5.00
+3231,2023-04-13,C792,Water Bottle,Fitness,109.29,1,0.1,Credit Card,5.00
+3202,2023-04-13,C132,Smartphone Case,Electronics,94.72,1,0.0,Credit Card,4.02
+1209,2023-04-13,C804,Tea Bags,Groceries,9.33,1,0.15,Gift Card,4.79
+1477,2023-04-13,C709,Resistance Bands,Fitness,21.99,2,0.1,Gift Card,6.89
+3083,2023-04-13,C423,Smartphone Case,Electronics,91.67,5,0.15,PayPal,10.00
+2332,2023-04-13,C136,Office Chair,Home,20.64,4,0.05,PayPal,11.23
+1744,2023-04-13,C647,Coffee Maker,Home,37.11,1,0.0,PayPal,5.14
+3081,2023-04-14,C921,Socks (3-Pack),Apparel,25.76,4,0.1,PayPal,0.00
+1407,2023-04-15,C576,Office Chair,Home,225.18,2,0.2,Gift Card,0.00
+2096,2023-04-15,C720,Treadmill,Fitness,90.78,1,0.0,Credit Card,6.17
+2674,2023-04-15,C426,Sweater,Apparel,42.05,4,0.0,Gift Card,0.00
+1353,2023-04-15,C270,Gym Bag,Fitness,86.30,3,0.05,Gift Card,10.00
+3342,2023-04-15,C760,Winter Jacket,Apparel,13.12,4,0.1,Credit Card,9.58
+2446,2023-04-16,C230,Protein Powder,Fitness,173.63,1,0.2,Credit Card,0.00
+1673,2023-04-16,C119,Smartphone Case,Electronics,340.80,2,0.05,Debit Card,0.00
+2449,2023-04-17,C720,Resistance Bands,Fitness,152.24,2,0.15,Gift Card,0.00
+1966,2023-04-17,C579,Resistance Bands,Fitness,102.65,3,0.05,PayPal,5.00
+3316,2023-04-18,C588,Yoga Mat,Fitness,13.56,2,0.0,Credit Card,9.90
+1405,2023-04-18,C968,Hat,Apparel,90.52,5,0.0,Gift Card,0.00
+1449,2023-04-18,C730,Smart Watch,Electronics,16.96,1,0.15,Debit Card,10.91
+1561,2023-04-18,C217,Cotton T-Shirt,Apparel,85.38,1,0.15,Gift Card,6.20
+1078,2023-04-18,C847,Smart Watch,Electronics,178.10,2,0.0,Credit Card,0.00
+2436,2023-04-19,C597,Webcam,Electronics,390.11,2,0.0,Debit Card,0.00
+1206,2023-04-19,C256,Wireless Mouse,Electronics,157.55,1,0.0,Debit Card,0.00
+1110,2023-04-19,C243,Gaming Monitor,Electronics,131.60,5,0.05,Credit Card,5.00
+1835,2023-04-19,C732,Yoga Mat,Fitness,77.59,5,0.0,Credit Card,0.00
+1968,2023-04-19,C563,Gym Bag,Fitness,48.57,4,0.0,Debit Card,0.00
+1723,2023-04-19,C513,Rice,Groceries,23.46,1,0.05,Debit Card,13.39
+1107,2023-04-19,C892,Protein Powder,Fitness,131.90,2,,Credit Card,0.00
+2582,2023-04-19,C773,Yoga Mat,Fitness,185.98,4,0.0,Gift Card,5.00
+2676,2023-04-19,C115,Cotton T-Shirt,Apparel,62.66,2,,Debit Card,0.00
+1245,2023-04-20,C824,Winter Jacket,Apparel,143.98,5,,Debit Card,0.00
+1664,2023-04-20,C447,Sneakers,Apparel,113.03,1,0.1,PayPal,0.00
+1571,2023-04-20,C520,Running Shoes,Apparel,98.75,4,0.0,Debit Card,0.00
+1297,2023-04-20,C299,Dress Shirt,Apparel,90.49,3,0.05,Credit Card,0.00
+3197,2023-04-20,C255,Pasta,Groceries,16.86,5,0.0,Credit Card,4.79
+2887,2023-04-20,C202,Almonds,Groceries,15.49,5,0.0,Credit Card,4.71
+1373,2023-04-20,C778,Treadmill,Fitness,174.21,1,0.15,Gift Card,0.00
+2451,2023-04-21,C675,Mechanical Keyboard,Electronics,388.73,1,0.0,Gift Card,0.00
+2654,2023-04-21,C296,Kettlebell,Fitness,112.88,2,0.1,PayPal,0.00
+1892,2023-04-21,C194,Jeans,Apparel,114.04,4,0.0,Debit Card,5.00
+3388,2023-04-21,C492,Mechanical Keyboard,Electronics,155.46,1,0.2,Debit Card,0.00
+1038,2023-04-21,C560,Dumbbell Set,Fitness,111.77,2,,Gift Card,0.00
+2535,2023-04-21,C762,USB-C Cable,Electronics,20.14,2,0.1,Debit Card,10.89
+2626,2023-04-21,C230,Gym Bag,Fitness,185.62,2,0.0,Gift Card,0.00
+2997,2023-04-21,C836,Laptop Stand,Electronics,181.38,2,0.0,Debit Card,0.00
+1315,2023-04-22,C765,Coffee Maker,Home,294.12,3,0.05,Gift Card,5.00
+1754,2023-04-22,C723,Oats,Groceries,13.32,2,0.1,Credit Card,5.79
+1016,2023-04-22,C197,Mechanical Keyboard,Electronics,243.95,2,,Gift Card,0.00
+2417,2023-04-22,C455,Protein Powder,Fitness,164.70,4,0.0,Gift Card,0.00
+1128,2023-04-23,C124,Laptop Stand,Electronics,321.61,1,0.0,Gift Card,5.00
+1690,2023-04-23,C629,Resistance Bands,Fitness,18.92,4,0.0,Gift Card,5.34
+2669,2023-04-23,C144,Almonds,Groceries,14.64,3,0.0,Debit Card,11.18
+2307,2023-04-23,C219,Office Chair,Home,111.43,3,0.2,Gift Card,0.00
+1612,2023-04-23,C602,Jump Rope,Fitness,181.71,5,0.05,PayPal,0.00
+1692,2023-04-23,C301,Smart Watch,Electronics,40.79,1,,Gift Card,12.70
+1229,2023-04-23,C944,Treadmill,Fitness,30.48,4,,Credit Card,5.00
+1097,2023-04-23,C948,Webcam,Electronics,249.83,5,0.05,Gift Card,0.00
+1027,2023-04-23,C491,Dress Shirt,Apparel,62.59,5,0.15,Credit Card,0.00
+1862,2023-04-24,C315,Cotton T-Shirt,Apparel,100.81,5,0.0,PayPal,5.00
+2489,2023-04-24,C303,Resistance Bands,Fitness,92.75,2,0.05,Debit Card,0.00
+2962,2023-04-24,C302,Sweater,Apparel,59.15,2,0.0,Credit Card,0.00
+1476,2023-04-24,C940,Water Bottle,Fitness,126.13,5,,Credit Card,0.00
+2732,2023-04-24,C931,Office Chair,Home,53.39,3,0.1,Credit Card,0.00
+2378,2023-04-24,C482,Protein Powder,Fitness,80.22,4,,Gift Card,0.00
+2975,2023-04-25,C750,Water Bottle,Fitness,174.25,2,,Credit Card,0.00
+1482,2023-04-25,C311,Smart Watch,Electronics,266.31,4,0.0,Credit Card,0.00
+1005,2023-04-25,C687,Table Lamp,Home,270.29,4,0.2,Debit Card,0.00
+3229,2023-04-25,C751,Hat,Apparel,56.01,3,0.05,Credit Card,0.00
+1737,2023-04-25,C962,Throw Pillow,Home,126.46,2,0.0,Gift Card,0.00
+2586,2023-04-25,C777,Shorts,Apparel,28.83,1,0.1,PayPal,10.53
+2348,2023-04-26,C588,Wireless Mouse,Electronics,297.23,3,0.05,Debit Card,0.00
+1221,2023-04-26,C176,Treadmill,Fitness,55.77,3,,Debit Card,0.00
+1587,2023-04-26,C910,Desk Lamp,Home,129.19,3,0.0,Debit Card,0.00
+2594,2023-04-26,C284,Winter Jacket,Apparel,121.85,2,0.05,Credit Card,0.00
+2003,2023-04-26,C952,Dress Shirt,Apparel,17.79,1,0.0,Debit Card,12.84
+2117,2023-04-26,C926,Sneakers,Apparel,55.79,5,0.0,Gift Card,0.00
+3280,2023-04-26,C981,Smartphone Case,Electronics,67.76,4,0.05,PayPal,10.00
+1952,2023-04-26,C317,Running Shoes,Apparel,88.53,5,0.1,Credit Card,0.00
+2891,2023-04-26,C160,Webcam,Electronics,382.18,1,,Credit Card,0.00
+1902,2023-04-27,C234,Sweater,Apparel,97.29,4,,Gift Card,0.00
+3488,2023-04-27,C766,Yoga Mat,Fitness,162.27,1,0.05,Debit Card,0.00
+1065,2023-04-27,C375,Sneakers,Apparel,30.43,2,0.0,Gift Card,12.39
+1481,2023-04-27,C107,Gaming Monitor,Electronics,356.30,5,0.0,Gift Card,0.00
+2220,2023-04-27,C893,Coffee Maker,Home,264.08,5,0.0,Credit Card,0.00
+2538,2023-04-27,C167,Jump Rope,Fitness,193.38,1,0.0,Gift Card,0.00
+1227,2023-04-28,C919,External Hard Drive,Electronics,193.21,1,,Debit Card,0.00
+1235,2023-04-28,C235,Olive Oil,Groceries,16.61,3,0.1,Gift Card,9.99
+2304,2023-04-28,C890,Mechanical Keyboard,Electronics,409.04,4,,Credit Card,10.00
+1101,2023-04-28,C233,Rug,Home,239.67,1,,Gift Card,0.00
+2036,2023-04-28,C736,Running Shoes,Apparel,38.50,2,0.05,PayPal,11.90
+2690,2023-04-28,C131,Coffee Maker,Home,94.69,5,0.1,PayPal,0.00
+1659,2023-04-29,C256,Smart Watch,Electronics,495.60,3,0.0,Debit Card,0.00
+1883,2023-04-29,C895,Blender,Home,215.38,2,0.0,Credit Card,0.00
+2257,2023-04-29,C223,Throw Pillow,Home,51.00,3,0.0,Credit Card,10.00
+1986,2023-04-29,C632,Mug,Home,50.04,4,0.1,PayPal,0.00
+2452,2023-04-30,C449,Hat,Apparel,94.74,3,0.0,Gift Card,0.00
+1994,2023-04-30,C304,Running Shoes,Apparel,51.63,4,0.0,Gift Card,0.00
+2371,2023-04-30,C966,Honey,Groceries,15.52,4,0.0,Gift Card,8.04
+2923,2023-04-30,C598,Pasta,Groceries,22.74,5,0.0,PayPal,0.00
+2169,2023-04-30,C432,Smartphone Case,Electronics,151.04,5,0.05,PayPal,0.00
+1068,2023-04-30,C943,Foam Roller,Fitness,35.86,3,0.05,Gift Card,0.00
+1017,2023-04-30,C871,Laptop Stand,Electronics,157.95,5,,PayPal,0.00
+2216,2023-05-01,C491,Hat,Apparel,113.46,2,0.0,PayPal,0.00
+2746,2023-05-01,C391,External Hard Drive,Electronics,344.69,5,0.0,Credit Card,0.00
+1584,2023-05-01,C380,Water Bottle,Fitness,99.51,4,0.0,Gift Card,5.00
+1651,2023-05-01,C462,Gaming Monitor,Electronics,229.88,5,0.0,Debit Card,5.00
+2395,2023-05-01,C191,Water Bottle,Fitness,40.22,3,0.0,Credit Card,0.00
+3161,2023-05-01,C499,Rice,Groceries,13.99,2,0.0,Gift Card,13.10
+2971,2023-05-01,C432,Socks (3-Pack),Apparel,28.34,2,0.2,Debit Card,4.70
+1336,2023-05-01,C889,Bluetooth Speaker,Electronics,241.68,3,0.0,Credit Card,5.00
+2420,2023-05-01,C911,Webcam,Electronics,50.05,4,0.2,Credit Card,0.00
+1241,2023-05-02,C989,Water Bottle,Fitness,167.70,3,0.05,Debit Card,5.00
+2285,2023-05-02,C329,Resistance Bands,Fitness,56.62,2,0.1,Debit Card,0.00
+1292,2023-05-02,C479,Wireless Mouse,Electronics,365.00,4,0.05,Credit Card,10.00
+2469,2023-05-02,C103,Smart Watch,Electronics,223.24,5,0.0,Debit Card,0.00
+3005,2023-05-02,C590,Water Bottle,Fitness,72.10,5,0.0,Gift Card,0.00
+2918,2023-05-02,C581,Gaming Monitor,Electronics,197.04,5,,Credit Card,5.00
+1459,2023-05-02,C390,Wireless Mouse,Electronics,21.61,1,,Debit Card,14.41
+3233,2023-05-02,C258,Bluetooth Speaker,Electronics,341.65,5,0.0,Gift Card,0.00
+3009,2023-05-03,C985,Shorts,Apparel,64.82,3,0.05,Gift Card,10.00
+1356,2023-05-03,C135,Rice,Groceries,3.44,2,0.0,PayPal,14.81
+2925,2023-05-03,C831,Blender,Home,257.93,2,0.0,Debit Card,0.00
+1187,2023-05-03,C793,Shorts,Apparel,65.60,1,,PayPal,9.74
+1973,2023-05-03,C211,Blender,Home,288.31,2,0.15,PayPal,0.00
+2166,2023-05-03,C150,Sneakers,Apparel,40.13,4,0.05,Debit Card,0.00
+1645,2023-05-03,C830,Gym Bag,Fitness,194.81,4,0.05,PayPal,5.00
+2108,2023-05-03,C635,Mug,Home,286.32,3,0.0,Gift Card,0.00
+1748,2023-05-03,C198,Protein Powder,Fitness,147.56,1,0.0,PayPal,0.00
+1189,2023-05-04,C982,Smart Watch,Electronics,102.30,5,0.15,Gift Card,0.00
+3030,2023-05-04,C993,Olive Oil,Groceries,7.20,5,,PayPal,7.62
+2253,2023-05-04,C685,Sweater,Apparel,36.28,5,0.2,Gift Card,0.00
+3023,2023-05-04,C866,Smart Watch,Electronics,324.46,2,,Debit Card,10.00
+3057,2023-05-04,C283,Mechanical Keyboard,Electronics,18.38,1,,Debit Card,10.34
+3387,2023-05-04,C750,Water Bottle,Fitness,35.16,5,0.0,PayPal,5.00
+1848,2023-05-04,C759,Gaming Monitor,Electronics,141.93,3,0.1,Debit Card,0.00
+1852,2023-05-04,C382,Webcam,Electronics,52.74,1,0.1,Credit Card,3.49
+3356,2023-05-04,C643,Smart Watch,Electronics,123.68,5,0.0,Debit Card,5.00
+1865,2023-05-05,C363,Foam Roller,Fitness,114.67,4,0.0,Gift Card,0.00
+2723,2023-05-05,C279,Bluetooth Speaker,Electronics,107.18,2,0.05,Debit Card,10.00
+1823,2023-05-05,C986,Smart Watch,Electronics,307.66,1,0.15,Gift Card,0.00
+2131,2023-05-05,C188,Smartphone Case,Electronics,317.05,1,0.1,Debit Card,0.00
+2443,2023-05-05,C864,Desk Lamp,Home,120.98,5,0.0,PayPal,0.00
+3499,2023-05-05,C275,Smartphone Case,Electronics,37.74,4,0.0,Gift Card,0.00
+1251,2023-05-05,C315,Blender,Home,261.51,4,0.0,Gift Card,0.00
+1605,2023-05-05,C272,Throw Pillow,Home,175.53,5,0.2,Credit Card,0.00
+1778,2023-05-05,C739,Mechanical Keyboard,Electronics,49.11,1,0.0,PayPal,3.36
+1004,2023-05-06,C404,Resistance Bands,Fitness,141.15,4,0.0,PayPal,0.00
+2240,2023-05-06,C381,Bookshelf,Home,27.93,2,0.0,Debit Card,4.68
+3329,2023-05-06,C375,Sweater,Apparel,121.46,5,0.05,Gift Card,0.00
+1592,2023-05-06,C274,Almonds,Groceries,3.38,5,0.15,Gift Card,12.93
+1819,2023-05-06,C906,Cotton T-Shirt,Apparel,144.96,2,,Credit Card,0.00
+1089,2023-05-06,C184,Blender,Home,98.25,3,0.0,Gift Card,0.00
+1379,2023-05-06,C719,Hat,Apparel,28.45,2,0.05,Debit Card,13.35
+1340,2023-05-07,C802,Desk Lamp,Home,32.04,2,0.1,Debit Card,8.85
+1639,2023-05-07,C880,Running Shoes,Apparel,31.60,3,0.0,Debit Card,8.27
+1220,2023-05-07,C946,Mug,Home,30.55,2,0.0,Gift Card,13.43
+2821,2023-05-07,C181,Smartphone Case,Electronics,442.41,3,0.1,Credit Card,10.00
+3361,2023-05-07,C143,Cotton T-Shirt,Apparel,38.50,5,0.0,Credit Card,0.00
+1119,2023-05-07,C901,Jump Rope,Fitness,41.72,2,0.15,Credit Card,12.26
+1743,2023-05-07,C548,Smart Watch,Electronics,422.37,2,0.05,Debit Card,0.00
+3184,2023-05-08,C270,USB-C Cable,Electronics,346.30,2,0.0,PayPal,0.00
+3369,2023-05-08,C402,Protein Powder,Fitness,66.67,3,0.05,Credit Card,10.00
+1282,2023-05-08,C720,USB-C Cable,Electronics,451.79,5,,Credit Card,0.00
+1619,2023-05-08,C526,Jump Rope,Fitness,69.65,4,0.0,PayPal,0.00
+1945,2023-05-08,C928,Hat,Apparel,142.49,2,0.0,PayPal,10.00
+1468,2023-05-08,C103,Sneakers,Apparel,26.97,5,0.0,PayPal,0.00
+1272,2023-05-08,C633,Throw Pillow,Home,252.94,3,0.05,Gift Card,0.00
+1451,2023-05-08,C186,Rice,Groceries,28.22,2,0.1,Gift Card,12.24
+3285,2023-05-09,C962,Foam Roller,Fitness,18.83,2,0.15,PayPal,13.59
+2943,2023-05-09,C578,Kettlebell,Fitness,184.07,5,0.0,Gift Card,0.00
+2461,2023-05-09,C931,Oats,Groceries,15.28,5,0.0,Gift Card,5.39
+1147,2023-05-09,C324,Table Lamp,Home,116.12,2,0.05,PayPal,10.00
+2311,2023-05-09,C184,Sneakers,Apparel,24.60,5,0.0,Gift Card,10.00
+2278,2023-05-09,C871,Jeans,Apparel,128.26,1,0.05,Debit Card,0.00
+1413,2023-05-09,C252,Wireless Mouse,Electronics,176.18,4,0.1,Gift Card,0.00
+1882,2023-05-09,C662,Hat,Apparel,78.96,5,0.0,Gift Card,0.00
+2033,2023-05-09,C507,Running Shoes,Apparel,101.92,1,0.05,Gift Card,5.00
+2077,2023-05-10,C862,Dumbbell Set,Fitness,72.15,5,0.0,Credit Card,5.00
+3091,2023-05-10,C654,Throw Pillow,Home,138.12,5,,Gift Card,10.00
+2848,2023-05-10,C756,Rice,Groceries,16.78,1,0.0,Debit Card,5.34
+1929,2023-05-10,C483,Gym Bag,Fitness,63.88,3,0.15,Gift Card,0.00
+3052,2023-05-10,C648,Dress Shirt,Apparel,51.71,1,0.05,PayPal,6.15
+1730,2023-05-10,C411,Gaming Monitor,Electronics,340.69,2,,Gift Card,0.00
+2262,2023-05-11,C838,Coffee Beans,Groceries,5.02,5,0.0,Credit Card,3.71
+2260,2023-05-11,C202,Mug,Home,79.48,2,0.2,Gift Card,5.00
+2549,2023-05-11,C935,Jeans,Apparel,49.29,4,0.2,PayPal,0.00
+2678,2023-05-11,C652,Almonds,Groceries,21.54,4,0.1,Debit Card,3.87
+1517,2023-05-11,C215,Desk Lamp,Home,54.74,5,0.0,Debit Card,0.00
+2340,2023-05-12,C322,Jeans,Apparel,102.35,5,0.15,Credit Card,0.00
+2996,2023-05-12,C679,Coffee Maker,Home,177.25,4,0.0,PayPal,0.00
+1757,2023-05-12,C436,Laptop Stand,Electronics,325.37,1,0.2,PayPal,5.00
+2749,2023-05-12,C319,Mug,Home,184.92,2,0.05,Credit Card,5.00
+1638,2023-05-13,C142,Jeans,Apparel,98.19,2,0.0,PayPal,5.00
+1837,2023-05-13,C599,Smart Watch,Electronics,120.79,4,0.0,Debit Card,0.00
+1352,2023-05-14,C671,Running Shoes,Apparel,117.28,5,0.0,Gift Card,5.00
+3194,2023-05-14,C780,Laptop Stand,Electronics,109.69,2,0.0,Gift Card,0.00
+1720,2023-05-14,C184,External Hard Drive,Electronics,261.27,1,0.15,Credit Card,0.00
+1500,2023-05-14,C403,Socks (3-Pack),Apparel,107.73,5,0.1,Credit Card,0.00
+3193,2023-05-15,C437,Shorts,Apparel,144.80,3,0.0,PayPal,5.00
+2364,2023-05-15,C369,External Hard Drive,Electronics,291.96,2,0.1,Credit Card,0.00
+1424,2023-05-15,C419,Winter Jacket,Apparel,109.81,5,,Gift Card,0.00
+1163,2023-05-15,C519,Wall Art,Home,90.60,3,0.0,Gift Card,0.00
+1122,2023-05-15,C790,Blender,Home,226.12,1,,Credit Card,0.00
+1117,2023-05-16,C547,Blender,Home,31.50,1,0.0,Credit Card,6.71
+1202,2023-05-16,C632,Bookshelf,Home,138.59,2,0.15,PayPal,5.00
+2357,2023-05-16,C787,Laptop Stand,Electronics,432.12,1,,Debit Card,5.00
+3314,2023-05-16,C720,Table Lamp,Home,127.41,4,,Gift Card,0.00
+1047,2023-05-16,C959,Yoga Mat,Fitness,155.22,4,0.05,Credit Card,5.00
+1503,2023-05-16,C344,Sneakers,Apparel,113.23,5,0.1,Debit Card,0.00
+1995,2023-05-16,C639,Sweater,Apparel,80.53,3,0.0,Gift Card,10.00
+2474,2023-05-16,C580,Rice,Groceries,9.59,1,0.1,Gift Card,9.86
+1397,2023-05-16,C220,Resistance Bands,Fitness,10.67,3,,Gift Card,13.26
+1375,2023-05-16,C568,Desk Lamp,Home,26.33,5,0.0,Debit Card,0.00
+2198,2023-05-16,C753,Dark Chocolate,Groceries,27.25,2,0.0,Credit Card,14.42
+1410,2023-05-16,C298,Sweater,Apparel,139.12,4,0.1,Debit Card,0.00
+3484,2023-05-16,C379,Jeans,Apparel,87.73,1,0.0,PayPal,9.32
+1357,2023-05-16,C319,Yoga Mat,Fitness,156.59,3,0.05,Debit Card,0.00
+3405,2023-05-16,C148,Rug,Home,15.77,3,,Debit Card,13.71
+1969,2023-05-16,C990,Office Chair,Home,56.98,1,0.0,Gift Card,5.24
+1304,2023-05-16,C209,Gaming Monitor,Electronics,341.15,4,0.1,Credit Card,5.00
+2006,2023-05-17,C702,Socks (3-Pack),Apparel,64.77,1,0.1,Debit Card,3.34
+1469,2023-05-17,C747,Almonds,Groceries,12.86,3,,Gift Card,12.13
+1080,2023-05-17,C793,Resistance Bands,Fitness,108.04,5,0.05,Gift Card,0.00
+3359,2023-05-17,C766,Foam Roller,Fitness,184.99,2,0.05,Credit Card,0.00
+2145,2023-05-17,C269,Jeans,Apparel,38.06,2,0.0,Debit Card,13.29
+2097,2023-05-17,C771,Table Lamp,Home,98.00,1,0.0,PayPal,8.80
+2606,2023-05-17,C429,Cotton T-Shirt,Apparel,61.27,2,0.0,Credit Card,0.00
+3114,2023-05-17,C555,Table Lamp,Home,108.11,2,0.1,Gift Card,5.00
+1154,2023-05-17,C703,Kettlebell,Fitness,68.30,3,0.1,Gift Card,5.00
+1105,2023-05-18,C707,USB-C Cable,Electronics,14.55,3,0.2,Gift Card,11.33
+1817,2023-05-18,C185,Honey,Groceries,28.39,2,0.0,PayPal,14.94
+2042,2023-05-18,C901,Desk Lamp,Home,245.11,5,0.1,PayPal,5.00
+1093,2023-05-19,C855,Bookshelf,Home,260.40,5,0.0,Debit Card,5.00
+1810,2023-05-19,C957,Office Chair,Home,229.75,2,0.15,Debit Card,5.00
+1880,2023-05-19,C385,Laptop Stand,Electronics,497.44,2,0.0,Gift Card,0.00
+1693,2023-05-20,C706,Treadmill,Fitness,169.70,2,0.0,PayPal,5.00
+2338,2023-05-20,C295,Mug,Home,118.57,4,0.1,Gift Card,0.00
+2609,2023-05-20,C225,Jump Rope,Fitness,168.63,1,0.15,Credit Card,0.00
+2956,2023-05-20,C520,Protein Powder,Fitness,52.29,4,0.0,Gift Card,0.00
+2645,2023-05-20,C678,Wireless Mouse,Electronics,388.43,3,0.1,Debit Card,10.00
+2653,2023-05-20,C200,Coffee Maker,Home,233.45,5,0.0,Credit Card,0.00
+1652,2023-05-20,C695,Wall Art,Home,255.68,2,0.0,Debit Card,5.00
+2127,2023-05-20,C788,Treadmill,Fitness,180.57,2,0.05,PayPal,0.00
+3100,2023-05-20,C937,Bluetooth Speaker,Electronics,163.14,4,0.2,PayPal,0.00
+2022,2023-05-20,C357,Sweater,Apparel,19.51,2,0.0,Debit Card,13.24
+1402,2023-05-20,C867,Desk Lamp,Home,41.54,3,0.15,Credit Card,5.00
+1003,2023-05-21,C988,Throw Pillow,Home,188.87,2,0.0,PayPal,0.00
+3142,2023-05-21,C657,Table Lamp,Home,131.81,3,0.0,Credit Card,0.00
+2514,2023-05-21,C500,Water Bottle,Fitness,30.43,5,0.1,Credit Card,5.00
+2296,2023-05-21,C893,Rice,Groceries,4.72,4,0.1,Debit Card,14.76
+1910,2023-05-21,C573,Bookshelf,Home,147.78,5,0.0,Credit Card,0.00
+3289,2023-05-21,C390,Cotton T-Shirt,Apparel,41.65,4,0.1,PayPal,0.00
+1646,2023-05-21,C421,Coffee Beans,Groceries,25.33,5,0.0,Gift Card,0.00
+2778,2023-05-21,C578,USB-C Cable,Electronics,411.71,5,0.0,Gift Card,0.00
+1641,2023-05-22,C832,Treadmill,Fitness,129.59,2,0.1,Gift Card,5.00
+1842,2023-05-22,C452,Winter Jacket,Apparel,17.29,3,0.05,Credit Card,8.21
+2430,2023-05-22,C489,USB-C Cable,Electronics,381.93,1,0.05,Credit Card,0.00
+1418,2023-05-22,C137,Hat,Apparel,26.22,3,0.05,Credit Card,7.00
+2457,2023-05-22,C905,Smart Watch,Electronics,103.08,3,0.05,Debit Card,5.00
+1894,2023-05-22,C268,Laptop Stand,Electronics,326.86,2,0.0,PayPal,0.00
+2141,2023-05-22,C584,Jump Rope,Fitness,147.44,5,0.05,PayPal,0.00
+1728,2023-05-23,C123,Desk Lamp,Home,277.81,2,0.2,Gift Card,10.00
+1071,2023-05-23,C663,USB-C Cable,Electronics,472.06,2,0.0,Credit Card,5.00
+1488,2023-05-23,C706,Table Lamp,Home,71.64,3,0.0,Debit Card,0.00
+2592,2023-05-23,C402,Hat,Apparel,75.08,1,0.0,Debit Card,13.81
+1280,2023-05-23,C940,Foam Roller,Fitness,135.33,3,0.05,Gift Card,0.00
+1821,2023-05-23,C917,Wireless Mouse,Electronics,57.99,2,0.0,Credit Card,0.00
+2050,2023-05-23,C834,Smart Watch,Electronics,487.89,1,0.15,PayPal,0.00
+3183,2023-05-23,C220,External Hard Drive,Electronics,211.01,3,0.0,Credit Card,0.00
+1036,2023-05-23,C872,Winter Jacket,Apparel,128.91,3,0.0,Gift Card,10.00
+1490,2023-05-23,C546,Smartphone Case,Electronics,232.95,4,0.0,Debit Card,0.00
+1242,2023-05-23,C298,Mechanical Keyboard,Electronics,491.89,1,0.0,Credit Card,0.00
+1030,2023-05-23,C996,Office Chair,Home,24.18,4,0.15,Credit Card,5.89
+1839,2023-05-24,C991,Office Chair,Home,69.03,1,0.0,PayPal,13.81
+2413,2023-05-24,C836,Socks (3-Pack),Apparel,13.42,3,0.0,Gift Card,12.72
+3423,2023-05-24,C848,Running Shoes,Apparel,100.58,4,0.0,Credit Card,0.00
+1403,2023-05-25,C963,Throw Pillow,Home,149.18,1,0.0,Gift Card,0.00
+2831,2023-05-25,C770,Running Shoes,Apparel,94.94,4,0.1,PayPal,0.00
+3393,2023-05-25,C882,Throw Pillow,Home,257.13,1,0.1,PayPal,0.00
+2147,2023-05-25,C202,Dress Shirt,Apparel,107.83,4,0.1,Debit Card,5.00
+1989,2023-05-25,C413,Laptop Stand,Electronics,333.52,1,,Debit Card,0.00
+1898,2023-05-25,C507,Sweater,Apparel,115.26,3,0.1,Credit Card,0.00
+2934,2023-05-25,C393,Jump Rope,Fitness,67.10,1,0.0,Debit Card,11.22
+2953,2023-05-26,C643,Protein Powder,Fitness,37.00,1,,Gift Card,4.11
+2660,2023-05-26,C551,Socks (3-Pack),Apparel,64.70,1,0.0,Debit Card,11.71
+1577,2023-05-26,C192,Gaming Monitor,Electronics,388.86,3,0.05,Gift Card,5.00
+2847,2023-05-26,C293,Running Shoes,Apparel,50.43,2,0.0,PayPal,0.00
+1381,2023-05-26,C678,Tea Bags,Groceries,4.83,5,0.0,PayPal,13.07
+3283,2023-05-26,C741,Desk Lamp,Home,144.00,1,0.05,PayPal,5.00
+1922,2023-05-26,C690,Tea Bags,Groceries,24.97,1,0.0,Credit Card,11.39
+2921,2023-05-26,C773,External Hard Drive,Electronics,77.67,4,0.0,Debit Card,0.00
+1560,2023-05-27,C157,Blender,Home,81.87,3,0.15,Credit Card,5.00
+3199,2023-05-27,C908,Pasta,Groceries,14.11,2,0.0,Gift Card,3.21
+3095,2023-05-27,C532,Table Lamp,Home,248.27,3,0.15,Gift Card,0.00
+2303,2023-05-27,C323,Almonds,Groceries,26.55,2,0.05,Gift Card,11.48
+1650,2023-05-27,C892,Dress Shirt,Apparel,148.17,1,0.1,PayPal,0.00
+2985,2023-05-27,C762,Cotton T-Shirt,Apparel,89.30,5,0.0,Gift Card,0.00
+1306,2023-05-27,C868,Desk Lamp,Home,164.83,4,0.05,PayPal,0.00
+3399,2023-05-27,C605,Sneakers,Apparel,114.97,5,0.0,Debit Card,0.00
+2790,2023-05-27,C486,Sneakers,Apparel,91.34,4,0.05,Gift Card,5.00
+2069,2023-05-28,C199,USB-C Cable,Electronics,177.15,5,0.05,Gift Card,0.00
+1987,2023-05-28,C108,Jeans,Apparel,75.28,2,0.0,Debit Card,0.00
+2219,2023-05-28,C382,Sneakers,Apparel,139.30,1,0.15,Credit Card,0.00
+3004,2023-05-28,C261,Wireless Mouse,Electronics,498.88,5,0.0,Debit Card,0.00
+2100,2023-05-28,C929,Office Chair,Home,42.19,2,0.15,Debit Card,4.01
+3417,2023-05-28,C379,Socks (3-Pack),Apparel,51.48,1,0.05,Debit Card,14.02
+2575,2023-05-28,C211,Table Lamp,Home,86.58,3,0.05,PayPal,0.00
+2014,2023-05-28,C278,Table Lamp,Home,230.41,4,0.0,PayPal,0.00
+2266,2023-05-28,C548,Gaming Monitor,Electronics,275.22,5,0.0,PayPal,5.00
+3365,2023-05-29,C706,Mug,Home,267.10,4,0.0,Gift Card,0.00
+3219,2023-05-29,C574,Webcam,Electronics,124.42,2,0.05,PayPal,0.00
+3325,2023-05-29,C530,Yoga Mat,Fitness,90.18,2,0.05,Debit Card,0.00
+2679,2023-05-29,C684,Smartphone Case,Electronics,204.99,4,0.2,PayPal,0.00
+1066,2023-05-29,C469,Bluetooth Speaker,Electronics,363.24,4,0.0,Credit Card,0.00
+2710,2023-05-29,C538,Coffee Beans,Groceries,6.68,1,0.0,PayPal,7.47
+1984,2023-05-30,C998,Wall Art,Home,271.28,4,0.15,Debit Card,0.00
+3025,2023-05-30,C653,Gaming Monitor,Electronics,473.81,5,0.1,Credit Card,0.00
+2124,2023-05-30,C582,Oats,Groceries,16.24,4,0.05,Credit Card,3.46
+1914,2023-05-30,C584,Bluetooth Speaker,Electronics,435.33,4,0.05,Credit Card,0.00
+2524,2023-05-31,C442,Mechanical Keyboard,Electronics,127.61,5,0.0,Debit Card,5.00
+1861,2023-05-31,C251,Cereal,Groceries,28.04,3,0.0,Debit Card,14.87
+3080,2023-05-31,C460,Mug,Home,96.00,3,,Debit Card,5.00
+3122,2023-05-31,C548,Laptop Stand,Electronics,413.70,4,0.1,PayPal,5.00
+1055,2023-05-31,C176,Throw Pillow,Home,271.30,5,0.0,PayPal,0.00
+1158,2023-05-31,C210,Desk Lamp,Home,124.99,4,0.15,Gift Card,5.00
+2235,2023-05-31,C557,Winter Jacket,Apparel,38.79,4,0.0,Debit Card,0.00
+2895,2023-06-01,C336,Office Chair,Home,28.72,4,0.05,Debit Card,10.00
+1314,2023-06-01,C468,Throw Pillow,Home,113.08,4,0.15,Debit Card,0.00
+2328,2023-06-01,C299,Sneakers,Apparel,13.54,4,,Debit Card,10.22
+3128,2023-06-01,C691,USB-C Cable,Electronics,418.80,1,0.15,Credit Card,5.00
+2342,2023-06-01,C424,Jeans,Apparel,116.77,4,0.15,Credit Card,0.00
+1544,2023-06-01,C463,Honey,Groceries,8.79,2,0.1,PayPal,4.48
+2292,2023-06-01,C559,Desk Lamp,Home,270.31,4,0.0,PayPal,0.00
+2290,2023-06-01,C207,Foam Roller,Fitness,53.29,3,0.05,Debit Card,0.00
+1901,2023-06-01,C337,Protein Powder,Fitness,156.08,2,0.05,PayPal,0.00
+1684,2023-06-02,C935,Throw Pillow,Home,245.40,2,0.0,PayPal,0.00
+3332,2023-06-02,C103,Blender,Home,157.75,3,0.0,PayPal,0.00
+2148,2023-06-02,C198,Sweater,Apparel,116.83,2,0.0,PayPal,5.00
+1957,2023-06-02,C525,Throw Pillow,Home,105.40,3,0.05,PayPal,0.00
+1169,2023-06-02,C528,Oats,Groceries,18.46,2,0.0,Credit Card,9.03
+2274,2023-06-03,C835,Bookshelf,Home,199.42,4,0.05,Credit Card,10.00
+1393,2023-06-03,C564,Blender,Home,266.53,1,0.05,Debit Card,5.00
+2230,2023-06-03,C254,Bluetooth Speaker,Electronics,296.34,3,0.05,Debit Card,5.00
+1362,2023-06-03,C636,External Hard Drive,Electronics,286.81,3,0.0,Credit Card,0.00
+3469,2023-06-03,C773,Socks (3-Pack),Apparel,19.43,5,,Credit Card,14.85
+3460,2023-06-03,C389,Throw Pillow,Home,104.79,4,0.0,Debit Card,10.00
+3220,2023-06-03,C984,Jeans,Apparel,111.36,5,0.05,Gift Card,0.00
+1536,2023-06-03,C711,Sweater,Apparel,34.11,3,,Credit Card,0.00
+1781,2023-06-04,C444,Sweater,Apparel,149.92,2,0.05,Gift Card,0.00
+3006,2023-06-04,C583,Protein Powder,Fitness,173.24,2,,Credit Card,0.00
+1386,2023-06-04,C115,Honey,Groceries,9.01,2,0.0,Gift Card,13.41
+2675,2023-06-04,C221,Cotton T-Shirt,Apparel,66.37,4,0.0,Debit Card,5.00
+1905,2023-06-04,C690,Running Shoes,Apparel,19.96,4,0.0,PayPal,12.16
+2384,2023-06-04,C103,Shorts,Apparel,77.56,2,0.2,Gift Card,10.00
+2494,2023-06-04,C618,Gaming Monitor,Electronics,81.51,5,0.0,Debit Card,0.00
+3327,2023-06-04,C188,Water Bottle,Fitness,127.75,5,0.0,Debit Card,0.00
+2280,2023-06-04,C976,Bookshelf,Home,111.05,4,0.1,Debit Card,0.00
+1555,2023-06-04,C221,Sweater,Apparel,129.40,4,0.0,PayPal,5.00
+2019,2023-06-05,C798,Wall Art,Home,156.41,2,0.0,PayPal,0.00
+2777,2023-06-05,C556,Dumbbell Set,Fitness,145.18,3,0.0,Debit Card,0.00
+3292,2023-06-05,C951,Cereal,Groceries,23.32,1,0.05,Gift Card,12.36
+1943,2023-06-05,C130,Hat,Apparel,81.64,2,0.0,Debit Card,0.00
+3275,2023-06-05,C801,Wireless Mouse,Electronics,152.69,2,0.0,Gift Card,0.00
+2391,2023-06-05,C743,Sweater,Apparel,65.38,3,0.1,PayPal,0.00
+1559,2023-06-05,C475,Shorts,Apparel,13.77,3,0.0,PayPal,7.94
+1480,2023-06-06,C910,Foam Roller,Fitness,81.46,2,,Gift Card,0.00
+3129,2023-06-06,C123,Mug,Home,202.16,5,0.0,Credit Card,0.00
+1960,2023-06-06,C295,Bookshelf,Home,247.60,5,0.15,Credit Card,0.00
+1866,2023-06-06,C337,Table Lamp,Home,120.06,4,,Debit Card,0.00
+1881,2023-06-06,C810,Rice,Groceries,24.42,3,0.15,Debit Card,7.60
+1445,2023-06-07,C652,Jump Rope,Fitness,126.48,3,0.0,Gift Card,0.00
+3478,2023-06-07,C366,External Hard Drive,Electronics,298.48,4,0.0,Debit Card,0.00
+2011,2023-06-07,C169,Oats,Groceries,13.17,4,0.0,PayPal,4.55
+2667,2023-06-07,C607,Sweater,Apparel,62.64,2,0.0,PayPal,0.00
+1186,2023-06-07,C412,Throw Pillow,Home,135.78,4,0.0,Debit Card,0.00
+3380,2023-06-07,C854,Wall Art,Home,85.67,3,0.1,Gift Card,0.00
+2867,2023-06-08,C821,Kettlebell,Fitness,62.27,1,0.0,Debit Card,6.34
+2611,2023-06-08,C882,Gaming Monitor,Electronics,205.86,2,0.0,Gift Card,0.00
+2858,2023-06-08,C486,Smartphone Case,Electronics,126.01,1,0.0,PayPal,0.00
+2321,2023-06-08,C806,Gaming Monitor,Electronics,66.49,4,,PayPal,0.00
+1538,2023-06-08,C893,Dress Shirt,Apparel,15.95,1,,Credit Card,8.63
+3246,2023-06-08,C350,Smartphone Case,Electronics,432.63,2,0.0,Credit Card,0.00
+2926,2023-06-08,C205,Bluetooth Speaker,Electronics,30.30,2,0.0,Credit Card,7.89
+2784,2023-06-08,C111,Cotton T-Shirt,Apparel,123.66,3,0.0,PayPal,0.00
+2730,2023-06-08,C265,Bluetooth Speaker,Electronics,336.69,5,0.05,Gift Card,5.00
+2885,2023-06-08,C263,Mechanical Keyboard,Electronics,367.30,1,0.05,PayPal,10.00
+1586,2023-06-08,C932,Sweater,Apparel,73.46,1,0.05,Debit Card,10.56
+3086,2023-06-08,C888,External Hard Drive,Electronics,439.86,5,0.15,Credit Card,0.00
+1764,2023-06-09,C939,Oats,Groceries,3.53,4,0.0,PayPal,10.14
+1768,2023-06-09,C227,Shorts,Apparel,32.73,4,0.1,PayPal,0.00
+2633,2023-06-09,C538,Cotton T-Shirt,Apparel,82.71,1,0.0,Credit Card,14.27
+2111,2023-06-09,C162,Mug,Home,59.59,3,0.15,PayPal,0.00
+1211,2023-06-09,C403,Wireless Mouse,Electronics,58.91,2,0.15,PayPal,5.00
+2577,2023-06-09,C541,Coffee Beans,Groceries,21.62,1,0.0,Gift Card,13.40
+2702,2023-06-10,C536,Sweater,Apparel,16.41,5,0.1,Credit Card,6.40
+2545,2023-06-10,C463,Laptop Stand,Electronics,327.87,4,0.0,PayPal,5.00
+2547,2023-06-10,C664,Bookshelf,Home,49.13,1,0.05,Debit Card,6.74
+3346,2023-06-10,C810,Wall Art,Home,230.44,4,,PayPal,5.00
+3181,2023-06-10,C684,Wall Art,Home,280.99,2,0.2,Debit Card,5.00
+1320,2023-06-10,C817,Blender,Home,62.57,1,,Gift Card,9.58
+1509,2023-06-10,C992,Gym Bag,Fitness,132.49,4,0.05,PayPal,0.00
+3373,2023-06-10,C882,Hat,Apparel,115.55,5,0.1,PayPal,0.00
+1355,2023-06-10,C676,Dress Shirt,Apparel,117.20,3,0.0,Gift Card,0.00
+1533,2023-06-10,C113,Smart Watch,Electronics,192.78,4,0.15,Debit Card,0.00
+1364,2023-06-11,C444,Smartphone Case,Electronics,375.20,5,0.0,Gift Card,5.00
+2770,2023-06-11,C227,Coffee Beans,Groceries,3.53,3,0.05,Credit Card,12.85
+1886,2023-06-11,C220,Olive Oil,Groceries,13.19,1,0.0,Credit Card,11.42
+1103,2023-06-11,C409,Smart Watch,Electronics,55.74,3,0.0,Debit Card,0.00
+2076,2023-06-11,C542,Running Shoes,Apparel,131.03,3,0.0,PayPal,5.00
+3085,2023-06-11,C716,Coffee Beans,Groceries,25.68,2,0.1,PayPal,9.24
+1351,2023-06-11,C631,Bluetooth Speaker,Electronics,270.51,2,0.05,Debit Card,0.00
+1109,2023-06-11,C188,Protein Powder,Fitness,152.96,5,0.0,Gift Card,0.00
+2209,2023-06-12,C982,Hat,Apparel,125.16,2,0.1,Debit Card,0.00
+1628,2023-06-12,C705,Rug,Home,81.09,1,0.0,PayPal,9.64
+3255,2023-06-12,C425,Winter Jacket,Apparel,84.21,2,0.0,Credit Card,5.00
+2172,2023-06-12,C674,Almonds,Groceries,8.60,5,0.0,PayPal,8.42
+3212,2023-06-13,C518,Water Bottle,Fitness,107.02,3,0.0,Gift Card,5.00
+3355,2023-06-13,C489,Office Chair,Home,190.83,5,0.0,PayPal,10.00
+1654,2023-06-13,C828,Dress Shirt,Apparel,21.47,1,0.0,Debit Card,8.35
+3347,2023-06-13,C752,Cotton T-Shirt,Apparel,128.14,3,0.0,Credit Card,0.00
+2977,2023-06-13,C672,Almonds,Groceries,20.64,3,0.15,Credit Card,5.64
+3456,2023-06-13,C186,Desk Lamp,Home,197.49,3,0.0,Gift Card,0.00
+2061,2023-06-14,C946,Dark Chocolate,Groceries,9.61,4,0.05,PayPal,12.55
+2806,2023-06-14,C987,Laptop Stand,Electronics,298.29,3,0.0,Credit Card,0.00
+1566,2023-06-14,C379,External Hard Drive,Electronics,242.88,2,0.0,PayPal,0.00
+3123,2023-06-14,C229,Almonds,Groceries,25.75,1,0.0,Gift Card,11.77
+2163,2023-06-14,C434,Jeans,Apparel,95.31,1,0.2,Credit Card,7.05
+2509,2023-06-14,C515,Winter Jacket,Apparel,50.11,5,0.0,PayPal,0.00
+2031,2023-06-15,C865,Gym Bag,Fitness,117.93,1,0.0,Credit Card,0.00
+1818,2023-06-15,C813,Bookshelf,Home,175.64,5,0.0,Debit Card,0.00
+3278,2023-06-15,C432,Mechanical Keyboard,Electronics,441.68,5,0.1,PayPal,0.00
+2471,2023-06-15,C378,USB-C Cable,Electronics,223.96,5,0.0,Gift Card,5.00
+2078,2023-06-15,C422,Yoga Mat,Fitness,92.34,5,0.1,Credit Card,10.00
+1181,2023-06-15,C567,Laptop Stand,Electronics,355.27,3,0.0,Gift Card,0.00
+2768,2023-06-15,C950,USB-C Cable,Electronics,19.30,1,0.0,Gift Card,4.20
+2714,2023-06-16,C970,Blender,Home,135.58,4,0.0,Gift Card,0.00
+2634,2023-06-16,C297,Yoga Mat,Fitness,108.85,2,0.0,Credit Card,5.00
+1832,2023-06-16,C272,Wall Art,Home,272.58,2,,Debit Card,0.00
+2520,2023-06-16,C225,Dark Chocolate,Groceries,22.69,3,0.0,Gift Card,10.87
+1099,2023-06-16,C435,Office Chair,Home,223.32,4,0.05,Credit Card,5.00
+2233,2023-06-16,C306,Dress Shirt,Apparel,148.74,2,0.0,PayPal,0.00
+2680,2023-06-17,C738,Throw Pillow,Home,238.25,1,0.0,Credit Card,5.00
+3371,2023-06-17,C935,Coffee Beans,Groceries,9.75,4,0.0,Debit Card,14.02
+2329,2023-06-17,C394,Coffee Maker,Home,170.93,3,,Credit Card,0.00
+2376,2023-06-17,C722,Bluetooth Speaker,Electronics,264.19,4,0.0,Credit Card,10.00
+1722,2023-06-17,C718,Dark Chocolate,Groceries,27.63,1,0.0,PayPal,12.40
+1725,2023-06-17,C572,Running Shoes,Apparel,53.83,2,0.15,Gift Card,0.00
+3454,2023-06-17,C511,Oats,Groceries,3.76,4,,PayPal,3.63
+3126,2023-06-17,C908,Bluetooth Speaker,Electronics,218.47,2,0.0,Credit Card,0.00
+1541,2023-06-17,C975,Shorts,Apparel,43.86,5,,Credit Card,0.00
+2842,2023-06-18,C266,Winter Jacket,Apparel,89.52,1,0.0,Gift Card,3.36
+2871,2023-06-18,C459,Coffee Beans,Groceries,5.47,5,0.0,Debit Card,13.13
+2205,2023-06-18,C553,Resistance Bands,Fitness,121.90,5,0.2,PayPal,5.00
+2567,2023-06-18,C380,Socks (3-Pack),Apparel,10.43,4,0.1,Credit Card,11.98
+2065,2023-06-18,C462,External Hard Drive,Electronics,128.30,3,0.15,PayPal,0.00
+1487,2023-06-18,C153,Olive Oil,Groceries,7.27,1,0.0,Debit Card,11.66
+2453,2023-06-18,C992,Foam Roller,Fitness,142.10,5,0.1,Debit Card,0.00
+1668,2023-06-19,C123,Jeans,Apparel,68.09,5,0.0,Credit Card,10.00
+3099,2023-06-19,C395,Bookshelf,Home,121.12,2,0.0,Credit Card,5.00
+3473,2023-06-19,C656,Mechanical Keyboard,Electronics,214.42,4,0.0,Gift Card,0.00
+2185,2023-06-19,C839,Coffee Beans,Groceries,23.21,4,0.2,Gift Card,3.84
+1531,2023-06-19,C178,Jeans,Apparel,117.06,5,0.05,PayPal,5.00
+1238,2023-06-19,C807,Resistance Bands,Fitness,153.18,1,0.0,Debit Card,5.00
+1497,2023-06-19,C516,Olive Oil,Groceries,12.68,2,0.0,Gift Card,11.03
+1876,2023-06-19,C730,Sweater,Apparel,139.26,1,0.05,Debit Card,0.00
+2158,2023-06-20,C932,Rug,Home,138.94,4,0.0,Gift Card,0.00
+2442,2023-06-20,C589,Mechanical Keyboard,Electronics,295.24,1,0.0,Debit Card,0.00
+1421,2023-06-20,C673,Winter Jacket,Apparel,85.95,5,0.0,PayPal,0.00
+1465,2023-06-20,C205,Gaming Monitor,Electronics,289.96,3,0.0,Gift Card,0.00
+2852,2023-06-20,C194,Webcam,Electronics,458.91,3,0.1,Debit Card,10.00
+2733,2023-06-20,C277,Wireless Mouse,Electronics,140.00,5,0.1,Gift Card,0.00
+2060,2023-06-20,C673,Sweater,Apparel,101.47,5,0.1,Debit Card,0.00
+3062,2023-06-20,C865,Laptop Stand,Electronics,104.76,4,0.0,PayPal,0.00
+3446,2023-06-20,C549,Winter Jacket,Apparel,97.07,2,0.05,PayPal,0.00
+1653,2023-06-21,C632,Office Chair,Home,108.44,5,0.1,Gift Card,0.00
+2981,2023-06-21,C378,Gaming Monitor,Electronics,292.35,4,0.0,PayPal,0.00
+1582,2023-06-21,C801,Bluetooth Speaker,Electronics,430.25,4,,Gift Card,10.00
+2840,2023-06-21,C959,Jeans,Apparel,45.53,2,,Credit Card,13.34
+1039,2023-06-22,C717,Gaming Monitor,Electronics,102.20,5,0.05,Gift Card,0.00
+1829,2023-06-22,C392,Rug,Home,245.38,1,0.0,Debit Card,0.00
+3462,2023-06-22,C823,Cotton T-Shirt,Apparel,92.50,5,0.1,Credit Card,5.00
+1726,2023-06-22,C560,Yoga Mat,Fitness,81.19,5,0.0,Credit Card,0.00
+1698,2023-06-22,C538,Foam Roller,Fitness,29.24,1,0.0,Debit Card,4.30
+3306,2023-06-22,C875,Smartphone Case,Electronics,493.23,4,0.0,Credit Card,0.00
+2902,2023-06-22,C612,Mechanical Keyboard,Electronics,361.16,2,0.05,PayPal,0.00
+2199,2023-06-23,C619,External Hard Drive,Electronics,481.21,5,0.2,Credit Card,0.00
+2343,2023-06-23,C905,Wireless Mouse,Electronics,14.25,1,0.0,PayPal,5.44
+3432,2023-06-23,C606,Webcam,Electronics,196.14,2,0.0,Gift Card,5.00
+2612,2023-06-23,C402,Wall Art,Home,177.85,3,0.0,Debit Card,5.00
+3107,2023-06-23,C364,Socks (3-Pack),Apparel,47.69,2,0.05,PayPal,12.27
+2731,2023-06-23,C319,Sweater,Apparel,29.36,5,0.05,Debit Card,0.00
+1270,2023-06-23,C141,USB-C Cable,Electronics,123.56,3,0.0,Debit Card,0.00
+2834,2023-06-23,C832,Water Bottle,Fitness,100.09,3,0.0,Gift Card,0.00
+1223,2023-06-23,C221,Coffee Beans,Groceries,5.77,4,,Credit Card,12.91
+3067,2023-06-23,C595,Running Shoes,Apparel,80.79,1,0.2,Gift Card,5.12
+2540,2023-06-23,C658,Coffee Beans,Groceries,27.59,5,0.1,Credit Card,10.00
+1795,2023-06-24,C109,Sneakers,Apparel,54.23,3,0.0,Gift Card,0.00
+2630,2023-06-24,C127,Table Lamp,Home,70.49,2,0.05,Debit Card,0.00
+3343,2023-06-24,C238,Mechanical Keyboard,Electronics,216.11,4,0.05,Credit Card,0.00
+1156,2023-06-24,C206,Olive Oil,Groceries,11.94,1,0.2,Debit Card,10.63
+1838,2023-06-24,C375,USB-C Cable,Electronics,331.58,4,0.0,Gift Card,0.00
+2888,2023-06-24,C924,USB-C Cable,Electronics,344.17,1,0.0,Credit Card,0.00
+2143,2023-06-24,C267,Socks (3-Pack),Apparel,134.12,5,0.2,Debit Card,0.00
+1035,2023-06-24,C452,Honey,Groceries,24.22,3,0.0,PayPal,7.52
+1926,2023-06-24,C116,Table Lamp,Home,44.55,5,0.0,Gift Card,0.00
+1406,2023-06-25,C747,Jeans,Apparel,133.71,2,0.2,Credit Card,0.00
+2814,2023-06-25,C326,External Hard Drive,Electronics,404.58,1,0.0,PayPal,0.00
+3262,2023-06-26,C339,Laptop Stand,Electronics,392.28,2,0.0,Credit Card,0.00
+1873,2023-06-26,C373,Office Chair,Home,21.04,1,0.0,Gift Card,4.70
+3348,2023-06-26,C160,External Hard Drive,Electronics,217.07,1,0.0,Gift Card,0.00
+2657,2023-06-26,C442,Yoga Mat,Fitness,19.10,1,0.0,PayPal,3.96
+3056,2023-06-26,C221,Coffee Maker,Home,77.05,2,0.0,Gift Card,5.00
+1508,2023-06-26,C654,Oats,Groceries,12.36,4,0.0,Debit Card,3.76
+2272,2023-06-26,C957,Mug,Home,162.91,4,,Credit Card,0.00
+1045,2023-06-26,C351,Sweater,Apparel,46.03,4,0.05,Gift Card,0.00
+2157,2023-06-26,C492,Dumbbell Set,Fitness,38.57,3,0.1,PayPal,0.00
+3214,2023-06-27,C211,Jump Rope,Fitness,105.11,4,0.2,Debit Card,0.00
+3281,2023-06-27,C676,Yoga Mat,Fitness,33.83,4,0.0,PayPal,5.00
+1787,2023-06-27,C915,External Hard Drive,Electronics,493.74,4,0.0,Credit Card,0.00
+2742,2023-06-28,C720,Dumbbell Set,Fitness,32.03,4,0.0,Debit Card,0.00
+2058,2023-06-28,C299,Jump Rope,Fitness,183.10,3,0.1,PayPal,0.00
+1377,2023-06-28,C934,Dark Chocolate,Groceries,28.63,2,0.15,Debit Card,4.05
+2964,2023-06-28,C980,Blender,Home,274.22,2,0.05,Gift Card,0.00
+1491,2023-06-29,C376,Mechanical Keyboard,Electronics,25.73,5,,Debit Card,0.00
+2857,2023-06-29,C174,Sweater,Apparel,122.40,4,0.0,Credit Card,0.00
+1479,2023-06-29,C380,Webcam,Electronics,92.34,3,0.0,Credit Card,0.00
+2613,2023-06-29,C874,Bookshelf,Home,220.84,5,0.0,PayPal,0.00
+3136,2023-06-29,C238,USB-C Cable,Electronics,111.23,1,0.15,Gift Card,0.00
+2743,2023-06-29,C732,Rug,Home,53.76,3,0.15,Gift Card,10.00
+1736,2023-06-29,C602,Shorts,Apparel,15.47,1,0.15,Gift Card,7.16
+2588,2023-06-29,C483,Mechanical Keyboard,Electronics,345.38,4,0.1,Debit Card,0.00
+3065,2023-06-30,C507,Dress Shirt,Apparel,32.96,4,0.15,Debit Card,0.00
+1683,2023-06-30,C479,Oats,Groceries,3.25,1,0.05,PayPal,5.30
+3390,2023-06-30,C367,Mug,Home,129.19,5,0.1,Credit Card,0.00
+3029,2023-06-30,C151,Hat,Apparel,41.83,4,0.05,Debit Card,0.00
+2781,2023-06-30,C214,USB-C Cable,Electronics,481.63,5,0.05,PayPal,10.00
+2578,2023-06-30,C309,Hat,Apparel,149.43,1,0.2,Gift Card,5.00
+3139,2023-06-30,C748,Oats,Groceries,20.97,1,0.15,Gift Card,5.87
+1877,2023-06-30,C442,Table Lamp,Home,57.81,3,0.0,Credit Card,0.00
+2306,2023-06-30,C609,Mechanical Keyboard,Electronics,498.70,3,0.15,Gift Card,5.00
+1259,2023-07-01,C187,Sweater,Apparel,39.64,5,0.0,PayPal,0.00
+2694,2023-07-01,C879,Sneakers,Apparel,34.91,3,0.2,Debit Card,0.00
+1836,2023-07-01,C839,Laptop Stand,Electronics,14.34,4,0.0,Debit Card,7.93
+2571,2023-07-01,C340,Table Lamp,Home,77.38,5,0.15,Credit Card,0.00
+1077,2023-07-01,C702,Coffee Maker,Home,113.32,1,0.0,Credit Card,0.00
+1454,2023-07-01,C822,Socks (3-Pack),Apparel,30.32,4,,Gift Card,0.00
+3054,2023-07-02,C281,Wall Art,Home,275.94,4,0.05,Debit Card,5.00
+3096,2023-07-02,C896,Laptop Stand,Electronics,455.98,5,0.15,Debit Card,0.00
+2427,2023-07-03,C110,Throw Pillow,Home,112.80,3,0.0,Gift Card,0.00
+2288,2023-07-03,C369,Sweater,Apparel,136.01,2,0.0,Debit Card,0.00
+1448,2023-07-03,C739,USB-C Cable,Electronics,50.43,5,,PayPal,0.00
+1044,2023-07-03,C666,Rice,Groceries,22.44,3,0.0,Gift Card,9.84
+2236,2023-07-03,C692,Office Chair,Home,61.42,2,0.0,PayPal,5.00
+2468,2023-07-03,C352,Resistance Bands,Fitness,55.98,5,0.0,Debit Card,0.00
+3236,2023-07-04,C576,Gym Bag,Fitness,15.98,2,0.05,PayPal,5.33
+3038,2023-07-04,C761,Winter Jacket,Apparel,137.23,1,0.1,Debit Card,10.00
+1903,2023-07-04,C725,Coffee Maker,Home,176.57,4,,Credit Card,0.00
+1127,2023-07-05,C705,Pasta,Groceries,22.78,5,0.0,Credit Card,10.00
+2882,2023-07-05,C702,Socks (3-Pack),Apparel,134.74,5,0.05,Debit Card,0.00
+2483,2023-07-05,C158,Jeans,Apparel,16.77,2,0.0,PayPal,9.89
+1058,2023-07-05,C337,Treadmill,Fitness,124.98,5,0.0,PayPal,0.00
+1801,2023-07-05,C431,Foam Roller,Fitness,174.51,1,0.1,Gift Card,0.00
+2421,2023-07-05,C689,External Hard Drive,Electronics,335.67,2,0.05,PayPal,0.00
+1185,2023-07-05,C885,Rug,Home,274.78,2,0.0,PayPal,0.00
+2090,2023-07-05,C192,Treadmill,Fitness,183.32,5,,Credit Card,0.00
+2719,2023-07-05,C269,Kettlebell,Fitness,108.55,1,0.0,Debit Card,5.00
+2884,2023-07-05,C554,Coffee Beans,Groceries,13.62,4,0.0,PayPal,14.53
+3415,2023-07-05,C674,Mechanical Keyboard,Electronics,402.17,2,0.0,Gift Card,0.00
+3227,2023-07-05,C703,Gym Bag,Fitness,88.84,1,0.1,Debit Card,12.13
+3164,2023-07-05,C559,Coffee Maker,Home,30.99,2,0.0,PayPal,12.35
+2829,2023-07-06,C892,Winter Jacket,Apparel,44.01,3,0.05,Debit Card,0.00
+1527,2023-07-06,C603,Pasta,Groceries,3.77,3,0.2,PayPal,9.97
+2325,2023-07-06,C730,Jeans,Apparel,71.88,1,0.05,Debit Card,12.22
+3149,2023-07-06,C277,Socks (3-Pack),Apparel,141.39,5,0.0,PayPal,5.00
+1074,2023-07-06,C909,Dark Chocolate,Groceries,19.03,1,0.0,PayPal,5.00
+1446,2023-07-06,C580,Bookshelf,Home,134.99,3,0.0,PayPal,5.00
+2916,2023-07-06,C600,Bookshelf,Home,176.18,4,0.0,Gift Card,0.00
+2353,2023-07-07,C153,Throw Pillow,Home,89.99,4,0.0,Gift Card,0.00
+3434,2023-07-07,C515,Bluetooth Speaker,Electronics,183.13,1,0.0,Credit Card,0.00
+3163,2023-07-07,C412,Dress Shirt,Apparel,23.89,4,0.0,Debit Card,9.55
+3406,2023-07-07,C920,Smart Watch,Electronics,166.28,3,0.0,Credit Card,10.00
+3179,2023-07-07,C612,Socks (3-Pack),Apparel,73.87,1,0.0,Credit Card,14.72
+2335,2023-07-07,C264,Cotton T-Shirt,Apparel,70.44,3,0.0,Debit Card,10.00
+3408,2023-07-07,C503,Yoga Mat,Fitness,55.32,3,0.05,Gift Card,0.00
+2424,2023-07-08,C912,Almonds,Groceries,16.37,1,0.0,Gift Card,6.63
+3112,2023-07-08,C625,Hat,Apparel,134.55,5,,Debit Card,0.00
+2789,2023-07-08,C537,External Hard Drive,Electronics,324.74,2,0.05,Debit Card,0.00
+3472,2023-07-08,C794,Cotton T-Shirt,Apparel,129.88,4,0.0,Credit Card,0.00
+3102,2023-07-08,C774,Gaming Monitor,Electronics,465.95,1,0.1,Debit Card,10.00
+2929,2023-07-08,C712,Gaming Monitor,Electronics,240.14,4,0.0,Debit Card,0.00
+2361,2023-07-08,C835,Coffee Beans,Groceries,14.69,2,0.1,Gift Card,6.84
+1758,2023-07-08,C334,Treadmill,Fitness,75.12,2,0.15,Debit Card,5.00
+1869,2023-07-08,C760,Almonds,Groceries,22.56,2,0.1,Credit Card,7.53
+3239,2023-07-08,C553,Bookshelf,Home,33.89,5,0.0,PayPal,0.00
+2590,2023-07-08,C261,Foam Roller,Fitness,111.24,5,0.0,Debit Card,0.00
+2416,2023-07-09,C480,Wall Art,Home,56.52,3,0.05,PayPal,0.00
+3351,2023-07-09,C675,Laptop Stand,Electronics,483.23,2,0.0,Credit Card,0.00
+1380,2023-07-09,C416,Wall Art,Home,274.23,4,0.2,Debit Card,0.00
+2400,2023-07-09,C483,Jeans,Apparel,126.88,5,0.0,PayPal,0.00
+1438,2023-07-09,C828,Dress Shirt,Apparel,70.93,2,0.0,Debit Card,0.00
+1791,2023-07-09,C486,Honey,Groceries,20.66,5,0.0,Debit Card,0.00
+2632,2023-07-09,C648,Cotton T-Shirt,Apparel,126.14,1,0.0,Gift Card,10.00
+1076,2023-07-09,C327,Hat,Apparel,88.12,5,0.0,Gift Card,5.00
+3172,2023-07-09,C450,Smartphone Case,Electronics,142.24,1,0.1,Credit Card,0.00
+2830,2023-07-10,C131,External Hard Drive,Electronics,274.06,2,0.15,PayPal,5.00
+2560,2023-07-10,C497,External Hard Drive,Electronics,153.43,2,0.05,PayPal,0.00
+2947,2023-07-10,C958,Cereal,Groceries,16.72,3,0.0,Debit Card,6.88
+3173,2023-07-10,C412,Rug,Home,242.38,4,0.0,Credit Card,0.00
+2368,2023-07-10,C862,Bookshelf,Home,182.62,3,0.05,Credit Card,0.00
+1215,2023-07-11,C916,Mechanical Keyboard,Electronics,351.12,1,0.1,Credit Card,0.00
+2550,2023-07-11,C415,Table Lamp,Home,21.48,3,0.1,Debit Card,14.18
+3431,2023-07-11,C507,Olive Oil,Groceries,26.41,5,0.0,Credit Card,0.00
+2974,2023-07-11,C287,Foam Roller,Fitness,198.65,3,0.05,Gift Card,0.00
+2970,2023-07-11,C979,Dress Shirt,Apparel,139.23,3,0.0,Gift Card,0.00
+3051,2023-07-11,C481,Wall Art,Home,203.88,1,0.05,Gift Card,0.00
+1175,2023-07-11,C584,Smart Watch,Electronics,207.46,5,0.05,Credit Card,0.00
+2237,2023-07-11,C424,Winter Jacket,Apparel,147.92,5,0.0,Credit Card,10.00
+2869,2023-07-12,C191,Hat,Apparel,35.59,3,0.0,Debit Card,10.00
+2906,2023-07-12,C162,Mug,Home,215.20,2,0.0,PayPal,5.00
+1771,2023-07-12,C716,Coffee Maker,Home,18.52,1,0.15,Gift Card,11.47
+2627,2023-07-12,C390,Foam Roller,Fitness,32.74,4,0.15,Debit Card,0.00
+2161,2023-07-13,C137,Dress Shirt,Apparel,44.81,1,0.0,Debit Card,10.60
+1052,2023-07-13,C349,Pasta,Groceries,11.10,1,0.15,Credit Card,4.12
+1828,2023-07-14,C420,Dumbbell Set,Fitness,24.57,2,0.0,Credit Card,4.02
+1301,2023-07-14,C109,Throw Pillow,Home,85.75,1,0.1,PayPal,3.91
+3496,2023-07-14,C931,Running Shoes,Apparel,75.62,5,0.1,Gift Card,5.00
+2208,2023-07-14,C426,Gym Bag,Fitness,99.40,2,0.1,PayPal,0.00
+1721,2023-07-14,C468,Bluetooth Speaker,Electronics,173.54,3,0.1,PayPal,0.00
+1550,2023-07-14,C842,Shorts,Apparel,93.11,4,0.05,Gift Card,10.00
+2687,2023-07-14,C257,Protein Powder,Fitness,70.82,5,0.2,Credit Card,5.00
+1954,2023-07-14,C381,Running Shoes,Apparel,73.39,5,0.0,Credit Card,0.00
+1070,2023-07-14,C936,Treadmill,Fitness,31.64,5,0.2,Debit Card,0.00
+1092,2023-07-14,C133,Sweater,Apparel,130.71,1,0.2,Debit Card,0.00
+1680,2023-07-14,C808,Wireless Mouse,Electronics,308.31,1,0.05,Gift Card,0.00
+1727,2023-07-14,C774,Treadmill,Fitness,52.84,4,0.0,PayPal,0.00
+1042,2023-07-14,C764,Socks (3-Pack),Apparel,60.35,4,0.1,Gift Card,5.00
+2250,2023-07-15,C289,Throw Pillow,Home,108.66,4,0.05,PayPal,5.00
+2521,2023-07-15,C472,Bluetooth Speaker,Electronics,179.09,1,,PayPal,0.00
+2175,2023-07-15,C323,Gaming Monitor,Electronics,289.67,2,0.1,Gift Card,0.00
+2935,2023-07-15,C719,Resistance Bands,Fitness,117.84,3,,Gift Card,0.00
+2366,2023-07-15,C356,Resistance Bands,Fitness,110.80,3,0.0,Credit Card,0.00
+1473,2023-07-15,C116,Wireless Mouse,Electronics,175.48,1,0.0,Gift Card,10.00
+2286,2023-07-15,C349,Rice,Groceries,16.05,4,0.05,Debit Card,7.95
+1143,2023-07-15,C386,Dress Shirt,Apparel,37.92,5,0.2,Credit Card,10.00
+3165,2023-07-16,C342,Dress Shirt,Apparel,111.00,1,0.0,Credit Card,0.00
+2168,2023-07-16,C772,Smart Watch,Electronics,236.60,3,,Debit Card,0.00
+2797,2023-07-16,C873,Olive Oil,Groceries,29.96,2,0.0,Debit Card,8.70
+2282,2023-07-16,C812,Gaming Monitor,Electronics,54.37,5,0.05,PayPal,0.00
+1602,2023-07-16,C254,Rug,Home,30.17,2,,Debit Card,3.43
+3366,2023-07-16,C235,Wireless Mouse,Electronics,269.89,1,0.0,Credit Card,0.00
+2135,2023-07-16,C457,Gym Bag,Fitness,95.44,2,,Gift Card,0.00
+1660,2023-07-16,C703,Socks (3-Pack),Apparel,134.47,2,0.1,Credit Card,0.00
+3419,2023-07-17,C531,Water Bottle,Fitness,162.74,4,0.0,Debit Card,0.00
+3106,2023-07-17,C559,Laptop Stand,Electronics,458.96,5,0.0,PayPal,0.00
+1514,2023-07-17,C452,USB-C Cable,Electronics,274.53,2,0.0,Credit Card,0.00
+2176,2023-07-17,C460,Kettlebell,Fitness,181.09,3,0.0,Credit Card,0.00
+2846,2023-07-17,C746,Wall Art,Home,277.07,4,0.0,Credit Card,5.00
+2972,2023-07-17,C265,Dark Chocolate,Groceries,3.46,1,0.0,Debit Card,7.15
+1142,2023-07-17,C252,Smartphone Case,Electronics,312.32,3,0.15,Gift Card,0.00
+3190,2023-07-18,C987,Honey,Groceries,15.96,3,0.0,Credit Card,14.06
+3050,2023-07-18,C260,Gaming Monitor,Electronics,96.62,2,,Debit Card,5.00
+2832,2023-07-18,C750,Webcam,Electronics,308.35,2,0.05,Debit Card,0.00
+2398,2023-07-18,C141,Wireless Mouse,Electronics,112.33,5,0.0,Credit Card,0.00
+1685,2023-07-19,C604,Rice,Groceries,8.65,2,0.05,Credit Card,13.44
+3046,2023-07-19,C255,Bookshelf,Home,230.87,5,0.0,Gift Card,0.00
+1675,2023-07-19,C533,Dark Chocolate,Groceries,15.20,1,0.2,PayPal,10.84
+1303,2023-07-19,C304,Bluetooth Speaker,Electronics,437.64,2,0.1,PayPal,0.00
+1697,2023-07-19,C732,Resistance Bands,Fitness,174.27,5,,Gift Card,0.00
+2862,2023-07-20,C494,Office Chair,Home,42.52,5,0.0,Gift Card,10.00
+3430,2023-07-21,C223,Mug,Home,125.95,3,0.0,PayPal,5.00
+1708,2023-07-21,C130,Smart Watch,Electronics,95.33,3,0.0,Debit Card,0.00
+3384,2023-07-21,C130,Gaming Monitor,Electronics,151.90,1,0.05,Gift Card,10.00
+3458,2023-07-21,C682,Honey,Groceries,25.42,1,0.0,Gift Card,5.29
+2729,2023-07-22,C842,USB-C Cable,Electronics,305.77,5,0.0,Debit Card,0.00
+1358,2023-07-22,C571,Jeans,Apparel,47.10,5,0.0,PayPal,0.00
+2355,2023-07-22,C304,Honey,Groceries,13.49,3,0.0,Gift Card,7.89
+2670,2023-07-22,C951,USB-C Cable,Electronics,271.75,2,0.1,Gift Card,0.00
+2295,2023-07-22,C652,Rice,Groceries,11.49,1,0.0,PayPal,10.05
+1113,2023-07-22,C424,Smartphone Case,Electronics,216.22,5,0.1,Credit Card,0.00
+2968,2023-07-22,C609,Dumbbell Set,Fitness,155.25,2,0.0,Credit Card,0.00
+3088,2023-07-23,C525,Pasta,Groceries,3.39,4,0.15,Credit Card,3.01
+2429,2023-07-23,C492,Dumbbell Set,Fitness,90.31,5,0.0,Gift Card,10.00
+2351,2023-07-23,C428,Gaming Monitor,Electronics,183.81,4,,Gift Card,10.00
+2696,2023-07-23,C616,Webcam,Electronics,190.92,1,0.0,PayPal,10.00
+3247,2023-07-23,C939,Smart Watch,Electronics,456.92,4,0.2,Gift Card,0.00
+3180,2023-07-23,C212,Rug,Home,98.10,5,0.0,Credit Card,0.00
+1772,2023-07-23,C182,Winter Jacket,Apparel,132.64,2,0.0,PayPal,0.00
+2202,2023-07-23,C165,Olive Oil,Groceries,17.11,1,0.0,Gift Card,8.57
+1494,2023-07-24,C385,Webcam,Electronics,370.73,2,0.0,Debit Card,5.00
+1604,2023-07-24,C674,Sneakers,Apparel,25.75,2,0.0,PayPal,5.17
+1486,2023-07-24,C472,Webcam,Electronics,133.18,5,0.1,Credit Card,0.00
+2542,2023-07-24,C973,Dress Shirt,Apparel,24.50,5,0.0,Debit Card,0.00
+1126,2023-07-24,C666,Sweater,Apparel,38.09,5,0.1,Debit Card,0.00
+3104,2023-07-24,C669,Sweater,Apparel,87.58,2,0.05,Debit Card,0.00
+3349,2023-07-24,C500,Wireless Mouse,Electronics,383.64,4,0.05,Credit Card,0.00
+1212,2023-07-24,C420,Running Shoes,Apparel,23.30,1,,Debit Card,10.96
+2619,2023-07-25,C813,Laptop Stand,Electronics,28.40,1,0.0,Debit Card,14.00
+1104,2023-07-25,C740,Winter Jacket,Apparel,70.09,1,0.0,Gift Card,3.94
+2071,2023-07-25,C384,Mug,Home,104.59,3,0.0,PayPal,0.00
+2726,2023-07-25,C663,Mechanical Keyboard,Electronics,169.30,3,0.0,Debit Card,0.00
+1298,2023-07-25,C448,Dark Chocolate,Groceries,28.83,5,0.05,Gift Card,10.00
+2500,2023-07-25,C167,Wireless Mouse,Electronics,140.10,4,0.0,Debit Card,10.00
+1933,2023-07-25,C201,Coffee Maker,Home,158.71,5,0.1,PayPal,5.00
+3410,2023-07-25,C814,Dress Shirt,Apparel,49.55,4,0.0,Debit Card,5.00
+3439,2023-07-25,C637,Wall Art,Home,128.39,3,0.0,Debit Card,0.00
+1269,2023-07-26,C243,Jeans,Apparel,89.29,5,0.2,Gift Card,10.00
+1337,2023-07-26,C662,Socks (3-Pack),Apparel,77.37,3,0.15,Debit Card,10.00
+3407,2023-07-26,C354,Wall Art,Home,57.64,1,0.0,Debit Card,10.06
+1542,2023-07-26,C832,Smart Watch,Electronics,94.17,5,,Credit Card,10.00
+2080,2023-07-26,C291,Throw Pillow,Home,52.56,1,0.15,Debit Card,3.04
+2021,2023-07-26,C405,USB-C Cable,Electronics,122.98,5,0.0,PayPal,10.00
+2706,2023-07-27,C928,Kettlebell,Fitness,21.09,3,0.05,Gift Card,12.51
+3148,2023-07-27,C145,Dress Shirt,Apparel,46.42,5,0.05,Credit Card,0.00
+2712,2023-07-27,C989,Winter Jacket,Apparel,10.78,3,0.05,Gift Card,9.67
+3331,2023-07-27,C681,USB-C Cable,Electronics,94.75,5,0.1,Credit Card,0.00
+1556,2023-07-27,C268,Jeans,Apparel,53.74,4,0.0,Gift Card,0.00
+1863,2023-07-27,C518,Jump Rope,Fitness,71.68,1,0.0,PayPal,5.63
+1701,2023-07-27,C625,Tea Bags,Groceries,11.40,5,0.0,PayPal,10.24
+2412,2023-07-28,C576,Cotton T-Shirt,Apparel,90.75,1,0.2,PayPal,11.52
+1294,2023-07-28,C902,Wall Art,Home,214.06,5,0.0,Debit Card,0.00
+1849,2023-07-28,C148,Wireless Mouse,Electronics,35.54,3,0.0,Credit Card,0.00
+2115,2023-07-28,C854,Water Bottle,Fitness,49.77,1,0.2,Credit Card,14.15
+1456,2023-07-28,C767,Treadmill,Fitness,61.36,1,0.05,Gift Card,12.28
+1667,2023-07-28,C822,Foam Roller,Fitness,94.40,5,0.0,Credit Card,0.00
+1253,2023-07-28,C913,Gaming Monitor,Electronics,291.73,2,0.0,Gift Card,0.00
+2833,2023-07-29,C334,Winter Jacket,Apparel,133.35,1,,Credit Card,0.00
+2386,2023-07-29,C162,Blender,Home,164.20,5,0.1,Gift Card,5.00
+1540,2023-07-29,C304,Laptop Stand,Electronics,24.34,2,0.15,PayPal,7.23
+1979,2023-07-29,C146,Foam Roller,Fitness,139.21,3,0.05,Debit Card,5.00
+2059,2023-07-29,C422,Office Chair,Home,212.53,4,0.15,PayPal,0.00
+2193,2023-07-29,C924,Coffee Maker,Home,188.12,4,0.0,Debit Card,0.00
+3251,2023-07-29,C974,Coffee Beans,Groceries,23.59,5,0.0,Gift Card,0.00
+2066,2023-07-30,C731,Wireless Mouse,Electronics,46.14,3,0.15,Gift Card,5.00
+1466,2023-07-30,C755,Wireless Mouse,Electronics,335.66,3,0.0,Gift Card,0.00
+2170,2023-07-30,C587,Coffee Beans,Groceries,12.26,3,0.0,Gift Card,13.25
+2570,2023-07-30,C984,USB-C Cable,Electronics,482.12,3,0.0,Debit Card,0.00
+2242,2023-07-30,C943,Mechanical Keyboard,Electronics,95.57,5,0.1,Debit Card,0.00
+2915,2023-07-30,C272,Smartphone Case,Electronics,365.52,2,,Credit Card,0.00
+1261,2023-07-30,C356,Smartphone Case,Electronics,248.72,3,0.05,Debit Card,0.00
+3250,2023-07-30,C237,Laptop Stand,Electronics,384.89,4,0.0,PayPal,0.00
+1462,2023-07-31,C808,Tea Bags,Groceries,9.95,1,0.0,Gift Card,6.99
+2086,2023-07-31,C803,Smart Watch,Electronics,141.28,2,0.1,Credit Card,0.00
+2539,2023-07-31,C592,Throw Pillow,Home,238.87,3,0.0,Gift Card,5.00
+2652,2023-08-01,C663,Dress Shirt,Apparel,58.26,1,0.0,Gift Card,12.70
+2128,2023-08-01,C780,Cotton T-Shirt,Apparel,19.09,5,0.0,Debit Card,8.32
+3339,2023-08-01,C586,Olive Oil,Groceries,18.58,1,,PayPal,7.01
+2543,2023-08-01,C752,Shorts,Apparel,114.68,1,0.1,Gift Card,0.00
+2142,2023-08-01,C998,External Hard Drive,Electronics,62.85,4,0.2,Gift Card,0.00
+1597,2023-08-01,C670,Laptop Stand,Electronics,466.22,4,0.2,Credit Card,0.00
+1671,2023-08-01,C947,Yoga Mat,Fitness,48.49,5,0.0,Gift Card,10.00
+1666,2023-08-01,C614,Dumbbell Set,Fitness,135.07,5,0.0,Debit Card,0.00
+2966,2023-08-01,C807,Blender,Home,237.83,2,0.0,Credit Card,0.00
+2330,2023-08-01,C647,Mechanical Keyboard,Electronics,364.80,3,0.0,Credit Card,0.00
+2407,2023-08-01,C846,Coffee Maker,Home,42.71,3,0.0,Gift Card,5.00
+3318,2023-08-02,C706,Wireless Mouse,Electronics,350.47,4,0.15,Debit Card,0.00
+3476,2023-08-02,C495,Sweater,Apparel,82.94,4,0.15,PayPal,0.00
+1948,2023-08-02,C747,Water Bottle,Fitness,41.78,1,0.0,Gift Card,6.52
+2709,2023-08-02,C961,Coffee Maker,Home,158.08,3,0.15,Credit Card,5.00
+3032,2023-08-02,C887,Olive Oil,Groceries,5.69,1,,Credit Card,4.43
+1346,2023-08-03,C799,Hat,Apparel,31.58,3,0.05,Credit Card,4.16
+1026,2023-08-03,C583,Webcam,Electronics,98.19,2,0.2,Gift Card,0.00
+2938,2023-08-03,C254,External Hard Drive,Electronics,426.57,1,0.0,Credit Card,5.00
+1686,2023-08-03,C682,Jeans,Apparel,87.25,5,0.05,Debit Card,0.00
+2404,2023-08-03,C124,Winter Jacket,Apparel,126.14,3,0.15,Gift Card,5.00
+3010,2023-08-03,C668,Almonds,Groceries,27.91,5,0.0,PayPal,0.00
+2628,2023-08-03,C724,Protein Powder,Fitness,178.32,1,0.0,Credit Card,5.00
+3368,2023-08-03,C288,Bookshelf,Home,299.52,4,0.0,Credit Card,5.00
+1674,2023-08-04,C516,Hat,Apparel,38.48,2,0.2,Debit Card,9.45
+2477,2023-08-04,C490,Winter Jacket,Apparel,22.60,2,,Credit Card,6.00
+1797,2023-08-04,C823,Blender,Home,156.08,4,,PayPal,0.00
+1548,2023-08-04,C505,Running Shoes,Apparel,26.69,4,0.05,Credit Card,5.00
+1729,2023-08-04,C309,Almonds,Groceries,17.43,2,0.0,Gift Card,10.67
+2573,2023-08-05,C209,Smart Watch,Electronics,133.53,2,0.05,Debit Card,0.00
+1205,2023-08-05,C769,Yoga Mat,Fitness,141.05,4,0.0,PayPal,0.00
+3002,2023-08-05,C376,Jump Rope,Fitness,13.26,5,0.0,PayPal,9.01
+1012,2023-08-05,C506,Protein Powder,Fitness,187.96,3,0.0,Credit Card,10.00
+2880,2023-08-05,C902,Treadmill,Fitness,93.19,5,0.1,PayPal,5.00
+1417,2023-08-05,C636,Sweater,Apparel,30.06,1,0.15,Debit Card,5.46
+1307,2023-08-05,C802,Water Bottle,Fitness,195.54,5,0.05,Credit Card,0.00
+1278,2023-08-05,C364,Dark Chocolate,Groceries,28.87,5,0.05,PayPal,10.00
+1260,2023-08-05,C285,Mug,Home,257.89,5,0.05,PayPal,0.00
+1034,2023-08-05,C162,Mug,Home,265.72,2,0.0,Gift Card,0.00
+1139,2023-08-05,C365,Almonds,Groceries,3.59,1,0.05,Debit Card,4.10
+1874,2023-08-06,C329,Webcam,Electronics,198.84,3,0.0,Gift Card,0.00
+1611,2023-08-06,C972,Webcam,Electronics,391.95,3,0.2,Debit Card,0.00
+2648,2023-08-06,C131,Coffee Maker,Home,228.54,3,0.2,Debit Card,0.00
+2000,2023-08-06,C224,Wall Art,Home,225.72,1,0.05,Gift Card,0.00
+3116,2023-08-06,C990,Running Shoes,Apparel,112.93,4,0.15,Gift Card,0.00
+2276,2023-08-06,C522,Water Bottle,Fitness,171.39,3,0.05,PayPal,10.00
+3132,2023-08-07,C112,Treadmill,Fitness,47.08,4,,Credit Card,0.00
+1429,2023-08-07,C172,Gym Bag,Fitness,97.59,5,0.05,Debit Card,10.00
+1632,2023-08-07,C953,Tea Bags,Groceries,24.49,2,0.0,Credit Card,11.00
+2546,2023-08-07,C187,Gaming Monitor,Electronics,301.38,5,0.05,Gift Card,0.00
+2501,2023-08-07,C605,USB-C Cable,Electronics,407.73,3,0.2,Gift Card,10.00
+1715,2023-08-08,C575,Laptop Stand,Electronics,267.48,4,0.0,PayPal,0.00
+1789,2023-08-08,C434,Cereal,Groceries,8.95,3,0.2,Credit Card,10.99
+3026,2023-08-08,C834,Mechanical Keyboard,Electronics,334.34,2,0.15,Credit Card,0.00
+2704,2023-08-08,C636,Cotton T-Shirt,Apparel,94.71,2,0.0,PayPal,0.00
+2595,2023-08-08,C665,External Hard Drive,Electronics,273.41,3,0.05,Debit Card,0.00
+1959,2023-08-08,C148,Protein Powder,Fitness,29.98,3,0.1,Debit Card,5.04
+1124,2023-08-08,C354,Sweater,Apparel,47.98,1,0.0,Credit Card,5.15
+1258,2023-08-09,C111,Wall Art,Home,55.29,1,,Gift Card,9.45
+2536,2023-08-09,C787,Mechanical Keyboard,Electronics,453.92,2,0.0,PayPal,0.00
+2684,2023-08-09,C340,Kettlebell,Fitness,95.04,4,0.1,Debit Card,0.00
+1562,2023-08-09,C812,Cotton T-Shirt,Apparel,148.01,4,0.0,Credit Card,5.00
+2528,2023-08-09,C836,Throw Pillow,Home,168.56,4,,PayPal,0.00
+2658,2023-08-09,C744,Bookshelf,Home,30.48,4,0.15,Debit Card,5.00
+2238,2023-08-09,C116,Webcam,Electronics,206.15,1,0.15,Credit Card,0.00
+3118,2023-08-09,C744,Jump Rope,Fitness,194.62,3,,Credit Card,0.00
+1528,2023-08-09,C679,Socks (3-Pack),Apparel,97.92,4,0.1,PayPal,0.00
+1442,2023-08-09,C967,Wall Art,Home,91.74,5,0.0,Credit Card,0.00
+3403,2023-08-09,C933,Laptop Stand,Electronics,259.35,3,0.1,Credit Card,0.00
+2558,2023-08-10,C229,External Hard Drive,Electronics,126.91,4,,PayPal,0.00
+2030,2023-08-10,C476,Sweater,Apparel,71.11,1,0.0,Credit Card,5.73
+3269,2023-08-10,C223,Almonds,Groceries,14.42,1,0.0,PayPal,4.37
+1800,2023-08-10,C875,Running Shoes,Apparel,83.90,3,0.15,Gift Card,0.00
+1806,2023-08-11,C484,Dumbbell Set,Fitness,157.77,4,0.05,PayPal,0.00
+1159,2023-08-11,C459,Running Shoes,Apparel,126.03,5,0.05,Debit Card,0.00
+3141,2023-08-11,C728,Mechanical Keyboard,Electronics,420.78,2,0.0,Credit Card,5.00
+2222,2023-08-11,C816,Bookshelf,Home,287.80,3,0.0,Debit Card,0.00
+1507,2023-08-11,C813,Mechanical Keyboard,Electronics,438.75,5,0.0,Gift Card,10.00
+2721,2023-08-12,C983,Desk Lamp,Home,107.75,5,,Gift Card,0.00
+1520,2023-08-12,C719,Cotton T-Shirt,Apparel,137.18,3,0.1,Gift Card,0.00
+2698,2023-08-12,C298,Shorts,Apparel,26.80,5,0.0,Credit Card,10.00
+1694,2023-08-12,C941,Winter Jacket,Apparel,142.10,5,0.1,Gift Card,0.00
+2960,2023-08-12,C290,Winter Jacket,Apparel,26.79,1,0.0,Credit Card,12.23
+2053,2023-08-12,C468,Dress Shirt,Apparel,135.63,3,0.2,Credit Card,0.00
+1510,2023-08-12,C781,Wall Art,Home,141.90,3,0.15,PayPal,0.00
+3103,2023-08-12,C755,USB-C Cable,Electronics,252.38,4,0.05,Debit Card,0.00
+1815,2023-08-12,C145,Bluetooth Speaker,Electronics,79.42,2,0.05,Debit Card,0.00
+2724,2023-08-12,C129,Jeans,Apparel,31.73,5,0.0,Gift Card,5.00
+2015,2023-08-13,C967,Rug,Home,232.56,5,0.0,Debit Card,0.00
+2101,2023-08-13,C512,Rug,Home,164.17,5,0.0,Gift Card,0.00
+2913,2023-08-13,C573,Coffee Beans,Groceries,21.76,2,,Gift Card,4.37
+2026,2023-08-13,C172,Rice,Groceries,22.96,1,0.0,Debit Card,6.25
+1383,2023-08-13,C292,Mechanical Keyboard,Electronics,22.84,5,0.05,Debit Card,0.00
+2824,2023-08-13,C645,External Hard Drive,Electronics,181.67,2,0.0,Debit Card,0.00
+2823,2023-08-13,C268,External Hard Drive,Electronics,133.10,4,0.0,Gift Card,5.00
+3157,2023-08-13,C338,Foam Roller,Fitness,16.62,3,0.0,PayPal,12.10
+1216,2023-08-13,C704,Shorts,Apparel,104.98,2,0.1,Credit Card,5.00
+2187,2023-08-14,C947,Throw Pillow,Home,246.32,1,0.1,Gift Card,0.00
+2772,2023-08-14,C276,Smartphone Case,Electronics,308.34,1,0.0,Gift Card,10.00
+1925,2023-08-14,C805,Throw Pillow,Home,215.10,1,0.1,Credit Card,0.00
+1647,2023-08-14,C310,Foam Roller,Fitness,159.78,4,0.15,Gift Card,5.00
+2932,2023-08-14,C477,Honey,Groceries,25.72,4,0.1,Credit Card,0.00
+3338,2023-08-14,C404,Dumbbell Set,Fitness,108.70,5,0.05,Credit Card,0.00
+3105,2023-08-14,C454,Laptop Stand,Electronics,59.69,1,0.0,PayPal,10.38
+2322,2023-08-14,C857,Webcam,Electronics,149.56,3,0.05,Credit Card,5.00
+2271,2023-08-15,C597,USB-C Cable,Electronics,118.48,4,0.0,Gift Card,0.00
+1568,2023-08-15,C660,Wireless Mouse,Electronics,317.64,5,0.05,Debit Card,0.00
+2049,2023-08-15,C771,Gaming Monitor,Electronics,330.75,2,0.15,PayPal,0.00
+2646,2023-08-15,C294,Bluetooth Speaker,Electronics,154.27,2,0.0,Credit Card,0.00
+1284,2023-08-15,C479,Gym Bag,Fitness,91.50,4,0.0,Credit Card,0.00
+2651,2023-08-15,C662,Protein Powder,Fitness,87.18,3,0.0,PayPal,0.00
+1629,2023-08-15,C374,Kettlebell,Fitness,178.94,1,0.15,PayPal,0.00
+1569,2023-08-15,C943,Rug,Home,91.36,5,0.15,Gift Card,10.00
+2094,2023-08-15,C804,Smart Watch,Electronics,377.46,4,0.0,PayPal,5.00
+1426,2023-08-15,C329,Smartphone Case,Electronics,136.45,3,0.05,PayPal,5.00
+1956,2023-08-15,C646,Coffee Beans,Groceries,12.11,1,,Credit Card,12.96
+2775,2023-08-15,C596,Wireless Mouse,Electronics,247.66,5,0.0,Debit Card,5.00
+3174,2023-08-16,C287,Sweater,Apparel,54.21,2,0.0,Credit Card,0.00
+3209,2023-08-16,C531,Webcam,Electronics,272.03,2,0.1,Debit Card,5.00
+2418,2023-08-16,C359,Treadmill,Fitness,185.70,4,0.05,Debit Card,5.00
+2227,2023-08-16,C579,Blender,Home,229.29,4,0.0,Debit Card,0.00
+2419,2023-08-16,C451,Jeans,Apparel,93.83,5,0.1,Debit Card,10.00
+3135,2023-08-16,C435,Dumbbell Set,Fitness,172.56,1,,PayPal,0.00
+2919,2023-08-16,C891,Winter Jacket,Apparel,77.03,5,0.0,Gift Card,0.00
+2506,2023-08-16,C814,Sweater,Apparel,67.77,4,0.0,Credit Card,0.00
+1634,2023-08-17,C314,Desk Lamp,Home,117.25,3,0.0,Credit Card,5.00
+3137,2023-08-17,C875,Sneakers,Apparel,21.04,3,0.05,Debit Card,5.51
+3196,2023-08-17,C197,Mechanical Keyboard,Electronics,140.83,1,0.1,Credit Card,0.00
+3130,2023-08-17,C690,Laptop Stand,Electronics,82.43,4,0.05,Debit Card,5.00
+2154,2023-08-17,C112,Mechanical Keyboard,Electronics,291.59,4,0.0,Gift Card,0.00
+2991,2023-08-18,C389,Rug,Home,242.87,3,0.1,Credit Card,0.00
+1858,2023-08-18,C868,Hat,Apparel,119.11,4,0.0,Credit Card,0.00
+2922,2023-08-18,C649,Bluetooth Speaker,Electronics,76.28,2,,Credit Card,0.00
+2482,2023-08-18,C291,Wireless Mouse,Electronics,169.48,2,0.05,Credit Card,0.00
+2762,2023-08-18,C821,Gaming Monitor,Electronics,105.79,1,0.0,Credit Card,0.00
+1276,2023-08-18,C524,Dumbbell Set,Fitness,101.49,4,0.05,Gift Card,0.00
+1028,2023-08-18,C650,Jeans,Apparel,111.90,2,0.1,PayPal,0.00
+2957,2023-08-19,C431,Winter Jacket,Apparel,75.52,1,0.0,Credit Card,14.10
+2963,2023-08-19,C290,Rug,Home,238.47,3,0.0,PayPal,5.00
+3171,2023-08-19,C248,Jump Rope,Fitness,65.70,2,0.0,Gift Card,0.00
+1980,2023-08-19,C893,Smart Watch,Electronics,403.91,3,0.1,PayPal,0.00
+1822,2023-08-19,C845,Foam Roller,Fitness,166.06,4,,PayPal,5.00
+1955,2023-08-19,C759,Foam Roller,Fitness,197.71,4,0.1,Gift Card,0.00
+3258,2023-08-19,C559,Socks (3-Pack),Apparel,29.05,4,0.0,Debit Card,0.00
+3421,2023-08-19,C482,Hat,Apparel,137.01,1,0.0,Gift Card,0.00
+2812,2023-08-19,C520,Webcam,Electronics,138.44,1,0.15,PayPal,0.00
+1637,2023-08-19,C548,Dumbbell Set,Fitness,195.19,5,0.15,Credit Card,5.00
+3360,2023-08-19,C304,Coffee Beans,Groceries,6.09,1,0.2,Gift Card,10.57
+2802,2023-08-19,C229,Mug,Home,168.40,5,0.05,Credit Card,5.00
+3206,2023-08-20,C842,Smart Watch,Electronics,330.99,2,0.0,Debit Card,5.00
+1218,2023-08-20,C770,Hat,Apparel,117.45,5,0.0,PayPal,0.00
+2786,2023-08-20,C763,Coffee Maker,Home,160.61,4,0.05,Debit Card,0.00
+2487,2023-08-20,C636,Olive Oil,Groceries,16.59,4,0.0,Credit Card,10.20
+2537,2023-08-20,C655,Office Chair,Home,36.72,2,0.15,Credit Card,14.44
+1161,2023-08-21,C264,Wall Art,Home,283.42,1,0.2,Gift Card,5.00
+1879,2023-08-21,C250,Dress Shirt,Apparel,72.54,4,0.0,Gift Card,10.00
+1991,2023-08-21,C850,Smartphone Case,Electronics,459.95,3,0.0,PayPal,0.00
+2074,2023-08-21,C652,Winter Jacket,Apparel,10.93,1,0.0,Gift Card,11.79
+2399,2023-08-21,C476,Jeans,Apparel,65.61,2,0.15,PayPal,0.00
+2525,2023-08-21,C527,Wireless Mouse,Electronics,319.45,3,0.0,Credit Card,0.00
+1724,2023-08-21,C333,Bluetooth Speaker,Electronics,242.47,5,0.05,Gift Card,5.00
+1305,2023-08-21,C480,Rug,Home,270.96,5,0.0,PayPal,0.00
+3333,2023-08-21,C500,Blender,Home,106.57,5,0.1,Credit Card,0.00
+2541,2023-08-21,C266,Mechanical Keyboard,Electronics,265.82,5,0.2,PayPal,0.00
+2360,2023-08-21,C438,Dumbbell Set,Fitness,126.39,1,0.0,Credit Card,0.00
+1072,2023-08-21,C914,Water Bottle,Fitness,36.44,3,0.05,Gift Card,5.00
+2433,2023-08-21,C791,Gym Bag,Fitness,94.44,5,0.0,Gift Card,5.00
+2629,2023-08-21,C754,Jump Rope,Fitness,30.68,3,0.0,Gift Card,7.12
+3449,2023-08-22,C719,Coffee Maker,Home,268.50,1,0.0,PayPal,5.00
+2190,2023-08-22,C826,Winter Jacket,Apparel,115.98,3,0.0,Gift Card,0.00
+2132,2023-08-22,C571,Bluetooth Speaker,Electronics,160.81,2,0.1,PayPal,0.00
+2162,2023-08-22,C541,Treadmill,Fitness,194.65,5,0.1,Gift Card,0.00
+2279,2023-08-22,C413,Gaming Monitor,Electronics,323.33,3,0.05,Gift Card,0.00
+1621,2023-08-22,C105,Cotton T-Shirt,Apparel,34.04,4,0.0,Gift Card,0.00
+1596,2023-08-22,C236,Kettlebell,Fitness,140.50,4,0.1,PayPal,0.00
+3078,2023-08-23,C742,Shorts,Apparel,67.68,5,0.0,Gift Card,0.00
+3013,2023-08-23,C354,USB-C Cable,Electronics,153.45,3,0.05,Credit Card,0.00
+2495,2023-08-23,C480,Webcam,Electronics,173.68,5,0.05,PayPal,0.00
+3386,2023-08-23,C848,Almonds,Groceries,8.88,1,,Gift Card,6.86
+1363,2023-08-23,C502,Rice,Groceries,18.53,1,0.0,Gift Card,4.78
+1115,2023-08-23,C613,Kettlebell,Fitness,143.34,1,0.05,Debit Card,0.00
+1367,2023-08-23,C456,Laptop Stand,Electronics,301.00,1,0.0,PayPal,0.00
+2717,2023-08-24,C721,Wireless Mouse,Electronics,317.19,5,,Gift Card,5.00
+2700,2023-08-24,C472,Smart Watch,Electronics,53.22,3,0.0,PayPal,0.00
+1803,2023-08-24,C109,Shorts,Apparel,24.27,2,0.2,Debit Card,14.11
+2261,2023-08-24,C385,Webcam,Electronics,155.28,5,0.15,Gift Card,0.00
+1478,2023-08-24,C800,Coffee Maker,Home,106.65,2,0.05,PayPal,0.00
+1049,2023-08-24,C116,External Hard Drive,Electronics,211.56,1,0.0,PayPal,0.00
+2798,2023-08-25,C517,Treadmill,Fitness,45.45,2,,PayPal,6.85
+2085,2023-08-25,C426,Bookshelf,Home,213.64,2,0.0,Gift Card,0.00
+2933,2023-08-25,C817,Jeans,Apparel,21.78,5,0.0,Credit Card,0.00
+2785,2023-08-25,C195,Protein Powder,Fitness,170.00,4,0.0,Gift Card,0.00
+1717,2023-08-25,C413,Dress Shirt,Apparel,89.99,3,0.0,Credit Card,0.00
+1091,2023-08-25,C874,USB-C Cable,Electronics,277.71,4,0.1,Debit Card,0.00
+2119,2023-08-25,C748,Protein Powder,Fitness,169.58,5,0.05,PayPal,0.00
+2258,2023-08-25,C616,External Hard Drive,Electronics,105.49,2,0.0,PayPal,0.00
+1281,2023-08-25,C170,Webcam,Electronics,74.78,1,0.15,Gift Card,12.92
+2759,2023-08-26,C213,Wireless Mouse,Electronics,386.89,5,0.0,Gift Card,0.00
+3071,2023-08-26,C593,Running Shoes,Apparel,101.09,4,0.1,Debit Card,0.00
+3341,2023-08-26,C137,Bluetooth Speaker,Electronics,227.66,4,0.0,Credit Card,0.00
+1824,2023-08-26,C925,Wall Art,Home,172.23,4,0.0,Credit Card,0.00
+1623,2023-08-26,C214,Resistance Bands,Fitness,173.21,2,0.0,Debit Card,0.00
+2382,2023-08-26,C251,Office Chair,Home,165.83,4,0.15,PayPal,0.00
+1616,2023-08-26,C920,Jeans,Apparel,147.79,3,0.05,PayPal,0.00
+2265,2023-08-27,C245,Bookshelf,Home,18.07,1,0.05,Gift Card,5.79
+3357,2023-08-27,C814,Gaming Monitor,Electronics,238.30,5,0.0,Credit Card,0.00
+1755,2023-08-27,C731,Dumbbell Set,Fitness,68.68,4,0.05,Credit Card,0.00
+3259,2023-08-27,C169,Resistance Bands,Fitness,189.19,2,0.2,Gift Card,0.00
+1567,2023-08-27,C407,Hat,Apparel,53.87,4,0.05,Gift Card,0.00
+1814,2023-08-27,C602,Wall Art,Home,274.57,3,0.05,Credit Card,0.00
+1670,2023-08-27,C433,Wireless Mouse,Electronics,156.03,1,0.0,PayPal,0.00
+1262,2023-08-28,C734,Bluetooth Speaker,Electronics,165.72,4,0.05,Debit Card,0.00
+1145,2023-08-28,C284,Smartphone Case,Electronics,117.32,3,,Gift Card,0.00
+3240,2023-08-28,C998,Almonds,Groceries,11.69,1,0.15,Debit Card,7.66
+3378,2023-08-28,C637,Jeans,Apparel,144.57,5,0.0,Gift Card,0.00
+1703,2023-08-28,C300,Pasta,Groceries,24.20,3,0.0,Gift Card,10.20
+2017,2023-08-28,C392,Mechanical Keyboard,Electronics,222.69,5,0.0,Credit Card,0.00
+2345,2023-08-28,C820,Smart Watch,Electronics,59.73,5,0.15,Debit Card,0.00
+2057,2023-08-29,C224,Gym Bag,Fitness,161.66,5,0.05,Gift Card,0.00
+1983,2023-08-29,C131,Webcam,Electronics,186.12,1,0.2,Credit Card,10.00
+3047,2023-08-29,C931,Webcam,Electronics,94.46,5,0.05,Debit Card,0.00
+1923,2023-08-29,C764,Honey,Groceries,14.08,3,0.0,PayPal,4.36
+2990,2023-08-29,C262,Gaming Monitor,Electronics,182.47,1,0.0,Gift Card,0.00
+2046,2023-08-29,C682,Throw Pillow,Home,256.56,4,0.0,Gift Card,0.00
+2927,2023-08-29,C505,Wireless Mouse,Electronics,178.77,5,0.1,Gift Card,0.00
+1475,2023-08-29,C119,Shorts,Apparel,16.41,2,,Credit Card,13.86
+1732,2023-08-29,C630,Laptop Stand,Electronics,431.26,4,0.2,Debit Card,0.00
+2197,2023-08-29,C416,Mechanical Keyboard,Electronics,146.37,1,0.0,Gift Card,0.00
+3398,2023-08-29,C294,Mechanical Keyboard,Electronics,407.08,3,0.0,Credit Card,5.00
+2774,2023-08-29,C933,Shorts,Apparel,87.92,3,0.15,Credit Card,0.00
+2372,2023-08-30,C125,Treadmill,Fitness,82.48,2,0.0,Debit Card,0.00
+2130,2023-08-30,C681,Dumbbell Set,Fitness,117.58,4,,Credit Card,0.00
+2986,2023-08-30,C595,Smartphone Case,Electronics,492.69,2,0.05,Credit Card,0.00
+1573,2023-08-31,C673,Honey,Groceries,20.47,1,0.0,Credit Card,6.10
+3483,2023-08-31,C543,Mug,Home,150.55,4,0.15,Gift Card,0.00
+1252,2023-08-31,C173,Coffee Maker,Home,21.77,3,,Credit Card,3.65
+1250,2023-08-31,C767,External Hard Drive,Electronics,50.35,1,0.2,Credit Card,10.52
+2553,2023-08-31,C663,Dumbbell Set,Fitness,164.20,5,0.15,PayPal,10.00
+1750,2023-08-31,C431,Webcam,Electronics,330.46,1,0.0,Credit Card,0.00
+3447,2023-08-31,C147,Mechanical Keyboard,Electronics,20.63,1,0.2,Credit Card,8.08
+1870,2023-08-31,C121,Wireless Mouse,Electronics,384.09,1,0.1,PayPal,0.00
+3090,2023-08-31,C117,Tea Bags,Groceries,13.46,1,0.1,Debit Card,12.91
+2173,2023-08-31,C578,Smartphone Case,Electronics,296.62,5,0.0,Credit Card,5.00
+2808,2023-09-01,C145,Running Shoes,Apparel,76.43,4,0.0,Gift Card,0.00
+1199,2023-09-01,C748,Dress Shirt,Apparel,145.15,4,,Debit Card,5.00
+1593,2023-09-01,C606,Bluetooth Speaker,Electronics,103.37,3,0.0,Debit Card,0.00
+1854,2023-09-01,C585,Pasta,Groceries,17.41,2,,Debit Card,8.02
+2481,2023-09-01,C901,Gaming Monitor,Electronics,391.74,5,0.1,Debit Card,0.00
+1636,2023-09-01,C887,External Hard Drive,Electronics,141.07,2,0.15,Credit Card,5.00
+3470,2023-09-01,C304,Throw Pillow,Home,179.03,3,0.0,PayPal,0.00
+1930,2023-09-02,C104,Honey,Groceries,3.88,1,0.0,PayPal,7.02
+1681,2023-09-02,C813,Table Lamp,Home,168.37,1,0.15,Gift Card,0.00
+1324,2023-09-02,C238,Dark Chocolate,Groceries,7.78,5,0.1,Gift Card,9.28
+3491,2023-09-03,C535,Wall Art,Home,220.67,2,,Debit Card,5.00
+1924,2023-09-03,C280,Sweater,Apparel,34.77,5,0.0,PayPal,5.00
+2499,2023-09-03,C236,Smartphone Case,Electronics,104.90,2,0.05,Debit Card,0.00
+3073,2023-09-03,C219,Hat,Apparel,107.27,3,0.0,Debit Card,0.00
+3248,2023-09-03,C927,Table Lamp,Home,258.82,1,0.0,PayPal,0.00
+2946,2023-09-04,C387,Mechanical Keyboard,Electronics,178.20,3,,Credit Card,0.00
+1296,2023-09-04,C854,Office Chair,Home,171.63,5,0.0,PayPal,0.00
+2341,2023-09-04,C495,Coffee Maker,Home,92.90,5,0.05,Debit Card,0.00
+2585,2023-09-04,C942,Wireless Mouse,Electronics,368.90,2,0.0,PayPal,0.00
+3328,2023-09-05,C272,Bluetooth Speaker,Electronics,228.20,3,0.0,Gift Card,0.00
+2129,2023-09-05,C382,Wall Art,Home,131.64,1,0.05,Credit Card,0.00
+3340,2023-09-05,C814,Hat,Apparel,63.91,3,0.0,Gift Card,0.00
+2156,2023-09-05,C899,Sweater,Apparel,128.18,3,0.0,Gift Card,0.00
+2283,2023-09-05,C448,Dress Shirt,Apparel,28.62,4,0.2,PayPal,0.00
+1893,2023-09-05,C672,Office Chair,Home,247.72,4,0.05,Gift Card,5.00
+1813,2023-09-05,C773,Smart Watch,Electronics,32.62,5,0.0,Gift Card,0.00
+2103,2023-09-06,C873,Rug,Home,170.49,3,0.0,Gift Card,5.00
+1244,2023-09-06,C258,Laptop Stand,Electronics,302.47,5,0.0,PayPal,0.00
+1695,2023-09-06,C187,Coffee Beans,Groceries,13.19,1,0.0,Gift Card,3.66
+1193,2023-09-06,C842,Protein Powder,Fitness,189.92,3,0.0,Debit Card,5.00
+2649,2023-09-06,C325,Shorts,Apparel,137.10,2,0.05,Credit Card,5.00
+1295,2023-09-06,C261,Smart Watch,Electronics,392.04,3,0.0,Debit Card,0.00
+2889,2023-09-06,C735,Winter Jacket,Apparel,54.12,3,0.0,Debit Card,10.00
+1643,2023-09-06,C553,Wireless Mouse,Electronics,361.64,5,0.0,PayPal,0.00
+1834,2023-09-07,C594,Bluetooth Speaker,Electronics,11.09,5,0.15,Credit Card,14.22
+2664,2023-09-07,C564,Mechanical Keyboard,Electronics,477.55,3,0.15,Debit Card,0.00
+1311,2023-09-07,C668,Dress Shirt,Apparel,37.45,2,0.0,Gift Card,9.00
+2211,2023-09-07,C296,Protein Powder,Fitness,171.95,5,0.0,Gift Card,0.00
+1691,2023-09-07,C183,Yoga Mat,Fitness,198.15,2,0.0,Credit Card,10.00
+1798,2023-09-08,C833,Bluetooth Speaker,Electronics,353.20,1,0.1,Gift Card,5.00
+1850,2023-09-08,C358,Tea Bags,Groceries,12.03,1,,Credit Card,11.20
+1412,2023-09-08,C406,Bookshelf,Home,173.23,1,0.05,PayPal,0.00
+2152,2023-09-08,C535,Smart Watch,Electronics,199.54,4,,Gift Card,0.00
+2410,2023-09-08,C188,Rug,Home,262.89,5,0.0,Credit Card,5.00
+1182,2023-09-08,C226,Blender,Home,121.15,5,0.2,Gift Card,0.00
+3466,2023-09-08,C561,Jeans,Apparel,29.25,2,0.2,PayPal,14.27
+1934,2023-09-09,C262,Pasta,Groceries,5.52,1,0.05,Debit Card,3.33
+3201,2023-09-09,C218,Office Chair,Home,194.08,3,0.0,Gift Card,0.00
+2504,2023-09-09,C378,Hat,Apparel,52.08,4,,PayPal,5.00
+2055,2023-09-09,C899,Mug,Home,218.16,2,0.05,Debit Card,0.00
+1918,2023-09-09,C674,Foam Roller,Fitness,47.73,5,0.0,PayPal,0.00
+1857,2023-09-09,C679,Bluetooth Speaker,Electronics,372.95,4,0.05,Credit Card,0.00
+2758,2023-09-10,C963,Bluetooth Speaker,Electronics,133.13,1,0.1,Gift Card,0.00
+2392,2023-09-10,C874,Wall Art,Home,30.92,2,0.15,Debit Card,4.82
+3234,2023-09-10,C223,Sneakers,Apparel,57.44,2,,Gift Card,0.00
+1131,2023-09-10,C186,Wall Art,Home,53.05,4,,Credit Card,0.00
+2025,2023-09-10,C660,Treadmill,Fitness,185.59,1,0.0,Credit Card,0.00
+3394,2023-09-11,C223,Bookshelf,Home,79.28,1,0.0,PayPal,13.21
+2180,2023-09-11,C241,Wall Art,Home,299.69,5,0.0,Credit Card,0.00
+1603,2023-09-11,C366,USB-C Cable,Electronics,223.85,4,,PayPal,10.00
+1831,2023-09-11,C863,Webcam,Electronics,354.27,3,0.1,Credit Card,0.00
+2068,2023-09-11,C107,Bookshelf,Home,207.06,4,0.0,PayPal,10.00
+3111,2023-09-12,C170,Blender,Home,250.27,5,0.2,Gift Card,10.00
+3381,2023-09-12,C575,Rug,Home,189.11,3,0.0,PayPal,0.00
+3109,2023-09-12,C694,Shorts,Apparel,74.32,3,0.15,Debit Card,0.00
+2683,2023-09-12,C390,Hat,Apparel,81.05,1,0.0,PayPal,14.08
+2254,2023-09-12,C658,Socks (3-Pack),Apparel,101.76,5,0.0,Debit Card,0.00
+2302,2023-09-12,C128,Foam Roller,Fitness,117.04,1,0.0,Gift Card,0.00
+3322,2023-09-12,C789,Bluetooth Speaker,Electronics,395.39,1,,PayPal,0.00
+2123,2023-09-13,C134,Rug,Home,128.51,3,0.0,Credit Card,5.00
+3016,2023-09-13,C924,Rug,Home,139.87,3,,PayPal,0.00
+2092,2023-09-13,C439,Hat,Apparel,112.67,1,,Credit Card,5.00
+3379,2023-09-13,C564,Rice,Groceries,18.75,2,0.0,Debit Card,10.06
+1112,2023-09-13,C912,Oats,Groceries,13.42,2,0.05,Credit Card,14.84
+3376,2023-09-13,C139,Sneakers,Apparel,94.60,5,0.0,Credit Card,0.00
+3188,2023-09-13,C242,Blender,Home,281.14,5,0.15,Gift Card,5.00
+1164,2023-09-14,C960,Cotton T-Shirt,Apparel,60.52,4,,Gift Card,0.00
+2337,2023-09-14,C497,Sweater,Apparel,55.64,4,0.05,Debit Card,0.00
+2691,2023-09-14,C286,Honey,Groceries,15.44,4,0.0,PayPal,5.23
+3440,2023-09-14,C497,Gym Bag,Fitness,54.66,3,0.0,Gift Card,0.00
+2809,2023-09-14,C421,Mechanical Keyboard,Electronics,59.00,5,0.0,Credit Card,0.00
+2023,2023-09-14,C725,Dress Shirt,Apparel,96.61,5,0.0,Gift Card,10.00
+3270,2023-09-15,C374,Kettlebell,Fitness,119.65,2,,Debit Card,10.00
+1325,2023-09-15,C754,Sweater,Apparel,77.43,2,0.0,PayPal,0.00
+3296,2023-09-15,C915,Mechanical Keyboard,Electronics,98.60,4,,Debit Card,0.00
+2488,2023-09-15,C476,Dumbbell Set,Fitness,124.84,4,0.0,Credit Card,0.00
+2936,2023-09-15,C294,Mechanical Keyboard,Electronics,198.82,4,0.0,PayPal,10.00
+2183,2023-09-15,C400,Wireless Mouse,Electronics,111.43,4,0.05,Gift Card,10.00
+2969,2023-09-15,C603,Webcam,Electronics,58.89,5,0.2,Debit Card,5.00
+1631,2023-09-16,C801,Shorts,Apparel,129.48,4,0.0,Gift Card,10.00
+2526,2023-09-16,C890,Gym Bag,Fitness,48.33,2,0.05,PayPal,9.37
+2817,2023-09-16,C291,Mechanical Keyboard,Electronics,154.12,4,0.15,Gift Card,0.00
+3420,2023-09-16,C877,Desk Lamp,Home,118.54,1,0.0,PayPal,0.00
+1018,2023-09-16,C163,Rug,Home,102.44,4,0.15,PayPal,0.00
+3385,2023-09-16,C250,Dumbbell Set,Fitness,191.75,3,0.05,Credit Card,5.00
+1411,2023-09-16,C742,Hat,Apparel,135.43,4,0.0,Credit Card,5.00
+2796,2023-09-17,C953,Smart Watch,Electronics,46.19,1,0.1,Debit Card,7.29
+1166,2023-09-17,C776,External Hard Drive,Electronics,199.89,3,0.0,Gift Card,0.00
+1537,2023-09-17,C977,Blender,Home,102.62,2,0.0,Credit Card,0.00
+3463,2023-09-17,C711,Blender,Home,55.73,4,0.0,Debit Card,0.00
+2897,2023-09-17,C999,Wireless Mouse,Electronics,258.18,3,,PayPal,0.00
+2144,2023-09-17,C441,Yoga Mat,Fitness,194.36,3,0.0,PayPal,0.00
+1171,2023-09-17,C229,Gaming Monitor,Electronics,494.26,4,0.1,Debit Card,5.00
+2782,2023-09-17,C620,Gaming Monitor,Electronics,485.55,4,0.0,Debit Card,0.00
+1374,2023-09-17,C489,Running Shoes,Apparel,136.54,4,0.05,Debit Card,0.00
+3042,2023-09-17,C749,Coffee Maker,Home,285.07,5,0.0,PayPal,0.00
+2581,2023-09-17,C356,Gym Bag,Fitness,151.82,2,,PayPal,0.00
+3043,2023-09-17,C609,Jeans,Apparel,32.40,3,0.0,Credit Card,13.63
+1793,2023-09-17,C230,Kettlebell,Fitness,119.61,1,0.05,Debit Card,5.00
+2125,2023-09-18,C129,Coffee Maker,Home,216.11,2,0.0,Gift Card,5.00
+3464,2023-09-18,C863,Smartphone Case,Electronics,136.06,4,0.0,Credit Card,0.00
+1493,2023-09-18,C666,Dumbbell Set,Fitness,88.22,5,0.2,Gift Card,5.00
+2881,2023-09-18,C255,Cotton T-Shirt,Apparel,66.79,3,0.0,Gift Card,0.00
+3438,2023-09-18,C796,Water Bottle,Fitness,120.87,3,0.0,Credit Card,5.00
+3228,2023-09-18,C463,Mug,Home,293.66,1,0.0,PayPal,5.00
+1130,2023-09-18,C195,Bluetooth Speaker,Electronics,449.67,5,0.15,Gift Card,10.00
+1329,2023-09-18,C325,Webcam,Electronics,316.41,5,0.15,PayPal,0.00
+2138,2023-09-18,C578,Bookshelf,Home,175.67,5,0.0,Credit Card,0.00
+2740,2023-09-19,C184,Smartphone Case,Electronics,254.93,5,0.0,Credit Card,0.00
+1512,2023-09-19,C264,Throw Pillow,Home,66.95,2,0.05,Debit Card,0.00
+1572,2023-09-19,C715,Bluetooth Speaker,Electronics,65.64,2,,PayPal,0.00
+2736,2023-09-19,C384,Pasta,Groceries,27.91,1,0.15,PayPal,4.31
+2958,2023-09-20,C744,Coffee Maker,Home,246.90,5,,PayPal,0.00
+3150,2023-09-20,C459,Bluetooth Speaker,Electronics,417.27,3,0.15,Debit Card,5.00
+2484,2023-09-20,C385,Sneakers,Apparel,34.52,1,0.0,Credit Card,3.80
+2655,2023-09-20,C141,Protein Powder,Fitness,100.90,2,,Gift Card,0.00
+3352,2023-09-21,C106,Socks (3-Pack),Apparel,95.50,2,0.0,Credit Card,0.00
+2081,2023-09-21,C168,Shorts,Apparel,39.20,2,,PayPal,10.36
+3452,2023-09-21,C502,Resistance Bands,Fitness,50.55,2,0.1,Debit Card,10.00
+3021,2023-09-21,C302,USB-C Cable,Electronics,226.08,1,0.0,Gift Card,0.00
+3377,2023-09-21,C695,Sneakers,Apparel,145.49,2,0.0,PayPal,0.00
+1578,2023-09-21,C861,Webcam,Electronics,116.82,1,0.2,Gift Card,0.00
+3087,2023-09-21,C412,Wall Art,Home,172.05,5,0.0,Credit Card,0.00
+1240,2023-09-21,C907,Tea Bags,Groceries,29.08,1,,PayPal,5.44
+1217,2023-09-22,C958,Coffee Maker,Home,152.68,4,0.0,Credit Card,0.00
+3261,2023-09-22,C516,Yoga Mat,Fitness,161.49,5,0.05,Gift Card,0.00
+1845,2023-09-22,C929,External Hard Drive,Electronics,309.44,2,0.05,Debit Card,0.00
+2951,2023-09-22,C936,Laptop Stand,Electronics,444.20,2,0.0,Gift Card,0.00
+3448,2023-09-23,C293,Mechanical Keyboard,Electronics,262.97,3,0.2,Gift Card,0.00
+2047,2023-09-23,C467,Hat,Apparel,40.50,1,0.0,PayPal,14.44
+2089,2023-09-23,C212,Rice,Groceries,19.49,2,0.0,Credit Card,12.63
+1615,2023-09-23,C830,USB-C Cable,Electronics,268.37,5,,Gift Card,0.00
+3282,2023-09-23,C564,Gym Bag,Fitness,132.46,3,0.05,PayPal,0.00
+3273,2023-09-23,C507,Gaming Monitor,Electronics,39.67,5,,Credit Card,0.00
+3113,2023-09-23,C586,Smart Watch,Electronics,415.33,4,0.05,PayPal,0.00
+3189,2023-09-23,C732,Wireless Mouse,Electronics,275.47,3,0.2,Credit Card,10.00
+1642,2023-09-24,C241,Kettlebell,Fitness,184.42,4,0.05,PayPal,10.00
+1522,2023-09-24,C525,Jump Rope,Fitness,41.12,4,0.0,Credit Card,0.00
+2493,2023-09-24,C463,Gym Bag,Fitness,100.65,4,,PayPal,0.00
+1808,2023-09-25,C863,Smartphone Case,Electronics,98.74,4,0.1,PayPal,0.00
+2826,2023-09-25,C792,Cereal,Groceries,11.25,3,0.0,Debit Card,13.44
+1953,2023-09-25,C761,Dress Shirt,Apparel,54.49,3,0.0,Gift Card,0.00
+1350,2023-09-25,C913,Mug,Home,90.76,1,0.1,Credit Card,14.34
+3037,2023-09-26,C469,Protein Powder,Fitness,37.42,4,0.05,PayPal,0.00
+2825,2023-09-26,C226,Blender,Home,158.49,3,0.1,PayPal,0.00
+1896,2023-09-26,C416,Bluetooth Speaker,Electronics,322.81,1,0.0,Credit Card,0.00
+2727,2023-09-26,C415,Gaming Monitor,Electronics,249.66,4,0.15,Debit Card,0.00
+3493,2023-09-26,C762,Protein Powder,Fitness,194.50,4,,PayPal,5.00
+3249,2023-09-27,C883,Almonds,Groceries,6.69,1,0.15,PayPal,12.69
+2665,2023-09-27,C510,External Hard Drive,Electronics,464.31,4,,Debit Card,0.00
+2478,2023-09-27,C637,Oats,Groceries,7.02,2,0.0,Debit Card,5.75
+2876,2023-09-27,C668,Table Lamp,Home,113.21,5,0.2,Credit Card,0.00
+2189,2023-09-27,C772,Winter Jacket,Apparel,121.38,2,0.0,Credit Card,0.00
+3040,2023-09-27,C575,Mechanical Keyboard,Electronics,15.06,3,0.0,PayPal,3.86
+2899,2023-09-27,C868,Laptop Stand,Electronics,346.15,3,0.0,Credit Card,0.00
+1146,2023-09-28,C885,Blender,Home,292.58,1,0.0,Credit Card,5.00
+3001,2023-09-28,C717,Mug,Home,84.10,3,0.0,Debit Card,0.00
+2937,2023-09-28,C361,Webcam,Electronics,336.08,3,0.05,PayPal,0.00
+1389,2023-09-28,C562,Cotton T-Shirt,Apparel,132.89,2,0.0,Credit Card,0.00
+1203,2023-09-28,C268,Honey,Groceries,3.52,2,0.0,Credit Card,10.08
+1625,2023-09-29,C270,Oats,Groceries,29.02,4,,Gift Card,0.00
+1872,2023-09-29,C591,Water Bottle,Fitness,164.94,3,0.0,Credit Card,0.00
+1178,2023-09-29,C428,Webcam,Electronics,306.44,1,0.0,Gift Card,5.00
+2241,2023-09-29,C581,Yoga Mat,Fitness,123.28,2,0.05,PayPal,0.00
+2625,2023-09-29,C289,Wireless Mouse,Electronics,498.66,1,0.0,Gift Card,0.00
+2739,2023-09-29,C769,Gym Bag,Fitness,46.64,5,0.15,Gift Card,10.00
+2336,2023-09-29,C228,Treadmill,Fitness,49.54,4,0.0,Gift Card,0.00
+2523,2023-09-29,C869,Coffee Maker,Home,17.12,2,0.0,Gift Card,13.51
+1326,2023-09-29,C259,Cotton T-Shirt,Apparel,83.26,2,0.0,Credit Card,0.00
+3178,2023-09-29,C669,Hat,Apparel,104.43,2,0.0,Credit Card,10.00
+3465,2023-09-30,C206,Socks (3-Pack),Apparel,88.73,3,0.0,Credit Card,0.00
+2688,2023-09-30,C644,Hat,Apparel,10.09,2,0.1,PayPal,3.62
+1788,2023-09-30,C653,Bluetooth Speaker,Electronics,93.51,1,0.2,Credit Card,4.92
+1195,2023-09-30,C749,Mug,Home,35.30,2,0.15,Gift Card,9.36
+2207,2023-10-01,C644,Smart Watch,Electronics,342.14,5,0.0,Debit Card,0.00
+2924,2023-10-01,C827,Wireless Mouse,Electronics,339.83,1,0.05,Credit Card,0.00
+3294,2023-10-01,C348,Honey,Groceries,8.35,4,0.05,PayPal,4.92
+1908,2023-10-01,C523,Socks (3-Pack),Apparel,132.84,1,0.05,Debit Card,0.00
+1706,2023-10-01,C344,Sweater,Apparel,123.02,4,0.0,Credit Card,0.00
+1088,2023-10-01,C299,Gym Bag,Fitness,106.03,4,0.0,Gift Card,0.00
+3400,2023-10-02,C167,Coffee Beans,Groceries,21.68,4,0.0,Credit Card,12.44
+2358,2023-10-02,C209,Mechanical Keyboard,Electronics,192.96,2,0.0,Credit Card,5.00
+1153,2023-10-02,C598,Coffee Maker,Home,216.55,5,0.15,PayPal,0.00
+1275,2023-10-02,C626,Blender,Home,57.82,2,0.1,Credit Card,0.00
+3018,2023-10-02,C267,External Hard Drive,Electronics,308.66,3,0.0,Gift Card,5.00
+1496,2023-10-02,C616,External Hard Drive,Electronics,203.22,1,0.0,Credit Card,0.00
+1888,2023-10-02,C350,Smartphone Case,Electronics,417.22,4,0.0,Debit Card,5.00
+1050,2023-10-02,C932,Table Lamp,Home,244.76,2,0.0,Debit Card,0.00
+1523,2023-10-03,C410,Hat,Apparel,148.13,1,0.05,Gift Card,0.00
+2155,2023-10-03,C155,Socks (3-Pack),Apparel,113.89,1,0.1,Gift Card,0.00
+1121,2023-10-03,C623,Sneakers,Apparel,130.31,2,0.0,Credit Card,5.00
+1372,2023-10-03,C161,Smartphone Case,Electronics,142.93,4,0.0,Gift Card,0.00
+2396,2023-10-03,C963,Rug,Home,27.08,2,0.15,Debit Card,9.01
+1687,2023-10-03,C231,Coffee Maker,Home,88.99,5,0.15,PayPal,0.00
+1812,2023-10-03,C189,Desk Lamp,Home,39.11,1,0.0,Debit Card,8.08
+1246,2023-10-04,C649,Sweater,Apparel,40.97,2,0.0,PayPal,5.62
+2403,2023-10-04,C937,Sneakers,Apparel,17.61,2,0.15,PayPal,5.60
+1734,2023-10-04,C780,Shorts,Apparel,90.51,3,0.05,Gift Card,0.00
+2024,2023-10-04,C369,Desk Lamp,Home,111.34,3,0.15,Credit Card,0.00
+2460,2023-10-04,C249,Gaming Monitor,Electronics,133.74,4,0.2,Credit Card,0.00
+2334,2023-10-04,C256,Sweater,Apparel,41.34,3,0.0,Gift Card,10.00
+1289,2023-10-04,C668,Socks (3-Pack),Apparel,90.87,4,0.15,Credit Card,5.00
+1207,2023-10-04,C207,Shorts,Apparel,26.48,1,0.0,Debit Card,12.34
+2898,2023-10-04,C196,Tea Bags,Groceries,26.77,5,0.2,PayPal,0.00
+1655,2023-10-04,C478,Table Lamp,Home,182.65,5,0.15,Gift Card,0.00
+1177,2023-10-04,C963,Running Shoes,Apparel,146.15,2,0.2,Gift Card,5.00
+1669,2023-10-05,C654,Mechanical Keyboard,Electronics,99.51,1,0.2,Debit Card,3.71
+3218,2023-10-05,C190,Dumbbell Set,Fitness,137.41,5,0.0,Credit Card,0.00
+2084,2023-10-05,C873,Kettlebell,Fitness,194.18,3,0.0,Debit Card,0.00
+2212,2023-10-05,C907,Socks (3-Pack),Apparel,42.02,3,0.15,PayPal,0.00
+1318,2023-10-05,C424,Throw Pillow,Home,187.53,4,0.0,PayPal,5.00
+2160,2023-10-06,C283,Webcam,Electronics,18.58,3,0.0,Credit Card,7.29
+2002,2023-10-06,C305,Wireless Mouse,Electronics,84.98,1,0.0,Credit Card,8.68
+3089,2023-10-06,C147,Table Lamp,Home,231.54,4,0.15,PayPal,0.00
+3041,2023-10-06,C884,Resistance Bands,Fitness,159.72,4,0.05,Debit Card,0.00
+2425,2023-10-06,C314,Running Shoes,Apparel,143.22,2,,Credit Card,0.00
+1384,2023-10-06,C336,Bookshelf,Home,37.65,4,0.1,Gift Card,5.00
+1025,2023-10-07,C692,Webcam,Electronics,178.82,1,0.0,Credit Card,10.00
+1436,2023-10-07,C696,External Hard Drive,Electronics,208.06,2,0.0,Credit Card,0.00
+3324,2023-10-07,C394,Bluetooth Speaker,Electronics,235.29,4,0.15,PayPal,0.00
+1688,2023-10-07,C794,External Hard Drive,Electronics,311.08,5,0.0,Gift Card,0.00
+3066,2023-10-07,C669,Pasta,Groceries,26.81,5,0.0,Debit Card,0.00
+1009,2023-10-07,C889,External Hard Drive,Electronics,489.18,2,0.15,Gift Card,0.00
+3121,2023-10-07,C274,Table Lamp,Home,93.93,5,0.0,Gift Card,0.00
+2268,2023-10-07,C330,Running Shoes,Apparel,149.66,5,0.15,Debit Card,5.00
+1633,2023-10-08,C232,Mechanical Keyboard,Electronics,306.82,1,0.15,Gift Card,0.00
+2518,2023-10-08,C572,Mechanical Keyboard,Electronics,28.03,1,0.0,Credit Card,14.98
+2999,2023-10-08,C457,Honey,Groceries,20.75,2,0.0,PayPal,13.50
+1557,2023-10-08,C801,Sneakers,Apparel,76.63,2,0.0,Gift Card,0.00
+3217,2023-10-09,C362,Coffee Maker,Home,19.90,4,0.0,PayPal,10.71
+1285,2023-10-09,C360,Winter Jacket,Apparel,137.41,1,0.15,Gift Card,0.00
+2098,2023-10-09,C819,Winter Jacket,Apparel,63.54,4,0.2,Credit Card,0.00
+1200,2023-10-09,C114,Gym Bag,Fitness,46.21,1,0.0,PayPal,6.75
+2072,2023-10-09,C329,Jump Rope,Fitness,188.45,3,0.1,Debit Card,0.00
+1875,2023-10-09,C832,Dumbbell Set,Fitness,103.45,1,0.2,PayPal,0.00
+3422,2023-10-09,C932,Bluetooth Speaker,Electronics,30.35,4,0.1,PayPal,0.00
+1054,2023-10-10,C439,Office Chair,Home,270.02,1,0.15,Gift Card,0.00
+2534,2023-10-10,C498,Bookshelf,Home,65.51,2,,Gift Card,0.00
+2114,2023-10-10,C229,Foam Roller,Fitness,132.52,4,0.1,PayPal,10.00
+2112,2023-10-10,C297,Webcam,Electronics,296.39,3,0.1,PayPal,0.00
+3241,2023-10-10,C104,Cotton T-Shirt,Apparel,40.46,3,,PayPal,5.00
+2133,2023-10-10,C822,Smart Watch,Electronics,78.81,3,0.1,PayPal,5.00
+1440,2023-10-10,C598,Coffee Maker,Home,39.13,4,0.15,Gift Card,0.00
+1427,2023-10-10,C432,Cotton T-Shirt,Apparel,19.15,1,0.0,Debit Card,6.39
+3288,2023-10-10,C929,Sweater,Apparel,58.17,1,0.15,Debit Card,14.87
+3264,2023-10-10,C560,Socks (3-Pack),Apparel,118.71,3,0.05,PayPal,0.00
+2159,2023-10-10,C151,Treadmill,Fitness,57.94,3,0.1,Credit Card,0.00
+1975,2023-10-10,C275,Treadmill,Fitness,131.01,5,0.0,Debit Card,0.00
+2948,2023-10-11,C480,Table Lamp,Home,101.09,4,0.15,Debit Card,0.00
+1148,2023-10-11,C128,Bookshelf,Home,285.05,5,0.15,Gift Card,0.00
+1226,2023-10-11,C472,Office Chair,Home,42.77,2,,PayPal,12.96
+3044,2023-10-11,C457,Jeans,Apparel,123.33,2,,PayPal,0.00
+1400,2023-10-11,C251,Laptop Stand,Electronics,27.99,1,0.1,PayPal,6.97
+3237,2023-10-11,C886,Webcam,Electronics,482.36,2,0.0,Credit Card,5.00
+2800,2023-10-11,C607,Gaming Monitor,Electronics,311.98,4,0.0,Debit Card,0.00
+1392,2023-10-11,C215,Smartphone Case,Electronics,469.54,5,0.0,Gift Card,0.00
+1545,2023-10-11,C212,Sneakers,Apparel,116.72,3,0.0,PayPal,0.00
+3416,2023-10-11,C565,Protein Powder,Fitness,37.88,3,0.15,Credit Card,0.00
+2448,2023-10-11,C542,Laptop Stand,Electronics,392.51,1,0.1,PayPal,0.00
+1913,2023-10-11,C249,Bookshelf,Home,176.94,5,0.0,PayPal,5.00
+1871,2023-10-11,C742,Desk Lamp,Home,287.92,1,0.1,Credit Card,0.00
+1851,2023-10-12,C888,Treadmill,Fitness,78.51,3,0.05,PayPal,0.00
+2562,2023-10-12,C295,Coffee Maker,Home,179.34,5,0.05,Debit Card,5.00
+1843,2023-10-12,C396,Gaming Monitor,Electronics,382.84,2,0.1,Debit Card,0.00
+2589,2023-10-12,C525,Bluetooth Speaker,Electronics,352.85,2,0.05,PayPal,5.00
+1309,2023-10-12,C727,Jeans,Apparel,79.83,2,0.1,PayPal,5.00
+1096,2023-10-13,C868,Yoga Mat,Fitness,198.57,2,0.0,Debit Card,5.00
+2601,2023-10-13,C420,Running Shoes,Apparel,121.26,5,0.1,PayPal,0.00
+1947,2023-10-13,C865,Laptop Stand,Electronics,315.23,5,0.0,PayPal,0.00
+2844,2023-10-13,C670,Olive Oil,Groceries,6.93,1,0.0,Debit Card,5.11
+3433,2023-10-13,C417,Cotton T-Shirt,Apparel,72.67,3,0.05,Gift Card,10.00
+2352,2023-10-13,C473,Resistance Bands,Fitness,107.55,5,0.0,PayPal,10.00
+1618,2023-10-13,C699,External Hard Drive,Electronics,17.97,4,0.0,Gift Card,3.54
+1626,2023-10-14,C306,Webcam,Electronics,34.95,1,0.1,Gift Card,14.75
+2868,2023-10-14,C985,Jeans,Apparel,80.43,5,0.15,PayPal,0.00
+1455,2023-10-14,C423,Coffee Beans,Groceries,5.63,5,0.2,Gift Card,10.33
+2692,2023-10-14,C352,Coffee Maker,Home,209.80,5,0.1,Debit Card,5.00
+1430,2023-10-15,C493,Bluetooth Speaker,Electronics,408.82,5,0.2,PayPal,0.00
+2565,2023-10-15,C841,Office Chair,Home,262.61,3,0.0,PayPal,0.00
+3191,2023-10-15,C935,Foam Roller,Fitness,107.86,2,0.0,Credit Card,5.00
+3353,2023-10-15,C812,Blender,Home,292.16,1,0.0,PayPal,0.00
+2375,2023-10-15,C972,Wireless Mouse,Electronics,183.15,1,,PayPal,5.00
+2566,2023-10-15,C306,Protein Powder,Fitness,49.29,3,0.05,Debit Card,0.00
+3413,2023-10-15,C143,Desk Lamp,Home,294.03,1,0.05,PayPal,5.00
+1120,2023-10-15,C130,Dress Shirt,Apparel,48.08,1,0.2,Credit Card,8.95
+1021,2023-10-15,C710,Dumbbell Set,Fitness,109.85,5,0.0,Credit Card,0.00
+2596,2023-10-15,C602,Resistance Bands,Fitness,36.55,2,0.0,Debit Card,10.50
+3307,2023-10-16,C578,Throw Pillow,Home,288.61,3,,PayPal,0.00
+1753,2023-10-16,C889,Bookshelf,Home,64.97,3,0.05,Credit Card,0.00
+1710,2023-10-16,C315,Winter Jacket,Apparel,61.75,3,0.15,Gift Card,5.00
+1369,2023-10-16,C155,Smartphone Case,Electronics,464.10,3,,Credit Card,0.00
+1942,2023-10-16,C595,Rice,Groceries,17.76,2,0.0,Credit Card,5.31
+3468,2023-10-16,C892,Jeans,Apparel,137.26,2,0.05,Gift Card,0.00
+2760,2023-10-16,C202,Socks (3-Pack),Apparel,116.88,1,0.0,Credit Card,0.00
+1349,2023-10-17,C313,Office Chair,Home,148.40,1,0.1,Gift Card,5.00
+2617,2023-10-17,C625,Wall Art,Home,158.99,1,0.1,PayPal,0.00
+2445,2023-10-17,C589,Running Shoes,Apparel,34.14,5,0.05,Credit Card,0.00
+2298,2023-10-17,C196,Rice,Groceries,21.93,4,0.0,Gift Card,4.66
+1785,2023-10-17,C339,Table Lamp,Home,225.67,1,0.15,Gift Card,10.00
+2243,2023-10-17,C212,Yoga Mat,Fitness,104.54,3,0.0,PayPal,0.00
+2764,2023-10-17,C304,Protein Powder,Fitness,31.70,2,,Gift Card,5.18
+2635,2023-10-18,C881,Mechanical Keyboard,Electronics,345.60,1,0.1,Credit Card,10.00
+1108,2023-10-18,C268,Winter Jacket,Apparel,97.93,2,0.05,Gift Card,5.00
+1190,2023-10-18,C797,Wireless Mouse,Electronics,331.15,3,0.0,Gift Card,5.00
+3166,2023-10-18,C576,Sweater,Apparel,14.20,1,0.0,Credit Card,3.31
+2013,2023-10-19,C262,Gaming Monitor,Electronics,254.72,4,0.0,Debit Card,0.00
+1825,2023-10-19,C830,Mechanical Keyboard,Electronics,79.91,5,0.0,PayPal,5.00
+1554,2023-10-19,C609,Socks (3-Pack),Apparel,85.94,5,0.2,Credit Card,10.00
+3412,2023-10-19,C615,Coffee Beans,Groceries,23.58,4,0.05,Gift Card,14.91
+1339,2023-10-19,C143,Rug,Home,211.20,2,0.0,Debit Card,0.00
+1961,2023-10-19,C903,Wireless Mouse,Electronics,474.10,1,0.05,Gift Card,0.00
+2167,2023-10-20,C787,Webcam,Electronics,455.78,3,0.0,Credit Card,5.00
+2803,2023-10-20,C572,Protein Powder,Fitness,28.41,1,0.0,Credit Card,12.45
+3031,2023-10-20,C876,Socks (3-Pack),Apparel,138.08,2,0.0,Debit Card,0.00
+1248,2023-10-20,C728,Pasta,Groceries,28.89,3,0.1,Credit Card,7.63
+3317,2023-10-20,C351,Winter Jacket,Apparel,85.42,2,0.0,Gift Card,0.00
+2287,2023-10-20,C968,Dress Shirt,Apparel,97.82,4,0.1,PayPal,5.00
+2931,2023-10-20,C254,Blender,Home,282.58,4,0.05,PayPal,0.00
+2705,2023-10-21,C964,Hat,Apparel,129.90,3,0.15,PayPal,0.00
+1921,2023-10-21,C292,Hat,Apparel,118.41,5,0.0,Debit Card,10.00
+3176,2023-10-21,C459,Wireless Mouse,Electronics,74.39,1,0.0,Credit Card,5.05
+2593,2023-10-21,C335,Wall Art,Home,285.63,1,0.0,Debit Card,0.00
+3238,2023-10-21,C493,Table Lamp,Home,172.17,4,0.05,Credit Card,0.00
+3252,2023-10-22,C402,Kettlebell,Fitness,154.09,3,0.0,Gift Card,0.00
+1769,2023-10-22,C600,Bookshelf,Home,213.49,4,0.1,Debit Card,0.00
+1679,2023-10-22,C450,Rug,Home,92.81,3,0.0,PayPal,0.00
+2038,2023-10-22,C121,Cotton T-Shirt,Apparel,47.84,5,0.1,Credit Card,0.00
+3022,2023-10-22,C935,Webcam,Electronics,79.58,4,0.0,PayPal,0.00
+2703,2023-10-22,C888,Yoga Mat,Fitness,157.50,2,0.05,Credit Card,0.00
+1599,2023-10-22,C366,USB-C Cable,Electronics,465.86,4,0.0,Gift Card,0.00
+2289,2023-10-22,C947,Pasta,Groceries,24.48,5,0.2,Gift Card,0.00
+3372,2023-10-23,C400,Laptop Stand,Electronics,75.15,3,,PayPal,0.00
+2580,2023-10-23,C387,Rug,Home,269.53,1,0.0,Credit Card,0.00
+1059,2023-10-23,C379,Water Bottle,Fitness,103.21,3,0.0,Debit Card,0.00
+1936,2023-10-23,C896,Winter Jacket,Apparel,101.35,2,0.05,Debit Card,5.00
+3487,2023-10-23,C444,Wall Art,Home,27.87,4,,PayPal,0.00
+2043,2023-10-23,C647,Shorts,Apparel,110.69,5,0.2,Gift Card,5.00
+1515,2023-10-23,C611,Water Bottle,Fitness,186.28,2,,PayPal,0.00
+3313,2023-10-23,C273,Resistance Bands,Fitness,185.19,1,0.05,Credit Card,5.00
+1249,2023-10-23,C653,Desk Lamp,Home,274.73,3,0.05,Gift Card,0.00
+1563,2023-10-24,C202,Blender,Home,110.75,5,0.05,Debit Card,0.00
+3486,2023-10-24,C621,Coffee Beans,Groceries,18.47,4,0.2,PayPal,11.12
+1317,2023-10-24,C445,Shorts,Apparel,90.03,1,,PayPal,5.74
+1341,2023-10-24,C424,Tea Bags,Groceries,24.75,4,0.0,Gift Card,7.30
+2324,2023-10-24,C211,Wireless Mouse,Electronics,418.22,2,,Credit Card,0.00
+1766,2023-10-24,C239,Blender,Home,59.10,2,,PayPal,0.00
+2150,2023-10-24,C723,Bluetooth Speaker,Electronics,190.87,3,0.0,Gift Card,10.00
+2761,2023-10-24,C629,Laptop Stand,Electronics,229.40,2,0.15,Credit Card,10.00
+1502,2023-10-25,C141,Jeans,Apparel,100.74,1,0.1,Debit Card,10.00
+2799,2023-10-25,C623,Laptop Stand,Electronics,392.08,1,0.0,PayPal,5.00
+1868,2023-10-25,C937,Shorts,Apparel,36.30,2,,Debit Card,8.46
+3061,2023-10-25,C542,Cotton T-Shirt,Apparel,113.25,2,0.0,PayPal,10.00
+3300,2023-10-25,C240,Bluetooth Speaker,Electronics,91.45,1,,Debit Card,13.32
+1348,2023-10-26,C757,Water Bottle,Fitness,109.91,5,0.0,Credit Card,0.00
+1125,2023-10-26,C923,Cotton T-Shirt,Apparel,143.57,1,0.15,PayPal,0.00
+3477,2023-10-26,C465,Webcam,Electronics,182.92,3,0.0,PayPal,5.00
+2854,2023-10-26,C580,Smartphone Case,Electronics,17.37,5,0.0,Debit Card,6.53
+3389,2023-10-26,C287,Bluetooth Speaker,Electronics,25.18,4,0.0,Credit Card,0.00
+1439,2023-10-26,C963,Honey,Groceries,7.17,2,0.0,Credit Card,4.73
+2255,2023-10-26,C926,Gym Bag,Fitness,96.70,1,0.0,PayPal,3.76
+3490,2023-10-26,C582,Webcam,Electronics,235.54,5,0.15,PayPal,0.00
+2365,2023-10-27,C968,Winter Jacket,Apparel,32.74,5,0.0,PayPal,0.00
+1123,2023-10-27,C583,Jeans,Apparel,35.05,1,0.15,Gift Card,5.69
+2517,2023-10-27,C621,Dress Shirt,Apparel,68.52,2,0.1,PayPal,0.00
+2052,2023-10-27,C684,Dress Shirt,Apparel,20.00,4,0.0,PayPal,10.28
+1676,2023-10-27,C271,USB-C Cable,Electronics,143.92,3,0.0,PayPal,5.00
+1323,2023-10-27,C779,Sweater,Apparel,130.99,4,0.05,PayPal,0.00
+3266,2023-10-28,C970,Wireless Mouse,Electronics,128.21,5,0.1,Gift Card,0.00
+2149,2023-10-28,C847,Foam Roller,Fitness,84.83,1,0.05,Credit Card,5.66
+2564,2023-10-28,C767,Gaming Monitor,Electronics,416.69,1,0.0,Gift Card,0.00
+2405,2023-10-28,C568,Rice,Groceries,23.35,4,0.05,Debit Card,3.93
+2039,2023-10-28,C975,Rug,Home,20.37,4,0.0,Debit Card,7.55
+2273,2023-10-28,C912,Office Chair,Home,179.05,1,0.0,Gift Card,5.00
+2450,2023-10-28,C873,Blender,Home,185.71,3,0.0,Credit Card,0.00
+1958,2023-10-29,C148,Sneakers,Apparel,79.07,1,0.15,Credit Card,3.35
+1895,2023-10-29,C966,Winter Jacket,Apparel,49.51,5,0.0,Credit Card,5.00
+2470,2023-10-29,C183,Sneakers,Apparel,71.95,4,0.1,Credit Card,0.00
+1029,2023-10-29,C836,Hat,Apparel,63.10,2,0.0,PayPal,0.00
+2725,2023-10-29,C203,Bookshelf,Home,202.32,5,,PayPal,0.00
+1225,2023-10-29,C472,Resistance Bands,Fitness,170.42,3,0.05,Gift Card,5.00
+1228,2023-10-29,C941,Table Lamp,Home,45.48,5,0.0,Gift Card,0.00
+1997,2023-10-29,C409,Foam Roller,Fitness,107.32,2,0.15,PayPal,0.00
+1011,2023-10-30,C840,Yoga Mat,Fitness,183.51,2,0.1,Credit Card,10.00
+2779,2023-10-30,C262,Desk Lamp,Home,194.79,3,,Credit Card,0.00
+2184,2023-10-30,C915,USB-C Cable,Electronics,255.11,1,0.1,Debit Card,0.00
+1709,2023-10-31,C122,Smart Watch,Electronics,456.22,1,0.0,Credit Card,0.00
+3461,2023-10-31,C815,Water Bottle,Fitness,152.23,5,0.1,Credit Card,0.00
+1816,2023-10-31,C384,Smartphone Case,Electronics,216.79,5,0.0,Debit Card,0.00
+2485,2023-10-31,C486,Smart Watch,Electronics,235.78,4,0.0,Gift Card,5.00
+1775,2023-10-31,C106,Oats,Groceries,3.04,1,0.0,Gift Card,10.85
+2663,2023-10-31,C369,External Hard Drive,Electronics,340.57,3,,Debit Card,0.00
+3299,2023-10-31,C535,Bluetooth Speaker,Electronics,22.96,5,0.05,PayPal,0.00
+2864,2023-11-01,C824,Jump Rope,Fitness,146.99,3,0.0,PayPal,0.00
+1982,2023-11-01,C802,Cotton T-Shirt,Apparel,30.71,4,0.05,Debit Card,0.00
+1333,2023-11-01,C530,Sneakers,Apparel,149.71,4,0.0,Credit Card,5.00
+2012,2023-11-01,C431,Mug,Home,114.21,5,0.0,Credit Card,5.00
+1342,2023-11-01,C237,Wireless Mouse,Electronics,247.80,4,0.05,Gift Card,0.00
+2795,2023-11-01,C240,Honey,Groceries,15.95,5,0.05,Gift Card,3.26
+1627,2023-11-01,C968,Shorts,Apparel,93.42,5,0.0,Gift Card,0.00
+3395,2023-11-02,C199,USB-C Cable,Electronics,250.19,2,0.0,PayPal,0.00
+3482,2023-11-02,C853,Cotton T-Shirt,Apparel,147.64,3,0.0,Credit Card,0.00
+2636,2023-11-02,C886,Laptop Stand,Electronics,184.34,4,0.0,Credit Card,0.00
+1506,2023-11-02,C568,Webcam,Electronics,449.99,3,0.0,Debit Card,0.00
+1840,2023-11-02,C264,Rug,Home,288.51,3,0.0,Gift Card,5.00
+3017,2023-11-02,C138,Sweater,Apparel,18.18,2,0.1,PayPal,14.37
+1140,2023-11-02,C967,Treadmill,Fitness,33.28,4,,Gift Card,5.00
+2522,2023-11-02,C932,Dress Shirt,Apparel,119.72,3,0.1,Gift Card,0.00
+1897,2023-11-02,C909,Cotton T-Shirt,Apparel,54.04,3,,PayPal,5.00
+1950,2023-11-02,C466,Bluetooth Speaker,Electronics,331.91,3,0.0,Credit Card,0.00
+2455,2023-11-02,C995,External Hard Drive,Electronics,121.64,3,0.05,PayPal,10.00
+2439,2023-11-02,C637,Treadmill,Fitness,130.62,1,0.0,Gift Card,0.00
+2905,2023-11-02,C317,Tea Bags,Groceries,9.89,4,0.0,PayPal,5.21
+1144,2023-11-02,C900,Rug,Home,170.19,4,0.05,PayPal,0.00
+2671,2023-11-03,C274,Almonds,Groceries,3.38,2,0.15,Debit Card,4.23
+2836,2023-11-03,C470,Rug,Home,186.79,2,0.1,Credit Card,0.00
+2137,2023-11-03,C891,Bluetooth Speaker,Electronics,239.17,1,0.05,Debit Card,0.00
+2028,2023-11-03,C156,Bluetooth Speaker,Electronics,271.75,4,0.1,Gift Card,0.00
+1180,2023-11-03,C971,Shorts,Apparel,14.05,2,0.0,Credit Card,5.99
+2576,2023-11-04,C583,Blender,Home,107.54,3,0.1,PayPal,0.00
+1783,2023-11-04,C225,Jump Rope,Fitness,190.70,2,0.05,Gift Card,0.00
+2850,2023-11-05,C117,Dress Shirt,Apparel,138.24,1,0.1,PayPal,10.00
+1019,2023-11-05,C754,Cereal,Groceries,12.92,2,0.0,Debit Card,8.46
+3119,2023-11-05,C214,Smartphone Case,Electronics,281.51,4,0.0,Debit Card,5.00
+1689,2023-11-05,C765,Laptop Stand,Electronics,221.95,4,0.05,Gift Card,0.00
+3131,2023-11-05,C482,Laptop Stand,Electronics,374.81,5,0.1,Gift Card,10.00
+3437,2023-11-05,C434,Shorts,Apparel,47.15,4,0.1,PayPal,0.00
+2752,2023-11-05,C593,Honey,Groceries,6.32,5,0.0,Gift Card,6.34
+3305,2023-11-06,C655,Cotton T-Shirt,Apparel,70.40,4,0.0,Debit Card,5.00
+1404,2023-11-06,C812,Wireless Mouse,Electronics,63.56,5,0.0,PayPal,0.00
+1046,2023-11-06,C850,Protein Powder,Fitness,36.59,5,0.15,Credit Card,0.00
+2527,2023-11-06,C641,Rice,Groceries,28.02,2,0.15,Credit Card,8.46
+2807,2023-11-06,C839,Coffee Maker,Home,31.70,4,0.0,Gift Card,5.00
+2032,2023-11-06,C229,Socks (3-Pack),Apparel,16.12,3,0.15,PayPal,4.56
+2941,2023-11-06,C782,External Hard Drive,Electronics,125.57,2,0.0,Credit Card,5.00
+3168,2023-11-06,C653,Foam Roller,Fitness,17.84,5,0.0,Gift Card,8.95
+2305,2023-11-07,C912,Cereal,Groceries,28.25,1,0.0,Debit Card,13.80
+1949,2023-11-07,C946,Gym Bag,Fitness,76.93,1,0.1,Gift Card,12.49
+2301,2023-11-07,C160,Office Chair,Home,63.03,5,,PayPal,0.00
+1564,2023-11-07,C472,Pasta,Groceries,16.42,1,0.05,PayPal,6.18
+3344,2023-11-07,C889,Hat,Apparel,100.59,4,0.05,PayPal,0.00
+3451,2023-11-07,C682,Mug,Home,34.79,5,0.0,Credit Card,5.00
+1204,2023-11-07,C273,Wireless Mouse,Electronics,193.84,3,0.05,Credit Card,0.00
+2650,2023-11-07,C391,Treadmill,Fitness,192.40,1,0.15,Gift Card,0.00
+1511,2023-11-07,C366,Laptop Stand,Electronics,485.65,1,0.0,Debit Card,0.00
+1760,2023-11-07,C603,Bluetooth Speaker,Electronics,35.53,2,0.0,Debit Card,10.11
+1761,2023-11-07,C951,Resistance Bands,Fitness,54.90,1,0.0,Debit Card,11.66
+2107,2023-11-08,C401,Throw Pillow,Home,163.91,5,0.05,Debit Card,0.00
+1172,2023-11-08,C364,Running Shoes,Apparel,22.18,5,0.0,PayPal,0.00
+1085,2023-11-08,C704,Mechanical Keyboard,Electronics,163.46,2,0.0,Debit Card,0.00
+2510,2023-11-08,C973,Gaming Monitor,Electronics,50.33,1,0.0,Credit Card,14.21
+3155,2023-11-08,C737,Tea Bags,Groceries,8.21,4,0.0,Debit Card,7.75
+3000,2023-11-08,C399,Throw Pillow,Home,217.08,1,0.0,Credit Card,0.00
+2603,2023-11-08,C944,Gym Bag,Fitness,128.11,1,0.0,Gift Card,0.00
+3426,2023-11-09,C682,Shorts,Apparel,61.33,1,0.1,Gift Card,3.50
+2249,2023-11-09,C246,Gaming Monitor,Electronics,374.16,4,0.05,Debit Card,0.00
+1964,2023-11-09,C594,Smart Watch,Electronics,385.44,1,0.1,Debit Card,0.00
+2827,2023-11-09,C965,Dumbbell Set,Fitness,36.59,2,0.1,Gift Card,6.43
+1826,2023-11-09,C355,Table Lamp,Home,216.43,2,0.0,Gift Card,0.00
+1594,2023-11-09,C311,Throw Pillow,Home,222.11,2,0.0,Debit Card,0.00
+2920,2023-11-09,C258,Shorts,Apparel,77.14,2,0.0,PayPal,5.00
+2377,2023-11-09,C746,Smart Watch,Electronics,345.19,4,0.05,PayPal,0.00
+3198,2023-11-10,C500,External Hard Drive,Electronics,179.86,1,0.05,Debit Card,0.00
+3243,2023-11-10,C975,Gaming Monitor,Electronics,117.99,1,0.0,Gift Card,0.00
+1630,2023-11-10,C546,Smart Watch,Electronics,365.84,4,0.0,Debit Card,0.00
+1387,2023-11-10,C601,Rug,Home,267.96,4,0.0,Gift Card,5.00
+3455,2023-11-10,C487,Treadmill,Fitness,126.73,2,0.1,Debit Card,0.00
+2490,2023-11-11,C409,Jeans,Apparel,12.29,2,0.0,Gift Card,8.60
+2794,2023-11-11,C687,Pasta,Groceries,10.18,4,0.05,Credit Card,13.56
+3293,2023-11-11,C869,Bookshelf,Home,273.69,5,0.0,Credit Card,0.00
+2598,2023-11-11,C883,Wireless Mouse,Electronics,389.90,1,0.1,Credit Card,0.00
+3028,2023-11-11,C587,Rug,Home,106.52,3,0.05,Debit Card,10.00
+3140,2023-11-11,C599,Bookshelf,Home,113.81,1,0.0,Gift Card,10.00
+1811,2023-11-12,C811,External Hard Drive,Electronics,229.14,3,0.0,Debit Card,0.00
+2411,2023-11-12,C591,Mechanical Keyboard,Electronics,115.58,4,0.0,Gift Card,0.00
+3367,2023-11-12,C923,Webcam,Electronics,105.36,3,0.0,Gift Card,0.00
+2992,2023-11-12,C674,Socks (3-Pack),Apparel,53.29,4,0.0,Gift Card,0.00
+3459,2023-11-12,C620,Bookshelf,Home,195.77,4,0.1,Gift Card,5.00
+1553,2023-11-12,C736,Office Chair,Home,203.41,5,0.1,Debit Card,0.00
+3319,2023-11-13,C774,Webcam,Electronics,147.68,1,0.1,Credit Card,0.00
+2641,2023-11-13,C678,Office Chair,Home,243.94,3,0.15,Gift Card,10.00
+1057,2023-11-13,C653,Jeans,Apparel,120.67,1,0.2,Credit Card,0.00
+2214,2023-11-13,C105,Kettlebell,Fitness,20.51,4,0.1,Gift Card,12.20
+2716,2023-11-13,C924,Gym Bag,Fitness,163.47,1,0.0,Credit Card,0.00
+1951,2023-11-13,C111,Blender,Home,147.63,3,0.05,Gift Card,0.00
+2903,2023-11-13,C815,Tea Bags,Groceries,26.27,1,,Gift Card,8.50
+1457,2023-11-14,C867,Smartphone Case,Electronics,387.54,5,0.05,Debit Card,0.00
+1581,2023-11-14,C778,Yoga Mat,Fitness,141.23,2,0.0,PayPal,10.00
+1962,2023-11-14,C274,Rice,Groceries,15.44,2,0.0,Gift Card,10.64
+1344,2023-11-14,C258,Socks (3-Pack),Apparel,85.82,4,,Gift Card,5.00
+2251,2023-11-14,C234,Sweater,Apparel,102.57,5,0.15,Gift Card,0.00
+3495,2023-11-14,C554,Wireless Mouse,Electronics,198.14,2,0.0,Credit Card,0.00
+2310,2023-11-14,C758,Laptop Stand,Electronics,76.38,2,0.05,Gift Card,0.00
+2374,2023-11-14,C410,Gym Bag,Fitness,62.76,2,0.1,Gift Card,0.00
+1746,2023-11-15,C415,Shorts,Apparel,10.65,4,0.15,PayPal,13.91
+3012,2023-11-15,C663,Winter Jacket,Apparel,51.53,2,0.0,Debit Card,0.00
+1705,2023-11-15,C908,Oats,Groceries,8.92,1,0.05,Gift Card,10.49
+2091,2023-11-15,C470,Jeans,Apparel,127.34,4,0.0,Debit Card,10.00
+2597,2023-11-15,C173,Hat,Apparel,21.22,3,0.05,PayPal,3.36
+1368,2023-11-15,C922,Jeans,Apparel,71.66,2,0.0,Credit Card,0.00
+1532,2023-11-16,C801,Jump Rope,Fitness,140.23,3,,PayPal,5.00
+2767,2023-11-16,C958,Dress Shirt,Apparel,71.15,2,,Credit Card,0.00
+2200,2023-11-16,C635,Smart Watch,Electronics,400.66,2,0.05,Debit Card,0.00
+3304,2023-11-16,C360,Bookshelf,Home,214.62,5,0.05,Credit Card,0.00
+3424,2023-11-16,C321,Mug,Home,48.71,2,,Debit Card,10.67
+2515,2023-11-16,C391,USB-C Cable,Electronics,307.02,3,0.1,Credit Card,0.00
+2911,2023-11-16,C707,Table Lamp,Home,103.83,4,,Debit Card,0.00
+2093,2023-11-17,C639,Webcam,Electronics,397.76,1,0.0,Debit Card,0.00
+1168,2023-11-17,C452,Kettlebell,Fitness,194.43,5,0.0,Gift Card,5.00
+3291,2023-11-17,C235,External Hard Drive,Electronics,23.06,5,0.05,Debit Card,0.00
+2210,2023-11-17,C412,Hat,Apparel,76.06,3,0.0,Debit Card,0.00
+1996,2023-11-17,C572,External Hard Drive,Electronics,22.95,4,,Debit Card,10.38
+1967,2023-11-17,C419,Coffee Maker,Home,256.62,1,0.0,PayPal,0.00
+1644,2023-11-17,C890,Wireless Mouse,Electronics,202.70,1,0.05,Credit Card,10.00
+2318,2023-11-18,C245,Mug,Home,205.53,4,0.1,PayPal,0.00
+3059,2023-11-18,C983,Coffee Maker,Home,250.23,4,0.05,PayPal,0.00
+1136,2023-11-18,C150,Throw Pillow,Home,248.73,2,,Gift Card,5.00
+3323,2023-11-18,C195,Cereal,Groceries,6.70,2,0.0,PayPal,13.80
+2769,2023-11-18,C438,Desk Lamp,Home,230.20,1,,Gift Card,0.00
+2757,2023-11-18,C905,Running Shoes,Apparel,61.92,5,0.2,PayPal,0.00
+1777,2023-11-18,C933,Bluetooth Speaker,Electronics,38.90,2,0.0,Gift Card,8.29
+2316,2023-11-18,C684,Desk Lamp,Home,27.89,4,0.05,PayPal,0.00
+1056,2023-11-18,C312,Table Lamp,Home,279.73,3,0.0,Gift Card,0.00
+2106,2023-11-19,C741,Water Bottle,Fitness,36.57,5,0.0,Credit Card,0.00
+1937,2023-11-19,C926,Jump Rope,Fitness,135.26,3,,Debit Card,0.00
+1598,2023-11-19,C616,Throw Pillow,Home,293.59,3,0.15,Credit Card,0.00
+3494,2023-11-19,C485,Throw Pillow,Home,62.24,4,0.0,Debit Card,0.00
+3480,2023-11-19,C563,Bluetooth Speaker,Electronics,210.02,1,0.0,PayPal,0.00
+1233,2023-11-20,C451,Oats,Groceries,24.73,2,0.1,PayPal,13.12
+2838,2023-11-20,C852,Shorts,Apparel,89.51,4,0.05,Debit Card,5.00
+2776,2023-11-20,C547,External Hard Drive,Electronics,338.17,5,0.05,Credit Card,10.00
+3020,2023-11-20,C116,Webcam,Electronics,291.07,1,0.15,Debit Card,0.00
+3074,2023-11-20,C406,Sneakers,Apparel,34.95,1,0.1,Debit Card,11.42
+2217,2023-11-20,C348,USB-C Cable,Electronics,471.33,5,0.2,Credit Card,5.00
+1580,2023-11-21,C903,Tea Bags,Groceries,15.83,3,0.0,Credit Card,13.10
+1409,2023-11-21,C618,Cotton T-Shirt,Apparel,25.94,3,0.1,Credit Card,12.98
+2622,2023-11-21,C721,Pasta,Groceries,19.02,2,0.0,PayPal,14.99
+1416,2023-11-21,C194,Cotton T-Shirt,Apparel,121.86,5,0.0,Gift Card,5.00
+2516,2023-11-21,C329,Desk Lamp,Home,127.12,3,0.05,Gift Card,0.00
+2737,2023-11-21,C168,Jeans,Apparel,143.57,5,0.15,Credit Card,5.00
+2224,2023-11-21,C757,Dress Shirt,Apparel,122.85,1,0.0,PayPal,0.00
+3049,2023-11-22,C841,External Hard Drive,Electronics,382.54,1,,Debit Card,5.00
+1073,2023-11-22,C175,Shorts,Apparel,77.09,4,0.15,Gift Card,0.00
+2308,2023-11-22,C513,Wireless Mouse,Electronics,459.14,4,0.15,Credit Card,5.00
+1086,2023-11-22,C528,Mug,Home,124.36,2,0.05,Debit Card,0.00
+1802,2023-11-22,C691,USB-C Cable,Electronics,152.63,2,0.1,Debit Card,5.00
+2766,2023-11-22,C105,Winter Jacket,Apparel,94.97,2,0.15,Gift Card,10.00
+3287,2023-11-22,C456,Pasta,Groceries,8.57,1,0.0,Credit Card,3.49
+2381,2023-11-22,C724,Bluetooth Speaker,Electronics,249.41,4,0.0,Credit Card,0.00
+2054,2023-11-22,C145,Mechanical Keyboard,Electronics,456.82,1,0.0,PayPal,0.00
+3147,2023-11-23,C564,Smartphone Case,Electronics,122.66,3,0.15,Gift Card,0.00
+3225,2023-11-23,C815,Smartphone Case,Electronics,228.89,5,0.15,Credit Card,0.00
+1917,2023-11-23,C648,Coffee Maker,Home,290.19,4,0.05,Gift Card,5.00
+1640,2023-11-23,C525,Yoga Mat,Fitness,56.61,4,0.05,Credit Card,0.00
+1423,2023-11-23,C151,Wireless Mouse,Electronics,52.20,4,0.05,Gift Card,0.00
+2259,2023-11-23,C898,External Hard Drive,Electronics,267.27,5,0.0,Debit Card,0.00
+2367,2023-11-23,C452,Coffee Beans,Groceries,19.74,4,,Gift Card,3.14
+2438,2023-11-24,C242,Smartphone Case,Electronics,285.76,4,0.1,Gift Card,0.00
+1170,2023-11-24,C629,Foam Roller,Fitness,38.02,4,0.2,Debit Card,5.00
+3143,2023-11-24,C361,Webcam,Electronics,47.51,1,0.05,PayPal,10.62
+1000,2023-11-24,C132,Office Chair,Home,69.37,4,0.0,Debit Card,0.00
+3320,2023-11-24,C546,Kettlebell,Fitness,63.46,5,0.0,Credit Card,0.00
+3011,2023-11-24,C293,Laptop Stand,Electronics,204.31,2,,Debit Card,10.00
+2708,2023-11-24,C785,Laptop Stand,Electronics,369.12,4,0.1,PayPal,5.00
+2275,2023-11-24,C932,Kettlebell,Fitness,137.12,1,0.0,PayPal,0.00
+1094,2023-11-24,C933,Wireless Mouse,Electronics,289.34,5,0.05,PayPal,10.00
+3265,2023-11-24,C159,Wall Art,Home,184.68,4,0.0,PayPal,0.00
+3256,2023-11-25,C615,Water Bottle,Fitness,137.63,4,,Debit Card,0.00
+2945,2023-11-25,C677,Socks (3-Pack),Apparel,65.02,5,0.0,Credit Card,0.00
+3312,2023-11-25,C407,Hat,Apparel,67.57,5,0.15,Credit Card,0.00
+3326,2023-11-25,C146,Kettlebell,Fitness,163.68,4,0.0,Gift Card,0.00
+2437,2023-11-25,C986,Rug,Home,80.19,4,0.15,Credit Card,0.00
+3297,2023-11-25,C481,Webcam,Electronics,72.77,4,0.0,PayPal,0.00
+1492,2023-11-25,C576,Jeans,Apparel,116.45,2,0.05,Debit Card,0.00
+1155,2023-11-25,C889,Coffee Beans,Groceries,7.92,3,0.2,Debit Card,10.68
+2496,2023-11-26,C920,Running Shoes,Apparel,133.69,4,0.05,Credit Card,10.00
+2765,2023-11-26,C644,Treadmill,Fitness,94.90,4,0.0,Debit Card,0.00
+1714,2023-11-26,C903,Shorts,Apparel,19.08,5,0.15,PayPal,8.98
+2870,2023-11-26,C174,Hat,Apparel,139.39,3,,Credit Card,0.00
+3068,2023-11-26,C565,Webcam,Electronics,280.55,1,,Credit Card,0.00
+2600,2023-11-26,C651,Desk Lamp,Home,239.43,5,,Debit Card,10.00
+1114,2023-11-26,C169,Bluetooth Speaker,Electronics,29.52,1,0.0,PayPal,10.54
+2818,2023-11-27,C237,Foam Roller,Fitness,22.79,1,0.0,Credit Card,4.11
+2426,2023-11-27,C312,Gaming Monitor,Electronics,42.84,4,0.0,PayPal,0.00
+2878,2023-11-27,C930,Winter Jacket,Apparel,136.24,1,,PayPal,0.00
+1361,2023-11-27,C988,Bluetooth Speaker,Electronics,376.36,5,0.05,Gift Card,0.00
+3162,2023-11-27,C912,Smart Watch,Electronics,16.85,2,0.0,Credit Card,3.43
+2319,2023-11-27,C999,Throw Pillow,Home,131.62,1,0.0,PayPal,5.00
+1266,2023-11-27,C119,Yoga Mat,Fitness,164.40,5,0.05,Credit Card,0.00
+2744,2023-11-27,C302,Pasta,Groceries,4.00,5,0.0,Debit Card,9.43
+2792,2023-11-27,C563,Jeans,Apparel,19.07,1,0.0,Gift Card,4.71
+1855,2023-11-27,C828,External Hard Drive,Electronics,487.81,3,0.1,Gift Card,0.00
+3093,2023-11-28,C868,Laptop Stand,Electronics,445.39,1,,PayPal,10.00
+2839,2023-11-28,C882,Desk Lamp,Home,102.23,3,0.1,Gift Card,0.00
+1794,2023-11-28,C533,Sweater,Apparel,121.65,2,0.05,Debit Card,0.00
+2121,2023-11-28,C318,Blender,Home,124.00,2,0.2,Debit Card,0.00
+2004,2023-11-28,C961,Jump Rope,Fitness,166.12,4,0.05,Gift Card,0.00
+2379,2023-11-28,C352,Laptop Stand,Electronics,347.26,3,0.15,Gift Card,5.00
+1083,2023-11-28,C301,Socks (3-Pack),Apparel,103.90,4,0.05,Gift Card,0.00
+1214,2023-11-29,C510,Sneakers,Apparel,48.06,4,0.0,Gift Card,0.00
+3182,2023-11-29,C904,Winter Jacket,Apparel,49.00,3,0.0,Credit Card,0.00
+1023,2023-11-29,C310,Rug,Home,40.92,5,0.0,Debit Card,0.00
+2980,2023-11-29,C741,Bookshelf,Home,39.65,3,,PayPal,0.00
+1738,2023-11-29,C774,Smartphone Case,Electronics,56.81,1,0.15,PayPal,13.59
+2203,2023-11-29,C649,Yoga Mat,Fitness,70.58,1,0.0,Credit Card,8.71
+2385,2023-11-29,C719,Resistance Bands,Fitness,166.59,2,0.05,Credit Card,0.00
+2178,2023-11-30,C393,Water Bottle,Fitness,39.82,2,0.0,PayPal,12.16
+2048,2023-11-30,C551,Smart Watch,Electronics,137.17,4,0.05,Debit Card,5.00
+1288,2023-11-30,C726,Webcam,Electronics,379.94,4,0.05,Debit Card,0.00
+2804,2023-11-30,C959,Jeans,Apparel,138.68,4,0.05,Debit Card,0.00
+2533,2023-11-30,C779,Smartphone Case,Electronics,114.57,5,0.0,Debit Card,10.00
+3315,2023-11-30,C368,Tea Bags,Groceries,25.36,1,0.0,Debit Card,5.22
+1809,2023-11-30,C201,Hat,Apparel,35.88,1,0.1,Gift Card,3.77
+1740,2023-11-30,C178,Gym Bag,Fitness,155.64,3,0.0,Debit Card,0.00
+1265,2023-12-01,C279,Office Chair,Home,254.91,2,0.0,Credit Card,5.00
+1388,2023-12-01,C503,Mug,Home,184.23,5,0.1,Credit Card,0.00
+3396,2023-12-01,C529,Smartphone Case,Electronics,383.28,2,0.0,PayPal,5.00
+1607,2023-12-02,C796,Laptop Stand,Electronics,299.27,1,0.0,Credit Card,0.00
+2194,2023-12-02,C251,Throw Pillow,Home,118.79,5,0.2,Gift Card,0.00
+1111,2023-12-02,C774,Resistance Bands,Fitness,108.37,5,0.0,Credit Card,5.00
+1565,2023-12-02,C404,Honey,Groceries,24.72,5,0.0,Credit Card,0.00
+3485,2023-12-02,C405,Cotton T-Shirt,Apparel,74.97,3,0.0,Gift Card,0.00
+3098,2023-12-02,C750,Throw Pillow,Home,140.28,1,0.0,Gift Card,0.00
+2859,2023-12-02,C746,Hat,Apparel,126.35,2,0.0,Credit Card,0.00
+2408,2023-12-02,C481,Webcam,Electronics,330.28,3,0.15,PayPal,0.00
+2532,2023-12-02,C921,Gym Bag,Fitness,164.74,5,0.0,PayPal,5.00
+2754,2023-12-02,C233,Smart Watch,Electronics,270.21,1,0.0,Debit Card,5.00
+1347,2023-12-03,C774,Mechanical Keyboard,Electronics,97.53,1,0.0,Credit Card,3.38
+2618,2023-12-03,C814,Jeans,Apparel,126.26,3,0.2,Gift Card,0.00
+3058,2023-12-03,C644,Gaming Monitor,Electronics,147.89,4,0.15,Credit Card,0.00
+2083,2023-12-03,C601,Kettlebell,Fitness,123.59,5,0.0,Credit Card,10.00
+2849,2023-12-03,C416,Shorts,Apparel,54.29,1,,Debit Card,11.80
+2604,2023-12-03,C145,Desk Lamp,Home,203.68,2,0.05,Credit Card,0.00
+2584,2023-12-03,C871,Jeans,Apparel,13.77,1,0.05,PayPal,5.31
+2492,2023-12-04,C203,Wireless Mouse,Electronics,181.77,4,0.15,Credit Card,0.00
+1257,2023-12-04,C915,Gym Bag,Fitness,66.05,2,0.15,PayPal,10.00
+1198,2023-12-04,C879,Foam Roller,Fitness,155.25,4,0.1,Debit Card,0.00
+1484,2023-12-04,C642,Rice,Groceries,12.77,5,0.0,Debit Card,6.32
+3303,2023-12-04,C229,Socks (3-Pack),Apparel,130.40,2,0.05,Debit Card,5.00
+2151,2023-12-04,C761,USB-C Cable,Electronics,102.11,2,0.0,Gift Card,0.00
+1575,2023-12-04,C185,Socks (3-Pack),Apparel,131.40,4,0.05,Credit Card,0.00
+2313,2023-12-04,C856,Wireless Mouse,Electronics,33.13,3,0.0,Credit Card,12.88
+2294,2023-12-04,C320,Throw Pillow,Home,168.44,3,0.05,Gift Card,0.00
+1970,2023-12-05,C129,Hat,Apparel,73.37,3,0.05,PayPal,0.00
+2901,2023-12-05,C944,Running Shoes,Apparel,86.54,4,0.0,Debit Card,10.00
+1310,2023-12-05,C386,Shorts,Apparel,28.36,5,0.1,PayPal,5.00
+1790,2023-12-05,C647,Rug,Home,40.78,3,0.15,Credit Card,0.00
+2464,2023-12-05,C198,Honey,Groceries,8.53,5,,Credit Card,7.05
+3127,2023-12-05,C843,Wireless Mouse,Electronics,112.86,5,0.0,Credit Card,5.00
+2647,2023-12-05,C816,External Hard Drive,Electronics,241.76,4,0.0,Gift Card,10.00
+1998,2023-12-05,C965,Dress Shirt,Apparel,103.81,4,0.15,Gift Card,5.00
+1064,2023-12-05,C186,Wall Art,Home,272.98,2,0.0,Gift Card,0.00
+1579,2023-12-06,C983,Rug,Home,167.04,1,0.0,Debit Card,10.00
+2435,2023-12-06,C266,Smartphone Case,Electronics,172.39,1,0.2,Credit Card,0.00
+1711,2023-12-06,C166,Mechanical Keyboard,Electronics,399.50,2,0.05,PayPal,0.00
+2070,2023-12-06,C493,Jeans,Apparel,143.49,1,0.1,Debit Card,0.00
+2855,2023-12-06,C244,Shorts,Apparel,89.04,4,0.05,Credit Card,0.00
+2861,2023-12-06,C421,Almonds,Groceries,15.44,4,0.0,Debit Card,8.86
+1394,2023-12-06,C226,USB-C Cable,Electronics,320.70,1,0.0,Debit Card,0.00
+1867,2023-12-06,C935,Resistance Bands,Fitness,118.24,2,0.0,Debit Card,5.00
+2177,2023-12-06,C803,Tea Bags,Groceries,16.56,5,0.15,Gift Card,12.08
+1534,2023-12-06,C258,Winter Jacket,Apparel,121.31,5,0.1,Credit Card,0.00
+1549,2023-12-07,C272,Bluetooth Speaker,Electronics,175.93,5,0.0,Debit Card,5.00
+1530,2023-12-07,C154,Webcam,Electronics,321.76,3,,PayPal,0.00
+2572,2023-12-07,C479,Running Shoes,Apparel,48.05,5,0.1,Credit Card,0.00
+3034,2023-12-07,C175,Cotton T-Shirt,Apparel,130.81,4,0.0,Debit Card,0.00
+2548,2023-12-07,C941,Cotton T-Shirt,Apparel,130.21,1,0.05,Debit Card,0.00
+3213,2023-12-08,C778,Wireless Mouse,Electronics,323.16,3,,Gift Card,10.00
+1539,2023-12-08,C359,Smart Watch,Electronics,337.12,1,0.15,Debit Card,0.00
+1391,2023-12-08,C532,Wireless Mouse,Electronics,348.08,2,0.05,Credit Card,5.00
+1452,2023-12-08,C343,Coffee Maker,Home,75.09,3,,PayPal,5.00
+2666,2023-12-08,C180,Desk Lamp,Home,123.25,2,0.0,PayPal,0.00
+1624,2023-12-08,C741,Gym Bag,Fitness,46.27,3,0.0,Gift Card,0.00
+2263,2023-12-08,C520,USB-C Cable,Electronics,413.00,2,0.0,Gift Card,0.00
+1827,2023-12-09,C382,Dark Chocolate,Groceries,28.43,2,0.15,PayPal,7.88
+1467,2023-12-09,C627,Rug,Home,151.27,4,0.1,Credit Card,0.00
+1354,2023-12-09,C422,Bookshelf,Home,255.78,4,0.0,PayPal,0.00
+1751,2023-12-09,C385,Bookshelf,Home,27.52,2,0.1,Gift Card,14.80
+1243,2023-12-09,C538,Smart Watch,Electronics,73.73,5,0.0,Gift Card,5.00
+1699,2023-12-09,C112,Office Chair,Home,183.97,2,0.0,PayPal,0.00
+3035,2023-12-09,C460,Smartphone Case,Electronics,312.45,3,0.0,Credit Card,0.00
+2693,2023-12-09,C299,Shorts,Apparel,140.84,3,0.0,PayPal,0.00
+1525,2023-12-10,C952,Hat,Apparel,78.68,3,0.0,Gift Card,0.00
+2873,2023-12-10,C332,Oats,Groceries,4.44,5,0.0,Gift Card,3.85
+1079,2023-12-10,C813,Running Shoes,Apparel,52.04,1,,PayPal,10.78
+2568,2023-12-10,C636,Webcam,Electronics,64.10,3,0.0,Gift Card,5.00
+2401,2023-12-10,C766,Wireless Mouse,Electronics,228.32,5,0.0,Credit Card,0.00
+2879,2023-12-10,C460,Foam Roller,Fitness,86.62,2,,PayPal,0.00
+2062,2023-12-10,C449,Running Shoes,Apparel,67.19,5,0.05,Debit Card,5.00
+1360,2023-12-10,C407,Smartphone Case,Electronics,196.96,1,0.0,Gift Card,0.00
+3146,2023-12-10,C529,Mechanical Keyboard,Electronics,467.48,5,0.0,PayPal,0.00
+1213,2023-12-10,C274,Sneakers,Apparel,143.71,3,0.0,PayPal,0.00
+1585,2023-12-11,C939,Mechanical Keyboard,Electronics,352.26,5,,Gift Card,0.00
+2362,2023-12-11,C642,Bluetooth Speaker,Electronics,357.04,4,0.0,PayPal,5.00
+1264,2023-12-11,C468,Laptop Stand,Electronics,440.16,4,0.1,Gift Card,0.00
+2363,2023-12-11,C706,Yoga Mat,Fitness,94.08,5,,Debit Card,10.00
+2041,2023-12-11,C872,Jump Rope,Fitness,163.95,5,0.0,Gift Card,5.00
+3397,2023-12-11,C862,Foam Roller,Fitness,147.22,5,0.0,Debit Card,0.00
+3474,2023-12-11,C426,Wall Art,Home,130.81,3,0.05,Gift Card,0.00
+1335,2023-12-12,C948,Bluetooth Speaker,Electronics,198.55,4,0.2,Debit Card,0.00
+1570,2023-12-12,C844,Wall Art,Home,72.18,4,0.0,PayPal,5.00
+2206,2023-12-12,C715,Mechanical Keyboard,Electronics,171.03,4,0.2,PayPal,0.00
+2599,2023-12-12,C875,Mug,Home,38.10,2,0.1,Gift Card,12.40
+2643,2023-12-12,C772,External Hard Drive,Electronics,324.46,5,0.05,Gift Card,0.00
+2350,2023-12-12,C739,Dress Shirt,Apparel,138.35,1,0.1,Debit Card,10.00
+2037,2023-12-12,C315,Mechanical Keyboard,Electronics,27.58,2,0.05,Gift Card,14.44
+2370,2023-12-12,C862,Smartphone Case,Electronics,93.57,3,0.15,PayPal,10.00
+1008,2023-12-13,C785,Pasta,Groceries,20.22,1,0.0,Gift Card,4.21
+2267,2023-12-13,C141,Socks (3-Pack),Apparel,25.80,4,0.0,Gift Card,5.00
+2349,2023-12-13,C120,Rice,Groceries,12.28,3,0.15,Credit Card,5.13
+1770,2023-12-13,C932,Cotton T-Shirt,Apparel,107.65,2,0.0,Debit Card,0.00
+2917,2023-12-13,C480,Hat,Apparel,21.42,5,0.05,Gift Card,0.00
+1551,2023-12-13,C623,USB-C Cable,Electronics,62.94,3,0.0,Debit Card,0.00
+2930,2023-12-14,C643,Wireless Mouse,Electronics,139.20,5,0.0,Gift Card,0.00
+3151,2023-12-14,C226,Winter Jacket,Apparel,12.98,4,0.2,Credit Card,12.47
+2312,2023-12-14,C889,Wireless Mouse,Electronics,268.50,1,0.0,Debit Card,0.00
+3170,2023-12-14,C271,Running Shoes,Apparel,76.35,1,0.0,Gift Card,3.65
+1700,2023-12-14,C592,Rug,Home,67.99,2,0.0,PayPal,0.00
+2845,2023-12-14,C102,External Hard Drive,Electronics,199.11,4,0.0,Credit Card,0.00
+3156,2023-12-14,C457,Mechanical Keyboard,Electronics,485.25,3,,Debit Card,5.00
+1495,2023-12-14,C705,Rice,Groceries,27.25,4,0.0,Gift Card,5.00
+2662,2023-12-14,C603,Rug,Home,278.01,1,0.05,Credit Card,5.00
+2661,2023-12-14,C881,Protein Powder,Fitness,123.30,3,,Credit Card,5.00
+2835,2023-12-14,C276,Smart Watch,Electronics,459.23,3,0.0,Debit Card,5.00
+3425,2023-12-15,C246,Cotton T-Shirt,Apparel,95.16,3,0.0,Gift Card,5.00
+1150,2023-12-15,C728,Mechanical Keyboard,Electronics,176.97,2,0.1,PayPal,0.00
+1138,2023-12-15,C899,Olive Oil,Groceries,8.35,4,0.05,Credit Card,9.99
+2763,2023-12-15,C334,Cotton T-Shirt,Apparel,123.82,3,0.05,PayPal,0.00
+3498,2023-12-15,C341,Mechanical Keyboard,Electronics,117.83,4,0.05,Credit Card,10.00
+2314,2023-12-15,C800,Gym Bag,Fitness,109.56,2,0.05,Credit Card,10.00
+3260,2023-12-15,C808,Smartphone Case,Electronics,71.44,5,0.05,Gift Card,0.00
+2252,2023-12-16,C913,Mechanical Keyboard,Electronics,17.02,1,0.0,Gift Card,6.87
+2244,2023-12-16,C129,Treadmill,Fitness,15.41,4,,Debit Card,13.96
+1082,2023-12-16,C539,Winter Jacket,Apparel,38.81,1,0.1,Debit Card,7.39
+3211,2023-12-16,C815,Protein Powder,Fitness,172.63,3,0.2,Gift Card,5.00
+1450,2023-12-16,C478,Jump Rope,Fitness,158.68,2,0.1,Credit Card,0.00
+1152,2023-12-16,C778,Running Shoes,Apparel,57.12,3,0.0,Gift Card,5.00
+1098,2023-12-17,C748,Dumbbell Set,Fitness,86.54,3,0.15,Gift Card,10.00
+3330,2023-12-17,C111,Smart Watch,Electronics,388.63,3,0.0,Debit Card,0.00
+2875,2023-12-17,C687,Gym Bag,Fitness,145.16,3,0.05,Gift Card,0.00
+1782,2023-12-17,C464,Dumbbell Set,Fitness,10.59,4,0.15,Debit Card,3.31
+3070,2023-12-17,C291,Shorts,Apparel,111.97,1,0.0,Credit Card,0.00
+2218,2023-12-17,C499,Rug,Home,86.21,5,0.0,Credit Card,0.00
+2502,2023-12-18,C364,Wall Art,Home,268.41,3,0.0,Debit Card,0.00
+2299,2023-12-18,C451,Smart Watch,Electronics,184.03,4,0.0,Debit Card,0.00
+1408,2023-12-18,C458,Blender,Home,18.22,2,0.0,Credit Card,6.69
+2552,2023-12-18,C287,Mug,Home,243.11,2,,PayPal,5.00
+1938,2023-12-18,C753,Almonds,Groceries,6.00,5,0.0,PayPal,13.74
+2423,2023-12-18,C867,Running Shoes,Apparel,41.61,4,0.05,Debit Card,5.00
+1993,2023-12-18,C546,Bookshelf,Home,244.25,2,0.0,Debit Card,0.00
+1524,2023-12-18,C519,Throw Pillow,Home,133.14,5,0.05,Debit Card,0.00
+1981,2023-12-19,C359,Cotton T-Shirt,Apparel,125.88,3,0.15,Gift Card,0.00
+2018,2023-12-19,C784,Wireless Mouse,Electronics,406.90,1,0.0,Credit Card,0.00
+1095,2023-12-19,C399,Smart Watch,Electronics,476.67,5,0.05,Credit Card,0.00
+3335,2023-12-19,C750,Running Shoes,Apparel,51.10,4,0.15,PayPal,0.00
+3479,2023-12-19,C516,Honey,Groceries,3.46,2,0.1,Credit Card,11.76
+1608,2023-12-19,C824,Rug,Home,194.08,3,0.0,Credit Card,0.00
+1853,2023-12-20,C770,Resistance Bands,Fitness,143.89,1,,PayPal,0.00
+2415,2023-12-20,C860,Laptop Stand,Electronics,53.32,3,0.0,Debit Card,0.00
+1208,2023-12-20,C951,Winter Jacket,Apparel,60.11,4,0.0,Gift Card,10.00
+1776,2023-12-20,C850,Jeans,Apparel,62.45,2,0.0,Credit Card,0.00
+1889,2023-12-20,C815,Oats,Groceries,14.11,3,0.05,Credit Card,6.44
+2277,2023-12-20,C354,Wireless Mouse,Electronics,169.01,3,0.0,PayPal,5.00
+1434,2023-12-20,C873,Desk Lamp,Home,230.77,2,0.0,Gift Card,0.00
+3134,2023-12-20,C761,Treadmill,Fitness,33.04,4,,Credit Card,0.00
+2718,2023-12-20,C192,Dress Shirt,Apparel,46.73,2,0.05,PayPal,3.29
+1864,2023-12-21,C386,Wireless Mouse,Electronics,273.32,5,0.1,Gift Card,10.00
+2201,2023-12-21,C834,Cotton T-Shirt,Apparel,147.11,3,0.0,Debit Card,5.00
+2910,2023-12-21,C997,Dark Chocolate,Groceries,24.33,5,0.15,Debit Card,0.00
+3110,2023-12-21,C336,Hat,Apparel,14.24,2,0.0,Credit Card,13.49
+2067,2023-12-22,C546,USB-C Cable,Electronics,353.06,2,0.05,Credit Card,0.00
+2605,2023-12-22,C628,Mechanical Keyboard,Electronics,208.54,5,0.0,PayPal,0.00
+2229,2023-12-22,C511,Desk Lamp,Home,192.75,4,,Debit Card,0.00
+3200,2023-12-22,C401,Smartphone Case,Electronics,56.40,5,0.05,PayPal,0.00
+1661,2023-12-22,C457,Wireless Mouse,Electronics,214.61,5,0.0,PayPal,5.00
+1614,2023-12-23,C728,Webcam,Electronics,55.54,5,0.0,Debit Card,0.00
+1308,2023-12-23,C488,Bookshelf,Home,118.06,3,0.0,PayPal,0.00
+3072,2023-12-23,C651,Socks (3-Pack),Apparel,44.63,1,0.0,Gift Card,14.48
+2987,2023-12-23,C447,Wall Art,Home,167.41,4,0.0,Debit Card,5.00
+1677,2023-12-23,C317,Wall Art,Home,95.17,2,0.05,PayPal,0.00
+2402,2023-12-23,C923,Bluetooth Speaker,Electronics,108.07,5,0.0,Debit Card,5.00
+1780,2023-12-23,C634,Kettlebell,Fitness,124.57,3,0.0,PayPal,0.00
+1543,2023-12-23,C616,Water Bottle,Fitness,79.63,5,0.05,Credit Card,0.00
+1601,2023-12-23,C369,Throw Pillow,Home,162.34,4,0.0,Gift Card,5.00
+1033,2023-12-24,C891,Bookshelf,Home,82.52,2,0.05,Gift Card,0.00
+2102,2023-12-24,C418,Coffee Maker,Home,25.41,5,0.15,PayPal,0.00
+2165,2023-12-24,C543,Pasta,Groceries,18.41,3,0.05,Debit Card,11.33
+2860,2023-12-24,C105,Foam Roller,Fitness,80.02,2,0.1,PayPal,0.00
+1915,2023-12-24,C380,Socks (3-Pack),Apparel,132.33,4,0.05,PayPal,0.00
+1756,2023-12-25,C610,Mechanical Keyboard,Electronics,194.12,1,0.1,Gift Card,5.00
+2020,2023-12-25,C672,Dumbbell Set,Fitness,93.39,4,0.05,Debit Card,5.00
+3224,2023-12-25,C345,Running Shoes,Apparel,109.89,5,0.2,Debit Card,0.00
+2383,2023-12-25,C498,Jump Rope,Fitness,145.26,3,0.0,Debit Card,0.00
+2291,2023-12-25,C688,Water Bottle,Fitness,127.57,4,0.0,Debit Card,0.00
+1471,2023-12-26,C745,Rug,Home,39.19,4,0.0,Debit Card,0.00
+1841,2023-12-26,C831,Webcam,Electronics,255.91,4,0.2,Credit Card,0.00
+2610,2023-12-26,C850,Mechanical Keyboard,Electronics,278.26,4,0.15,Debit Card,0.00
+1081,2023-12-26,C514,Coffee Maker,Home,197.54,4,0.1,Debit Card,0.00
+1024,2023-12-26,C567,Wall Art,Home,146.78,3,0.0,Credit Card,5.00
+2874,2023-12-26,C540,Desk Lamp,Home,16.31,4,0.1,Credit Card,13.53
+1990,2023-12-26,C390,Gym Bag,Fitness,136.41,5,0.0,PayPal,0.00
+2530,2023-12-26,C954,Rug,Home,90.44,1,0.05,PayPal,7.74
+1878,2023-12-26,C611,Throw Pillow,Home,246.06,1,0.15,Debit Card,5.00
+3195,2023-12-27,C688,Throw Pillow,Home,95.76,3,0.0,Debit Card,5.00
+1061,2023-12-27,C902,Table Lamp,Home,105.25,1,,PayPal,0.00
+2225,2023-12-27,C547,Dark Chocolate,Groceries,26.57,3,0.0,PayPal,10.61
+2689,2023-12-27,C375,Treadmill,Fitness,153.56,4,0.05,Gift Card,0.00
+1385,2023-12-27,C482,Webcam,Electronics,250.81,2,0.0,Gift Card,5.00
+2126,2023-12-28,C222,Wireless Mouse,Electronics,163.98,5,0.15,Credit Card,0.00
+1988,2023-12-28,C395,Smart Watch,Electronics,17.64,1,0.1,Credit Card,3.64
+1663,2023-12-28,C252,Treadmill,Fitness,26.97,5,0.0,Debit Card,10.00
+2989,2023-12-28,C292,External Hard Drive,Electronics,339.34,5,0.0,Credit Card,0.00
+2174,2023-12-28,C390,Rug,Home,297.06,4,0.0,Credit Card,0.00
+1428,2023-12-28,C456,Coffee Maker,Home,159.77,4,0.1,PayPal,0.00
+1907,2023-12-29,C977,Coffee Maker,Home,140.64,5,0.2,PayPal,0.00
+1519,2023-12-29,C185,Sneakers,Apparel,104.79,1,0.0,Gift Card,0.00
+2865,2023-12-29,C481,Cotton T-Shirt,Apparel,54.65,5,0.1,Debit Card,0.00
+3467,2023-12-29,C407,Mechanical Keyboard,Electronics,177.09,4,0.05,Credit Card,5.00
+1804,2023-12-29,C198,Sneakers,Apparel,35.15,1,0.05,PayPal,10.12
+2822,2023-12-29,C379,Dress Shirt,Apparel,120.95,2,0.0,Debit Card,5.00
+1232,2023-12-29,C773,Bookshelf,Home,158.67,4,0.05,Debit Card,0.00
+3279,2023-12-30,C718,Smartphone Case,Electronics,120.18,4,0.2,Gift Card,0.00
+2707,2023-12-30,C560,Socks (3-Pack),Apparel,51.81,2,0.1,PayPal,10.00
+2109,2023-12-30,C438,Olive Oil,Groceries,7.43,4,,Gift Card,5.15
+3223,2023-12-30,C130,Webcam,Electronics,34.97,5,0.05,Credit Card,5.00
+3215,2023-12-30,C984,Bluetooth Speaker,Electronics,160.72,3,0.15,Gift Card,0.00
+1856,2023-12-31,C529,Hat,Apparel,120.72,2,0.05,Debit Card,0.00
+3222,2023-12-31,C934,Jump Rope,Fitness,47.25,3,,Debit Card,0.00
+2505,2023-12-31,C363,Mechanical Keyboard,Electronics,281.96,2,0.0,Debit Card,10.00
+2950,2023-12-31,C933,Smart Watch,Electronics,328.83,5,0.1,Debit Card,10.00
+2519,2023-12-31,C229,Gaming Monitor,Electronics,148.41,3,0.05,Gift Card,0.00
+1649,2024-01-01,C665,Sweater,Apparel,115.99,2,,PayPal,0.00
+3208,2024-01-01,C917,Blender,Home,289.75,3,0.0,Debit Card,0.00
+2815,2024-01-01,C514,Protein Powder,Fitness,172.31,2,0.0,PayPal,0.00
+1210,2024-01-01,C192,Dumbbell Set,Fitness,147.48,1,0.05,Gift Card,10.00
+2979,2024-01-01,C495,Smart Watch,Electronics,397.47,1,0.0,Credit Card,5.00
+3445,2024-01-01,C881,Webcam,Electronics,468.04,4,0.15,Debit Card,0.00
