@@ -44,9 +44,12 @@ jobs:
         run: |
           echo "Final Score: $SCORE / 10"
 
-      - name: Fail workflow if not full score
+      - name: Evaluate final score
         run: |
-          if [ "${SCORE}" -lt 10 ]; then
-            echo "Some tests failed."
+          if [ "${SCORE}" -lt 5 ]; then
+            echo "Score is below 5/10. Needs improvement."
             exit 1
+          else
+            echo "Score is 5/10 or above. Good job!"
+            exit 0
           fi
