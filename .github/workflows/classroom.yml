@@ -118,7 +118,7 @@ jobs:
           max-score: 1
 
       - name: Autograding Reporter
-        uses: classroom-resources/autograding-reporter@v1
+        uses: classroom-resources/autograding-grading-reporter@v1
         env:
           DF_SHAPE_RESULTS: "${{steps.test-1.outputs.result}}"
           DF_DESCRIBE_RESULTS: "${{steps.test-2.outputs.result}}"
