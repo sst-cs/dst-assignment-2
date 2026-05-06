@@ -117,18 +117,35 @@ jobs:
           timeout: 10
           max-score: 1
 
+      - name: Package Results
+        id: package
+        run: |
+          # Aggregate results from all 10 tests into a single package
+          # We do it manually to ensure maximum compatibility with the runner
+          SCORE1=$(echo "${{steps.test-1.outputs.result}}" | base64 -d | jq '.score')
+          SCORE2=$(echo "${{steps.test-2.outputs.result}}" | base64 -d | jq '.score')
+          SCORE3=$(echo "${{steps.test-3.outputs.result}}" | base64 -d | jq '.score')
+          SCORE4=$(echo "${{steps.test-4.outputs.result}}" | base64 -d | jq '.score')
+          SCORE5=$(echo "${{steps.test-5.outputs.result}}" | base64 -d | jq '.score')
+          SCORE6=$(echo "${{steps.test-6.outputs.result}}" | base64 -d | jq '.score')
+          SCORE7=$(echo "${{steps.test-7.outputs.result}}" | base64 -d | jq '.score')
+          SCORE8=$(echo "${{steps.test-8.outputs.result}}" | base64 -d | jq '.score')
+          SCORE9=$(echo "${{steps.test-9.outputs.result}}" | base64 -d | jq '.score')
+          SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.score')
+          
+          TOTAL=$((SCORE1 + SCORE2 + SCORE3 + SCORE4 + SCORE5 + SCORE6 + SCORE7 + SCORE8 + SCORE9 + SCORE10))
+          
+          STATUS="fail"
+          if [ "$TOTAL" -eq 10 ]; then STATUS="pass"; fi
+
+          # Create the final package
+          JSON="{\"test_name\":\"DST Assignment 2\",\"status\":\"$STATUS\",\"max_score\":10,\"score\":$TOTAL,\"tests\":[{\"name\":\"DST Assignment 2\",\"status\":\"$STATUS\",\"score\":$TOTAL,\"max_score\":10}],\"output\":\"Detailed logs are available in the Actions tab.\"}"
+          B64=$(echo -n "$JSON" | base64 -w 0)
+          echo "result=$B64" >> $GITHUB_OUTPUT
+
       - name: Autograding Reporter
         uses: classroom-resources/autograding-grading-reporter@v1
         env:
-          TEST-1_RESULTS: "${{steps.test-1.outputs.result}}"
-          TEST-2_RESULTS: "${{steps.test-2.outputs.result}}"
-          TEST-3_RESULTS: "${{steps.test-3.outputs.result}}"
-          TEST-4_RESULTS: "${{steps.test-4.outputs.result}}"
-          TEST-5_RESULTS: "${{steps.test-5.outputs.result}}"
-          TEST-6_RESULTS: "${{steps.test-6.outputs.result}}"
-          TEST-7_RESULTS: "${{steps.test-7.outputs.result}}"
-          TEST-8_RESULTS: "${{steps.test-8.outputs.result}}"
-          TEST-9_RESULTS: "${{steps.test-9.outputs.result}}"
-          TEST-10_RESULTS: "${{steps.test-10.outputs.result}}"
+          GRADER_RESULTS: "${{steps.package.outputs.result}}"
         with:
-          runners: test-1,test-2,test-3,test-4,test-5,test-6,test-7,test-8,test-9,test-10
+          runners: grader
