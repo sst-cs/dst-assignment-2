@@ -121,17 +121,17 @@ jobs:
         id: package
         run: |
           # Aggregate results from all 10 tests into a single package
-          # We do it manually to ensure maximum compatibility with the runner
-          SCORE1=$(echo "${{steps.test-1.outputs.result}}" | base64 -d | jq '.score')
-          SCORE2=$(echo "${{steps.test-2.outputs.result}}" | base64 -d | jq '.score')
-          SCORE3=$(echo "${{steps.test-3.outputs.result}}" | base64 -d | jq '.score')
-          SCORE4=$(echo "${{steps.test-4.outputs.result}}" | base64 -d | jq '.score')
-          SCORE5=$(echo "${{steps.test-5.outputs.result}}" | base64 -d | jq '.score')
-          SCORE6=$(echo "${{steps.test-6.outputs.result}}" | base64 -d | jq '.score')
-          SCORE7=$(echo "${{steps.test-7.outputs.result}}" | base64 -d | jq '.score')
-          SCORE8=$(echo "${{steps.test-8.outputs.result}}" | base64 -d | jq '.score')
-          SCORE9=$(echo "${{steps.test-9.outputs.result}}" | base64 -d | jq '.score')
-          SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.score')
+          # Fixed: Access score from the .tests[0].score field as provided by the grader
+          SCORE1=$(echo "${{steps.test-1.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE2=$(echo "${{steps.test-2.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE3=$(echo "${{steps.test-3.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE4=$(echo "${{steps.test-4.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE5=$(echo "${{steps.test-5.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE6=$(echo "${{steps.test-6.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE7=$(echo "${{steps.test-7.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE8=$(echo "${{steps.test-8.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE9=$(echo "${{steps.test-9.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
           
           TOTAL=$((SCORE1 + SCORE2 + SCORE3 + SCORE4 + SCORE5 + SCORE6 + SCORE7 + SCORE8 + SCORE9 + SCORE10))
           
