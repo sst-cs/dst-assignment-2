@@ -161,6 +161,7 @@ jobs:
 
       - name: Autograding Reporter
         uses: education/autograding-grading-reporter@v1
+        continue-on-error: true
         env:
           PACKAGE_RESULTS: "${{steps.package.outputs.result}}"
         with:
