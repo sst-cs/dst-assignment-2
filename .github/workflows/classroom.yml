@@ -150,19 +150,20 @@ jobs:
           SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
           
           TOTAL=$((SCORE1 + SCORE2 + SCORE3 + SCORE4 + SCORE5 + SCORE6 + SCORE7 + SCORE8 + SCORE9 + SCORE10))
+          echo "Calculated Total Score: $TOTAL"
           
-          STATUS="pass"
-          if [ "$TOTAL" -eq 0 ]; then STATUS="fail"; fi
-
-          # Standardized JSON structure for GitHub Classroom Dashboard
-          JSON="{\"test_name\":\"DST Assignment 2\",\"status\":\"$STATUS\",\"max_score\":10,\"score\":$TOTAL,\"tests\":[{\"name\":\"DST Assignment 2 Tests\",\"status\":\"$STATUS\",\"score\":$TOTAL,\"max_score\":10}]}"
-          B64=$(echo -n "$JSON" | base64 -w 0)
-          echo "result=$B64" >> $GITHUB_OUTPUT
+          # Generate 10 virtual runners to represent partial credit (1 point each)
+          for i in $(seq 1 10); do
+            STATUS="fail"
+            SCORE=0
+            if [ $i -le $TOTAL ]; then STATUS="pass"; SCORE=1; fi
+            JSON="{\"version\":1,\"status\":\"$STATUS\",\"max_score\":1, \"tests\":[{\"name\":\"Requirement $i\",\"status\":\"$STATUS\",\"score\":$SCORE,\"max_score\":1}]}"
+            B64=$(echo -n "$JSON" | base64 -w 0)
+            echo "R${i}_RESULTS=$B64" >> $GITHUB_ENV
+          done
 
       - name: Autograding Reporter
         uses: education/autograding-grading-reporter@v1
         continue-on-error: true
-        env:
-          PACKAGE_RESULTS: "${{steps.package.outputs.result}}"
         with:
-          runners: package
+          runners: r1,r2,r3,r4,r5,r6,r7,r8,r9,r10
