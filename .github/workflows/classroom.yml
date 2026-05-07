@@ -36,6 +36,7 @@ jobs:
       - name: DF Shape Test
         id: test-1
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'df_shape'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "df_shape"'
@@ -45,6 +46,7 @@ jobs:
       - name: DF Describe Test
         id: test-2
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'df_describe'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "df_describe"'
@@ -54,6 +56,7 @@ jobs:
       - name: Unique Categories Test
         id: test-3
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'unique_categories_count'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "unique_categories_count"'
@@ -63,6 +66,7 @@ jobs:
       - name: Missing Mask Test
         id: test-4
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'has_missing_mask'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "has_missing_mask"'
@@ -72,6 +76,7 @@ jobs:
       - name: Discount Filled Test
         id: test-5
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'discount_applied_filled'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "discount_applied_filled"'
@@ -81,6 +86,7 @@ jobs:
       - name: Gross Cost Array Test
         id: test-6
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'gross_cost_array'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "gross_cost_array"'
@@ -90,6 +96,7 @@ jobs:
       - name: Net Revenue Column Test
         id: test-7
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'net_revenue_column'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "net_revenue_column"'
@@ -99,6 +106,7 @@ jobs:
       - name: Category Stats Test
         id: test-8
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'category_stats'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "category_stats"'
@@ -108,6 +116,7 @@ jobs:
       - name: Payment Pivot Test
         id: test-9
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'payment_pivot'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "payment_pivot"'
@@ -117,6 +126,7 @@ jobs:
       - name: Premium Orders Test
         id: test-10
         uses: education/autograding-command-grader@v1
+        continue-on-error: true
         with:
           test-name: 'premium_orders'
           command: 'pytest hidden-tests/tests/test_assignment.py -k "premium_orders"'
@@ -127,23 +137,24 @@ jobs:
         id: package
         run: |
           # Aggregate results from all 10 tests into a single package
-          SCORE1=$(echo "${{steps.test-1.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE2=$(echo "${{steps.test-2.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE3=$(echo "${{steps.test-3.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE4=$(echo "${{steps.test-4.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE5=$(echo "${{steps.test-5.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE6=$(echo "${{steps.test-6.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE7=$(echo "${{steps.test-7.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE8=$(echo "${{steps.test-8.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE9=$(echo "${{steps.test-9.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
-          SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.tests[0].score // 0')
+          # Decodes result and handles both flat and nested JSON structures
+          SCORE1=$(echo "${{steps.test-1.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE2=$(echo "${{steps.test-2.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE3=$(echo "${{steps.test-3.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE4=$(echo "${{steps.test-4.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE5=$(echo "${{steps.test-5.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE6=$(echo "${{steps.test-6.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE7=$(echo "${{steps.test-7.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE8=$(echo "${{steps.test-8.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE9=$(echo "${{steps.test-9.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
+          SCORE10=$(echo "${{steps.test-10.outputs.result}}" | base64 -d | jq '.score // .points // (.tests[0].score) // (.tests[0].points) // 0')
           
           TOTAL=$((SCORE1 + SCORE2 + SCORE3 + SCORE4 + SCORE5 + SCORE6 + SCORE7 + SCORE8 + SCORE9 + SCORE10))
           
           STATUS="pass"
           if [ "$TOTAL" -eq 0 ]; then STATUS="fail"; fi
 
-          # Simplified JSON structure to fix table display bug
+          # Standardized JSON structure for GitHub Classroom Dashboard
           JSON="{\"test_name\":\"DST Assignment 2\",\"status\":\"$STATUS\",\"max_score\":10,\"score\":$TOTAL,\"tests\":[{\"name\":\"DST Assignment 2 Tests\",\"status\":\"$STATUS\",\"score\":$TOTAL,\"max_score\":10}]}"
           B64=$(echo -n "$JSON" | base64 -w 0)
           echo "result=$B64" >> $GITHUB_OUTPUT
@@ -151,6 +162,6 @@ jobs:
       - name: Autograding Reporter
         uses: education/autograding-grading-reporter@v1
         env:
-          GRADER_RESULTS: "${{steps.package.outputs.result}}"
+          PACKAGE_RESULTS: "${{steps.package.outputs.result}}"
         with:
-          runners: grader
+          runners: package
